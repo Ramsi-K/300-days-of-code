@@ -1,6 +1,8 @@
 # 300-days-of-code
 This repository is a 300-day coding challenge focused on vision technologies.  The repository serves as a comprehensive log of the journey, providing insights into the progress and evolution of skills.
 
+[Jump to Daily Tasks Table](#daily-tasks)
+
 # Coding Journey
 
 Welcome to my 300-day coding challenge focused on vision technologies! This repository documents my daily coding efforts in the realm of computer vision, encompassing tasks such as semantic segmentation, object detection, classification, reinforcement learning, and GANs.
