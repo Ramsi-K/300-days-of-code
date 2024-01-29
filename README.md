@@ -11,9 +11,9 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### Basics of Reinforcement Learning on Custom Maze Environment
 
-- **Date**: 2024-01-29
+- **Date**: 2024-01-30
 
-- **Task Description**: Today's task involved tackling three LeetCode problems: "Two Sum," "Add Two Numbers," and "Median of Two Sorted Arrays." Through these challenges, I honed my problem-solving skills and algorithmic thinking, exploring different approaches to efficiently solve each problem and analyzing their time and space complexities. 
+- **Task Description**: Today's task involved implementing the Vision Transformer (ViT) model from scratch in PyTorch. Dive into the paper ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"](https://arxiv.org/abs/2010.11929) by Alexey Dosovitskiy et al., understand the architecture, and code each component, including patch embeddings, positional encodings, transformer encoder, and classification head. Finally, test the model on a sample dataset to ensure its correctness and functionality. 
 
 
 ## Purpose
@@ -41,10 +41,12 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       |
 |----|------------|--------------------------------------------------------|
-| 1  | 2024-01-27 | [MDP basics exploration](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Basics_of_Markov_Decision_Process.ipynb) on custom Maze env with random policy exploration.|
-| 2  | 2024-01-28 | Explored [classic control tasks](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Classic_Control_exploration.ipynb); studied MDP, TD, Monte Carlo, [Q-Learning](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Q-learning/README.md) theory
+| 4  | 2024-01-30 | [Implementing Vision Transformer](https://github.com/Ramsi-K/paper-to-code/tree/main/ViT) (ViT) model from scratch in PyTorch. |
 | 3  | 2024-01-29 |   LeetCode problems:  [1-two-sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1-two-sum), [2-add-two-numbers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2-add-two-numbers), [4-median-of-two-sorted-arrays](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/4-median-of-two-sorted-arrays) |
-| 4  | 2024-01-30 |  |
+| 2  | 2024-01-28 | Explored [classic control tasks](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Classic_Control_exploration.ipynb); studied MDP, TD, Monte Carlo, [Q-Learning](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Q-learning/README.md) theory
+| 1  | 2024-01-27 | [MDP basics exploration](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Basics_of_Markov_Decision_Process.ipynb) on custom Maze env with random policy exploration.|
+
+
 | ...| ...        | ...                                                    |
 
 
