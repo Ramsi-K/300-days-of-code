@@ -13,7 +13,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 - **Date**: 2024-01-31
 
-- **Task Description**: Today's task involved setting up the project structure using Cookiecutter, finding a suitable dataset on Kaggle for the [Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). Conducted exploratory data analysis (EDA) to determine relevant classes. Utilized tools like DVC and WandB for data management and version control.
+- **Task Description**: Today's task in the [Video Classification](https://github.com/Ramsi-K/video-classification-tf) using TensorFlow project involved acquiring the [UCF101 dataset](https://www.crcv.ucf.edu/data/UCF101.php), performing data preprocessing to create a suitable subset, and training an EfficientNet_B0 model for video classification. The dataset offers a diverse range of actions captured in realistic settings, making it an ideal benchmark for evaluating classification models. By training the model on this dataset, we can develop an effective video classification system capable of accurately identifying various actions in videos.
 
 
 ## Purpose
@@ -41,6 +41,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       |
 |----|------------|--------------------------------------------------------|
+|6 | 2024-02-01| Explored datasets, structured project and trained EfficientNet_B0 model for [Video Classification](https://github.com/Ramsi-K/video-classification-tf)
 | 5 | 2024-01-31  | Explored datasets, conducted EDA, and structured project for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). 
 | 4  | 2024-01-29 | [Implementing Vision Transformer](https://github.com/Ramsi-K/paper-to-code/tree/main/ViT) (ViT) model from scratch in PyTorch. |
 | 3  | 2024-01-28 |   LeetCode problems:  [1-two-sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1-two-sum), [2-add-two-numbers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2-add-two-numbers), [4-median-of-two-sorted-arrays](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/4-median-of-two-sorted-arrays) |
