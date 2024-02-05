@@ -1,8 +1,7 @@
-# <center>300-days-of-code
+# <center>300 Days Of Code
 This repository is a 300-day coding challenge focused on vision technologies.  The repository serves as a comprehensive log of the journey, providing insights into the progress and evolution of skills.
 <br/><br/>
 **[<p align="right">Jump to Daily Task Table](#daily-tasks)**</p>
-
 
 
 # <center>Coding Journey
@@ -15,8 +14,8 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 |  |Project Title        | Description                            | Framework     |  Comments | |
 |---|:----------------------:|:---------------------------------------------:|:---------------:|----------:|----------|
-| 1 | Road Sign Classifier | Multiclass classification of road sign images    | Pytorch    |  Completed: Achieved 90% accuracy on test set. |🟢|
-| 2 | Human Action Recognition | Video based multiclass classification of human actions            | TensorFlow    |  In Progress: Currently fine-tuning model hyperparameters. |🟢| 
+| 1 | Road Sign Classifier | Multiclass classification of road sign images    | Pytorch    |   |🟢|
+| 2 | Human Action Recognition | Video based multiclass classification of human actions            | TensorFlow    |  In Progress: training baseline models |🟢| 
 
 *🟠 : To Do
 🟢 : In Progress
@@ -55,6 +54,7 @@ The primary objectives of this coding journey are:
 ## <center>Daily Tasks
 
 Here's a log of the daily tasks completed during the coding challenge:
+<br/><br/>
 
 | Day | Date       | Task Description                                       | Tags|
 |----|------------|:--------------------------------------------------------:|-------|
