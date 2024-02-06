@@ -26,11 +26,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### LeetCode Array Problems
+### Hugging Face's Deep Reinforcement Learning Course
 
-**<p align="right">2024-02-03</p>**
+**<p align="right">2024-02-06</p>**
 
-- **Task Description**: Today's task involved solving some LeetCode array problems. I solved [11-container-with-most-water](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/11-container-with-most-water) and [26-remove-duplicates-from-sorted-array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/26-remove-duplicates-from-sorted-array). My general feeling of LeetCode is that it is a terribly formatted resource. I find the way the questions are phrased to be purposefully unintuitive. I also do not like the white background theme. For [26-remove-duplicates-from-sorted-array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/26-remove-duplicates-from-sorted-array) why can we not simply return the length of the set of the list. Ridiculous! I have a nasty cold so maybe that's why I have no patience.
+- **Task Description**: Completed units 4, 5, and 6 of [Hugging Face's RL course](https://github.com/huggingface/deep-rl-class), focusing on policy gradient methods, actor-critic, and Unity ML agents. Currently tackling diverse environments like PixelCopter, CartPole, SnowballTarget, Pyramids, and PandaGym.
 <br/><br/>
 ## <center>Purpose
 
@@ -58,6 +58,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|------------|:--------------------------------------------------------:|-------|
+|8| 2024-02-06 | [Hugging Face RL course](https://github.com/huggingface/deep-rl-class) completed units 4, 5 and 6. | RL
 |7 | 2024-02-03| LeetCode problems: [11-container-with-most-water](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/11-container-with-most-water) and [26-remove-duplicates-from-sorted-array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/26-remove-duplicates-from-sorted-array) | DSA
 |6 | 2024-02-01| Explored datasets, structured project and trained EfficientNet_B0 model for [MultiClass Human Action Classification](https://github.com/Ramsi-K/video-classification-tf) from **video data** | DL
 | 5 | 2024-01-31  | Explored datasets, conducted EDA, and structured project for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL
