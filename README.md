@@ -1,13 +1,13 @@
 # <center>300 Days Of Code
 This repository is a 300-day coding challenge focused on vision technologies.  The repository serves as a comprehensive log of the journey, providing insights into the progress and evolution of skills.
-<br/><br/>
+<br>
 **[<p align="right">Jump to Daily Task Table](#daily-tasks)**</p>
 
 
 # <center>Coding Journey
 
 Welcome to my 300-day coding challenge focused on vision technologies! This repository documents my daily coding efforts in the realm of computer vision, encompassing tasks such as semantic segmentation, object detection, classification, reinforcement learning, and GANs. I will also be solving DSA problems from LeetCode on some days to improve my python skills. The 300 days would also include some general python based projects to showcase and improve my skills. The goal is to actively code for at least 1 hour a day for 300 days in the year 2024.
-<br/><br/>
+<br><br>
 
 ## <center>Projects Undertaken
 
@@ -28,9 +28,9 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### Hugging Face's Deep Reinforcement Learning Course
 
-**<p align="right">2024-02-06</p>**
+**<p align="right">2024-02-07</p>**
 
-- **Task Description**: Completed units 4, 5, and 6 of [Hugging Face's RL course](https://github.com/huggingface/deep-rl-class), focusing on policy gradient methods, actor-critic, and Unity ML agents. Currently tackling diverse environments like PixelCopter, CartPole, SnowballTarget, Pyramids, and PandaGym.
+- **Task Description**: Completed units 7, 8a, 8b and advanced topics of [Hugging Face's RL course](https://github.com/huggingface/deep-rl-class), focusing on multi-agent applications, PPO from scratch, PPO (clipped) and CleanRL version on the [Doom (VizDoom)](https://vizdoom.cs.put.edu.pl/) environment.
 <br/><br/>
 ## <center>Purpose
 
@@ -58,6 +58,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|------------|:--------------------------------------------------------:|-------|
+|9| 2024-02-07 | [Hugging Face RL course](https://github.com/huggingface/deep-rl-class) completed units 7, 8a, 8b and advanced topics. Certificate 
 |8| 2024-02-06 | [Hugging Face RL course](https://github.com/huggingface/deep-rl-class) completed units 4, 5 and 6. | RL
 |7 | 2024-02-03| LeetCode problems: [11-container-with-most-water](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/11-container-with-most-water) and [26-remove-duplicates-from-sorted-array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/26-remove-duplicates-from-sorted-array) | DSA
 |6 | 2024-02-01| Explored datasets, structured project and trained EfficientNet_B0 model for [MultiClass Human Action Classification](https://github.com/Ramsi-K/video-classification-tf) from **video data** | DL
