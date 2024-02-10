@@ -25,9 +25,9 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch)
 
-**<p align="right">2024-02-09</p>**
+**<p align="right">2024-02-10</p>**
 
-- **Task Description**: Today I worked on building reproducible pipelines for dataset manipulation as well as training scripts in Pytorch. I wrote the scripts for building dataframes, making dataset, making dataloader, custom data loader, and multiple step scripts for training and model building.
+- **Task Description**: Today I trained two models on the ViT architecture. One from scratch and the second using transfer learning.
 <br/><br/>
 
 ## <center>Purpose
@@ -58,7 +58,8 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|------------|:--------------------------------------------------------:|-------|
-|10| 2024-02-09| Built pipelines for dataset manipulation and training in Pytorch for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL
+|11| 2024-02-10| Trained two models in Pytorch on the ViT architecture for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL|
+|10| 2024-02-09| Built pipelines for dataset manipulation and training in Pytorch for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL|
 |9| 2024-02-07 | [Hugging Face RL course](https://github.com/huggingface/deep-rl-class) completed units 7, 8a, 8b and advanced topics. [Certificate](https://github.com/Ramsi-K/reinforcement-learning/blob/main/images/HFDRL-cert.png?raw=true) | RL |
 |8| 2024-02-06 | [Hugging Face RL course](https://github.com/huggingface/deep-rl-class) completed units 4, 5 and 6. | RL |
 |7 | 2024-02-03| LeetCode problems: [11-container-with-most-water](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/11-container-with-most-water) and [26-remove-duplicates-from-sorted-array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/26-remove-duplicates-from-sorted-array) | DSA |
