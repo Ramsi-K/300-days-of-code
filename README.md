@@ -23,11 +23,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### Reinforcement Learning - Agent plays Snake
+### [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML)
 
-**<p align="right">2024-02-12</p>**
+**<p align="right">2024-02-13</p>**
 
-- **Task Description**: Today I trained an agent to play the game of Snake. First I coded the Snake game in python and then using Pytorch built a Linear 2 layer model to play the game. At 100 episodes the agent reached an average score of 12.
+- **Task Description**: Today I experimented with basic core, geometry and visualization Open3D functionalities for 3D data manipulation and analysis on Google Colab [notebooks]((https://github.com/Ramsi-K/open3d_e)). 
 <br/><br/>
 
 ## <center>Purpose
@@ -57,16 +57,17 @@ Here's a log of the daily tasks completed during the coding challenge:
 <br/><br/>
 
 | Day | Date       | Task Description                                       | Tags|
-|----|------------|:--------------------------------------------------------:|-------|
+|----|----------------|:--------------------------------------------------------:|-------|
+|13|<div style="white-space: nowrap;"> 2024-02-13| Explored the [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML) packages and performed data loading, tranformation and visualization tasks. | <div style="white-space: nowrap;">DL 3D|
 |12| 2024-02-12| Trained a simple 2 layer model to play the classic [Snake](https://github.com/Ramsi-K/reinforcement-learning) game in Pytorch | RL|
-|11| 2024-02-10| Trained two models in Pytorch on the ViT architecture for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL|
-|10| 2024-02-09| Built pipelines for dataset manipulation and training in Pytorch for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL|
+|11| 2024-02-10| Trained two models in Pytorch on the ViT architecture for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL 2D|
+|10| 2024-02-09| Built pipelines for dataset manipulation and training in Pytorch for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL 2D|
 |9| 2024-02-07 | [Hugging Face RL course](https://github.com/huggingface/deep-rl-class) completed units 7, 8a, 8b and advanced topics. [Certificate](https://github.com/Ramsi-K/reinforcement-learning/blob/main/images/HFDRL-cert.png?raw=true) | RL |
 |8| 2024-02-06 | [Hugging Face RL course](https://github.com/huggingface/deep-rl-class) completed units 4, 5 and 6. | RL |
 |7 | 2024-02-03| LeetCode problems: [11-container-with-most-water](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/11-container-with-most-water) and [26-remove-duplicates-from-sorted-array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/26-remove-duplicates-from-sorted-array) | DSA |
-|6 | 2024-02-01| Explored datasets, structured project and trained EfficientNet_B0 model for [MultiClass Human Action Classification](https://github.com/Ramsi-K/video-classification-tf) from **video data** | DL |
-| 5 | 2024-01-31  | Explored datasets, conducted EDA, and structured project for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL |
-| 4  | 2024-01-29 | [Implementing Vision Transformer](https://github.com/Ramsi-K/paper-to-code/tree/main/ViT) (ViT) model from scratch in PyTorch. | DL |
+|6 | 2024-02-01| Explored datasets, structured project and trained EfficientNet_B0 model for [MultiClass Human Action Classification](https://github.com/Ramsi-K/video-classification-tf) from **video data** | DL 3D |
+| 5 | 2024-01-31  | Explored datasets, conducted EDA, and structured project for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL 2D|
+| 4  | 2024-01-29 | [Implementing Vision Transformer](https://github.com/Ramsi-K/paper-to-code/tree/main/ViT) (ViT) model from scratch in PyTorch. | DL 2D|
 | 3  | 2024-01-28 |   LeetCode problems:  [1-two-sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1-two-sum), [2-add-two-numbers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2-add-two-numbers), [4-median-of-two-sorted-arrays](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/4-median-of-two-sorted-arrays) | DSA|
 | 2  | 2024-01-27 | Explored [classic control tasks](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Classic_Control_exploration.ipynb); studied MDP, TD, Monte Carlo, [Q-Learning](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Q-learning/README.md) theory | RL|
 | 1  | 2024-01-26 | [MDP basics exploration](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Basics_of_Markov_Decision_Process.ipynb) on custom Maze env with random policy exploration.| RL|
@@ -76,7 +77,6 @@ Here's a log of the daily tasks completed during the coding challenge:
 Feel free to reach out, provide feedback, or collaborate on any aspect of the journey. Let's embark on this coding adventure together!
 
 Happy Coding! 🚀
-
 
 <!-- TODO Topics, Ideas, Tutorials
 **Topics to cover:** Segmentation, Object Detection, human pose, SLAM, GANs, Quantization, Pruning, Depth Analysis, Multi-Object Multi-Camera Tracking, 3D reconstruction, augmented reality?, Image Restoration, Image Enhancement, Optical Flow, Multi-View Geometry, Domain Adaptation, Anomaly Detection, 3D point clouds, OpenCV implementations
