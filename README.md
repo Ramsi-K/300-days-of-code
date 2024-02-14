@@ -23,11 +23,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML)
+### Semantic Segmentation with [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML)
 
-**<p align="right">2024-02-13</p>**
+**<p align="right">2024-02-14</p>**
 
-- **Task Description**: Today I experimented with basic core, geometry and visualization Open3D functionalities for 3D data manipulation and analysis on Google Colab [notebooks]((https://github.com/Ramsi-K/open3d_e)). 
+- **Task Description**: Trained a Semantic Segmentation model with [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML) packages with PyTorch on [SemanticKITTI](http://www.semantic-kitti.org/) dataset. 
 <br/><br/>
 
 ## <center>Purpose
@@ -58,6 +58,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|14|<div style="white-space: nowrap;"> 2024-02-14| Trained a Semantic Segmentation model with [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML) packages with PyTorch on [SemanticKITTI](http://www.semantic-kitti.org/) dataset | <div style="white-space: nowrap;">DL 3D|
 |13|<div style="white-space: nowrap;"> 2024-02-13| Explored the [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML) packages and performed data loading, tranformation and visualization tasks. | <div style="white-space: nowrap;">DL 3D|
 |12| 2024-02-12| Trained a simple 2 layer model to play the classic [Snake](https://github.com/Ramsi-K/reinforcement-learning) game in Pytorch | RL|
 |11| 2024-02-10| Trained two models in Pytorch on the ViT architecture for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL 2D|
