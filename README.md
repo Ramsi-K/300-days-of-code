@@ -23,11 +23,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### Semantic Segmentation with [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML)
+### [DCGAN from Scratch](https://github.com/Ramsi-K/paper-to-code/tree/main/DCGAN)
 
 **<p align="right">2024-02-14</p>**
 
-- **Task Description**: Trained a Semantic Segmentation model with [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML) packages with PyTorch on [SemanticKITTI](http://www.semantic-kitti.org/) dataset. 
+- **Task Description**: Trained [DCGAN model from scratch](https://github.com/Ramsi-K/paper-to-code/tree/main/DCGAN) using PyTorch on the MNIST dataset for 10 epochs. Implemented architectural guidelines outlined in the seminal [DCGAN paper](https://arxiv.org/abs/1511.06434), resulting in stable training and realistic [image generation](https://github.com/Ramsi-K/paper-to-code/blob/main/DCGAN/images/fig_1.png) capabilities. 
 <br/><br/>
 
 ## <center>Purpose
@@ -58,8 +58,9 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|14|<div style="white-space: nowrap;"> 2024-02-14| Trained a Semantic Segmentation model with [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML) packages with PyTorch on [SemanticKITTI](http://www.semantic-kitti.org/) dataset | <div style="white-space: nowrap;">DL 3D|
-|13|<div style="white-space: nowrap;"> 2024-02-13| Explored the [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML) packages and performed data loading, tranformation and visualization tasks. | <div style="white-space: nowrap;">DL 3D|
+|15| 2024-02-15| Wrote the [DCGAN model from scratch](https://github.com/Ramsi-K/paper-to-code/tree/main/DCGAN) in PyTorch and trained it on the MNIST dataset|<div style="white-space: nowrap;"> GANs|
+|14|2024-02-14| Trained a Semantic Segmentation model with [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML) packages with PyTorch on [SemanticKITTI](http://www.semantic-kitti.org/) dataset |DL 3D|
+|13|2024-02-13| Explored the [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML) packages and performed data loading, tranformation and visualization tasks. |DL 3D|
 |12| 2024-02-12| Trained a simple 2 layer model to play the classic [Snake](https://github.com/Ramsi-K/reinforcement-learning) game in Pytorch | RL|
 |11| 2024-02-10| Trained two models in Pytorch on the ViT architecture for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL 2D|
 |10| 2024-02-09| Built pipelines for dataset manipulation and training in Pytorch for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL 2D|
@@ -67,11 +68,11 @@ Here's a log of the daily tasks completed during the coding challenge:
 |8| 2024-02-06 | [Hugging Face RL course](https://github.com/huggingface/deep-rl-class) completed units 4, 5 and 6. | RL |
 |7 | 2024-02-03| LeetCode problems: [11-container-with-most-water](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/11-container-with-most-water) and [26-remove-duplicates-from-sorted-array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/26-remove-duplicates-from-sorted-array) | DSA |
 |6 | 2024-02-01| Explored datasets, structured project and trained EfficientNet_B0 model for [MultiClass Human Action Classification](https://github.com/Ramsi-K/video-classification-tf) from **video data** | DL 3D |
-| 5 | 2024-01-31  | Explored datasets, conducted EDA, and structured project for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | DL 2D|
+| 5 | 2024-01-31  | Explored datasets, conducted EDA, and structured project for [Multiclass Road Sign Classifier](https://github.com/Ramsi-K/multiclass-classification-pytorch). | <div style="white-space: nowrap;">DL 2D|
 | 4  | 2024-01-29 | [Implementing Vision Transformer](https://github.com/Ramsi-K/paper-to-code/tree/main/ViT) (ViT) model from scratch in PyTorch. | DL 2D|
 | 3  | 2024-01-28 |   LeetCode problems:  [1-two-sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1-two-sum), [2-add-two-numbers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2-add-two-numbers), [4-median-of-two-sorted-arrays](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/4-median-of-two-sorted-arrays) | DSA|
 | 2  | 2024-01-27 | Explored [classic control tasks](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Classic_Control_exploration.ipynb); studied MDP, TD, Monte Carlo, [Q-Learning](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Q-learning/README.md) theory | RL|
-| 1  | 2024-01-26 | [MDP basics exploration](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Basics_of_Markov_Decision_Process.ipynb) on custom Maze env with random policy exploration.| RL|
+| 1  | <div style="white-space: nowrap;">2024-01-26 | [MDP basics exploration](https://github.com/Ramsi-K/reinforcement-learning/blob/main/Basics_of_Markov_Decision_Process.ipynb) on custom Maze env with random policy exploration.| RL|
 
 ---
 <br/><br/>
