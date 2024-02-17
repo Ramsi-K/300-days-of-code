@@ -23,7 +23,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### [WGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/WGAN) and [WGAN-GP](https://github.com/Ramsi-K/paper-to-code/tree/main/WGAN-GP) from Scratch
+### [pix2pix](https://github.com/Ramsi-K/paper-to-code/tree/main/pix2pix) paper from Scratch in PyTorch
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -31,9 +31,9 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-02-16</p>**
+**<p align="right">2024-02-17</p>**
 
-- **Task Description**: Trained [WGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/WGAN) and [WGAN-GP](https://github.com/Ramsi-K/paper-to-code/tree/main/WGAN-GP) from Scratch using PyTorch on the MNIST dataset for 10 epochs. Implemented architectural guidelines outlined in the seminal [Wasserstein GAN](https://arxiv.org/abs/1701.07875) and [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028) papers, resulting in stable training.
+- **Task Description**: Trained [pix2pix](https://github.com/Ramsi-K/paper-to-code/tree/main/pix2pix) paper from scratch in PyTorch. Currently training for 500 epochs on the Maps Dataset. Implemented architectural guidelines outlined in the [Paper: Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004).
 <br/><br/>
 
 ## <center>Purpose
@@ -64,8 +64,9 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|15| 2024-02-16| Wrote the [WGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/WGAN) and [WGAN-GP](https://github.com/Ramsi-K/paper-to-code/tree/main/WGAN-GP) in PyTorch and trained them on the MNIST dataset|<div style="white-space: nowrap;"> GANs|
-|15| 2024-02-15| Wrote the [DCGAN model from scratch](https://github.com/Ramsi-K/paper-to-code/tree/main/DCGAN) in PyTorch and trained it on the MNIST dataset|<div style="white-space: nowrap;"> GANs|
+|17| 2024-02-17| Implemented the [pix2pix](https://github.com/Ramsi-K/paper-to-code/tree/main/pix2pix) paper from Scratch in PyTorch. Training for 500 epochs on the Maps Dataset| GANs|
+|16| 2024-02-16| Implemented the [WGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/WGAN) and [WGAN-GP](https://github.com/Ramsi-K/paper-to-code/tree/main/WGAN-GP) papers from scratch in PyTorch and trained them on the MNIST dataset| GANs|
+|15| 2024-02-15| Implemented the [DCGAN model from scratch](https://github.com/Ramsi-K/paper-to-code/tree/main/DCGAN) from scratch in PyTorch and trained on the MNIST dataset|<div style="white-space: nowrap;"> GANs|
 |14|2024-02-14| Trained a Semantic Segmentation model with [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML) packages with PyTorch on [SemanticKITTI](http://www.semantic-kitti.org/) dataset |DL 3D|
 |13|2024-02-13| Explored the [Open3D](https://github.com/isl-org/Open3D) and [Open3D-ML](https://github.com/isl-org/Open3D-ML) packages and performed data loading, tranformation and visualization tasks. |DL 3D|
 |12| 2024-02-12| Trained a simple 2 layer model to play the classic [Snake](https://github.com/Ramsi-K/reinforcement-learning) game in Pytorch | RL|
