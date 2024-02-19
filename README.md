@@ -33,7 +33,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 --------------------------------------------------------------------------------------------- -->
 **<p align="right">2024-02-18</p>**
 
-- **Task Description**: Trained Implemented the [CycleGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/CycleGAN) paper from Scratch in PyTorch. Implemented architectural guidelines outlined in the [Paper: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593). Currently training for 20 epochs on the cezanne2photo dataset.
+- **Task Description**: Trained Implemented the [CycleGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/CycleGAN) paper from Scratch in PyTorch. Implemented architectural guidelines outlined in the [Paper: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593). Trained on a car2damagedcar custom dataset for 150 epochs. See results [here](https://github.com/Ramsi-K/paper-to-code/tree/main/CycleGAN/car2damage_results_150epochs).
 <br/><br/>
 
 ## <center>Purpose
@@ -64,7 +64,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|18| 2024-02-18| Implemented the [CycleGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/CycleGAN) paper from Scratch in PyTorch. Training for 20 epochs on the cezanne2photo Dataset| GANs|
+|18| 2024-02-18| Implemented the [CycleGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/CycleGAN) paper from Scratch in PyTorch. Trained for 150 epochs on a custom car2damagedcar dataset| GANs|
 |17| 2024-02-17| Implemented the [pix2pix](https://github.com/Ramsi-K/paper-to-code/tree/main/pix2pix) paper from Scratch in PyTorch. Training for 500 epochs on the Maps Dataset| GANs|
 |16| 2024-02-16| Implemented the [WGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/WGAN) and [WGAN-GP](https://github.com/Ramsi-K/paper-to-code/tree/main/WGAN-GP) papers from scratch in PyTorch and trained them on the MNIST dataset| GANs|
 |15| 2024-02-15| Implemented the [DCGAN model from scratch](https://github.com/Ramsi-K/paper-to-code/tree/main/DCGAN) from scratch in PyTorch and trained on the MNIST dataset|<div style="white-space: nowrap;"> GANs|
