@@ -31,9 +31,9 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-02-19</p>**
+**<p align="right">2024-02-20</p>**
 
-- **Task Description**: Implementing the [ProGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/ProGAN) paper from Scratch in PyTorch. The paper is quite challenging.
+- **Task Description**: Finally finished implementing the [ProGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/ProGAN) paper from Scratch in PyTorch. Currently Training on the CelebA-HQ dataset! This one was so much more complex than the previous GANs papers I have been through. Even though it took me two days, and I will only be able to publish the results tomorrow, it was a lot of fun!
 <br/><br/>
 
 ## <center>Purpose
@@ -64,6 +64,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|20| 2024-02-20| Finished implementing the [ProGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/ProGAN) paper from Scratch in PyTorch. Currently Training on the CelebA-HQ dataset!| GANs|
 |19| 2024-02-19| Implementing the [ProGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/ProGAN) paper from Scratch in PyTorch.| GANs|
 |18| 2024-02-18| Implemented the [CycleGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/CycleGAN) paper from Scratch in PyTorch. Trained for 150 epochs on a custom car2damagedcar dataset| GANs|
 |17| 2024-02-17| Implemented the [pix2pix](https://github.com/Ramsi-K/paper-to-code/tree/main/pix2pix) paper from Scratch in PyTorch. Training for 500 epochs on the Maps Dataset| GANs|
