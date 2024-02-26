@@ -23,7 +23,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### Trained a couple of GANs from Scratch in PyTorch
+### Converting the [VQGAN paper](https://arxiv.org/abs/2012.09841) to code from scratch
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
