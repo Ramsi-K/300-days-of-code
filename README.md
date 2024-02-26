@@ -31,10 +31,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-02-24</p>**
+**<p align="right">2024-02-26</p>**
 
 - **Task Description**:
-Today, I focused on developing a [GAN model](https://github.com/Ramsi-K/GANs/blob/main/) that synthesizes images from textual descriptions. Leveraging the power of CLIP (Contrastive Language-Image Pretraining) and Taming Transformers, I integrated advanced natural language understanding with state-of-the-art image generation techniques.
+Today, I dedicated my efforts to coding the [VQGAN (Vector Quantized Variational Autoencoder Generative Adversarial Network) paper](https://arxiv.org/abs/2012.09841) to model from scratch. The task involves meticulously translating the intricate details outlined in the research paper into functional code, including defining the architecture, implementing the training loop, and incorporating techniques like vector quantization and adversarial training. It is a challenging yet rewarding task that will allow me to deepen my understanding of generative modeling and neural network architectures.
 <br/><br/>
 
 ## <center>Purpose
@@ -66,7 +66,8 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|23| 2024-02-24|Working on [multimodal GAN](https://github.com/Ramsi-K/GANs/blob/main/MultimodalGeneration.ipynb) architecture to generate image from text| GANs|
+|24| 2024-02-26| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from scratch| GANs|
+|23| 2024-02-24|Trained a [multimodal GAN](https://github.com/Ramsi-K/GANs/blob/main/MultimodalGeneration.ipynb) to generate image from text using pretrained CLIP ('ViT-B/32') and Taming Transformers (VQGAN) pretrained models| GANs|
 |22| 2024-02-23|Working on [multimodal GAN](https://github.com/Ramsi-K/GANs/blob/main/) architecture to generate image from text| GANs|
 |21| 2024-02-22| Trained a [basic GAN](https://github.com/Ramsi-K/GANs/blob/main/Basic%20GAN.ipynb) on the MNIST datasetand an [advanced GAN](https://github.com/Ramsi-K/GANs/blob/main/Advanced%20GAN.ipynb) architecture on the celebA dataset; WANDB tracking [here](https://wandb.ai/ramsik/wgan?workspace=user-ramsik)| GANs|
 |20| 2024-02-20| Finished implementing the [ProGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/ProGAN) paper from Scratch in PyTorch. Currently Training on the CelebA-HQ dataset!| GANs|
