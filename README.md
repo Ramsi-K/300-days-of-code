@@ -31,9 +31,9 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-02-22</p>**
+**<p align="right">2024-02-23</p>**
 
-- **Task Description**: Today I was working on more GANs. Trained a [basic GAN](https://github.com/Ramsi-K/GANs/blob/main/Basic%20GAN.ipynb) architecture on the MNIST dataset. Trained a more [advanced GAN](https://github.com/Ramsi-K/GANs/blob/main/Advanced%20GAN.ipynb) architecture on the celebA dataset. Using WANDB for experiment tracking, see the results [here](https://wandb.ai/ramsik/wgan?workspace=user-ramsik).
+- **Task Description**: Today I was working on more GANs. Writing a script for training a [multimodal GAN](https://github.com/Ramsi-K/GANs/blob/main/) architecture to generate image-from-text.
 <br/><br/>
 
 ## <center>Purpose
@@ -60,11 +60,13 @@ The primary objectives of this coding journey are:
 ## <center>Daily Tasks
 
 Here's a log of the daily tasks completed during the coding challenge:
+
 <br/><br/>
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|21| 2024-02-22| Trained a [basic GAN](https://github.com/Ramsi-K/GANs/blob/main/Basic%20GAN.ipynb) on the MNIST datasetand an [advanced GAN](https://github.com/Ramsi-K/GANs/blob/main/Advanced%20GAN.ipynb) architecture on the celebA dataset. WANDB tracking [here](https://wandb.ai/ramsik/wgan?workspace=user-ramsik).| GANs|
+|22| 2024-02-23|Working on [multimodal GAN](https://github.com/Ramsi-K/GANs/blob/main/) architecture to generate image from text| GANs|
+|21| 2024-02-22| Trained a [basic GAN](https://github.com/Ramsi-K/GANs/blob/main/Basic%20GAN.ipynb) on the MNIST datasetand an [advanced GAN](https://github.com/Ramsi-K/GANs/blob/main/Advanced%20GAN.ipynb) architecture on the celebA dataset; WANDB tracking [here](https://wandb.ai/ramsik/wgan?workspace=user-ramsik)| GANs|
 |20| 2024-02-20| Finished implementing the [ProGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/ProGAN) paper from Scratch in PyTorch. Currently Training on the CelebA-HQ dataset!| GANs|
 |19| 2024-02-19| Implementing the [ProGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/ProGAN) paper from Scratch in PyTorch.| GANs|
 |18| 2024-02-18| Implemented the [CycleGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/CycleGAN) paper from Scratch in PyTorch. Trained for 150 epochs on a custom car2damagedcar dataset| GANs|
