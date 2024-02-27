@@ -23,7 +23,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### Converting the [VQGAN paper](https://arxiv.org/abs/2012.09841) to code from scratch
+### Diffusion Models
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -31,10 +31,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-02-26</p>**
+**<p align="right">2024-02-27</p>**
 
 - **Task Description**:
-Today, I dedicated my efforts to coding the [VQGAN (Vector Quantized Variational Autoencoder Generative Adversarial Network) paper](https://arxiv.org/abs/2012.09841) to model from scratch. The task involves meticulously translating the intricate details outlined in the research paper into functional code, including defining the architecture, implementing the training loop, and incorporating techniques like vector quantization and adversarial training. It is a challenging yet rewarding task that will allow me to deepen my understanding of generative modeling and neural network architectures.
+Today's task involved editing the clothing appearance of a person in an image by combining segmentation architecture with the Stable Diffusion generative model. Initially, I experimented with segmentanything sam_vit_h and stabilityai/stable-diffusion-2-inpainting models. Later, I utilized openAI CLIP and clipseg models for segmentation, coupled with stabilityai/stable-diffusion-2-inpainting. Both approaches incorporated GPT-4 for text prompting, enhancing the editing capabilities and generating realistic results.
 <br/><br/>
 
 ## <center>Purpose
@@ -61,11 +61,12 @@ The primary objectives of this coding journey are:
 ## <center>Daily Tasks
 
 Here's a log of the daily tasks completed during the coding challenge:
-
+Editing person's clothes in image using segmentation and diffusion model
 <br/><br/>
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|25| 2024-02-27| Script for editing person's clothes in image using pretrained segmentation and diffusion models| Diffusion|
 |24| 2024-02-26| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from scratch| GANs|
 |23| 2024-02-24|Trained a [multimodal GAN](https://github.com/Ramsi-K/GANs/blob/main/MultimodalGeneration.ipynb) to generate image from text using pretrained CLIP ('ViT-B/32') and Taming Transformers (VQGAN) pretrained models| GANs|
 |22| 2024-02-23|Working on [multimodal GAN](https://github.com/Ramsi-K/GANs/blob/main/) architecture to generate image from text| GANs|
