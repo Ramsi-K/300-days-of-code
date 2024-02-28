@@ -23,7 +23,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### Diffusion Models
+### [VQGAN from scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN)
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -31,10 +31,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-02-27</p>**
+**<p align="right">2024-02-28</p>**
 
 - **Task Description**:
-Today's task involved editing the clothing appearance of a person in an image by combining segmentation architecture with the Stable Diffusion generative model. Initially, I experimented with [segmentanything sam_vit_h and stabilityai/stable-diffusion-2-inpainting](https://github.com/Ramsi-K/GANs/blob/main/DiffusionModels_InPainting.ipynb) models. Later, I utilized openAI CLIP and [clipseg models for segmentation, coupled with stabilityai/stable-diffusion-2-inpainting](https://github.com/Ramsi-K/GANs/blob/main/Diffusion%2BClipSeg_InPainting.ipynb). Both approaches incorporated GPT-4 for text prompting, enhancing the editing capabilities and generating realistic results.
+Implementing the [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN). Training the VQGAN model today and will work on the transformer tomorrow.
 <br/><br/>
 
 ## <center>Purpose
@@ -66,7 +66,8 @@ Editing person's clothes in image using segmentation and diffusion model
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|25| 2024-02-27| Scripts for editing person's clothes in image using pretrained segmentation and diffusion models: [1](https://github.com/Ramsi-K/GANs/blob/main/DiffusionModels_InPainting.ipynb) [2](https://github.com/Ramsi-K/GANs/blob/main/Diffusion%2BClipSeg_InPainting.ipynb) | Diffusion|
+|26| 2024-02-28| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN)| GANs|
+|25| 2024-02-27| Built scripts for editing person's clothes in image using pretrained segmentation and diffusion models: [1](https://github.com/Ramsi-K/GANs/blob/main/DiffusionModels_InPainting.ipynb) [2](https://github.com/Ramsi-K/GANs/blob/main/Diffusion%2BClipSeg_InPainting.ipynb) | Diffusion CLIP |
 |24| 2024-02-26| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from scratch| GANs|
 |23| 2024-02-24|Trained a [multimodal GAN](https://github.com/Ramsi-K/GANs/blob/main/MultimodalGeneration.ipynb) to generate image from text using pretrained CLIP ('ViT-B/32') and Taming Transformers (VQGAN) pretrained models| GANs|
 |22| 2024-02-23|Working on [multimodal GAN](https://github.com/Ramsi-K/GANs/blob/main/) architecture to generate image from text| GANs|
