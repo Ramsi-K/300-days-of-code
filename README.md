@@ -31,10 +31,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-02-28</p>**
+**<p align="right">2024-02-29</p>**
 
 - **Task Description**:
-Implementing the [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN). Training the VQGAN model today and will work on the transformer tomorrow.
+Implementing the [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN). Training the VQGAN model today and will train the transformer tomorrow. Spent some time debugging my vqgan_training script today, and as I'm training on my local machine, had some trial and error with config params. Going to train tonight and tomorrow I will train the transformer and complete this project. 
 <br/><br/>
 
 ## <center>Purpose
@@ -66,9 +66,10 @@ Editing person's clothes in image using segmentation and diffusion model
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|26| 2024-02-28| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN)| GANs|
+|27| 2024-02-29| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN). VQGAN debugging and scripting for transformer| GANs|
+|26| 2024-02-28| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN). Scripts for encoder-decoder as well as VQGAN arch.| GANs|
 |25| 2024-02-27| Built scripts for editing person's clothes in image using pretrained segmentation and diffusion models: [1](https://github.com/Ramsi-K/GANs/blob/main/DiffusionModels_InPainting.ipynb) [2](https://github.com/Ramsi-K/GANs/blob/main/Diffusion%2BClipSeg_InPainting.ipynb) | Diffusion CLIP |
-|24| 2024-02-26| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from scratch| GANs|
+|24| 2024-02-26| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from scratch. Understanding the paper and code repo, building skeleton.| GANs|
 |23| 2024-02-24|Trained a [multimodal GAN](https://github.com/Ramsi-K/GANs/blob/main/MultimodalGeneration.ipynb) to generate image from text using pretrained CLIP ('ViT-B/32') and Taming Transformers (VQGAN) pretrained models| GANs|
 |22| 2024-02-23|Working on [multimodal GAN](https://github.com/Ramsi-K/GANs/blob/main/) architecture to generate image from text| GANs|
 |21| 2024-02-22| Trained a [basic GAN](https://github.com/Ramsi-K/GANs/blob/main/Basic%20GAN.ipynb) on the MNIST datasetand an [advanced GAN](https://github.com/Ramsi-K/GANs/blob/main/Advanced%20GAN.ipynb) architecture on the celebA dataset; WANDB tracking [here](https://wandb.ai/ramsik/wgan?workspace=user-ramsik)| GANs|
