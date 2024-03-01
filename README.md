@@ -23,7 +23,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### [VQGAN from scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN)
+### Exploring [MESA](https://github.com/projectmesa/mesa) 
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -31,10 +31,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-02-29</p>**
+**<p align="right">2024-03-01</p>**
 
 - **Task Description**:
-Implementing the [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN). Training the VQGAN model today and will train the transformer tomorrow. Spent some time debugging my vqgan_training script today, and as I'm training on my local machine, had some trial and error with config params. Going to train tonight and tomorrow I will train the transformer and complete this project. 
+[Mesa](https://github.com/projectmesa/mesa) is a modular framework for building, analyzing and visualizing agent-based models. Went through Mesa's beginner and advanced tutorials to understand the lib as well as their example showcasing Mesa's features.
 <br/><br/>
 
 ## <center>Purpose
@@ -66,6 +66,7 @@ Editing person's clothes in image using segmentation and diffusion model
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|28| 2024-03-01|Exploring the [Mesa](https://github.com/projectmesa/mesa) library for agent-based modeling, analysis and visualization | RL |
 |27| 2024-02-29| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN). VQGAN debugging and scripting for transformer| GANs|
 |26| 2024-02-28| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN). Scripts for encoder-decoder as well as VQGAN arch.| GANs|
 |25| 2024-02-27| Built scripts for editing person's clothes in image using pretrained segmentation and diffusion models: [1](https://github.com/Ramsi-K/GANs/blob/main/DiffusionModels_InPainting.ipynb) [2](https://github.com/Ramsi-K/GANs/blob/main/Diffusion%2BClipSeg_InPainting.ipynb) | Diffusion CLIP |
