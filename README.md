@@ -23,7 +23,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### Exploring [MESA](https://github.com/projectmesa/mesa) 
+### [VQGAN implementation](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN)
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -31,10 +31,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-03-01</p>**
+**<p align="right">2024-03-04</p>**
 
 - **Task Description**:
-[Mesa](https://github.com/projectmesa/mesa) is a modular framework for building, analyzing and visualizing agent-based models. Went through Mesa's beginner and advanced tutorials to understand the lib as well as their example showcasing Mesa's features.
+Today, I focused on finalizing the [VQGAN project]((https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN)) in PyTorch, ensuring all components are integrated and functional. This involved wrapping up code organization, conducting final tests, and preparing documentation for potential future iterations or collaborators.
 <br/><br/>
 
 ## <center>Purpose
@@ -66,6 +66,7 @@ Editing person's clothes in image using segmentation and diffusion model
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|29| 2024-03-04|Completed [VQGAN implementation](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN) for code repository| GANs |
 |28| 2024-03-01|Exploring the [Mesa](https://github.com/projectmesa/mesa) library for agent-based modeling, analysis and visualization | RL |
 |27| 2024-02-29| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN). VQGAN debugging and scripting for transformer| GANs|
 |26| 2024-02-28| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN). Scripts for encoder-decoder as well as VQGAN arch.| GANs|
