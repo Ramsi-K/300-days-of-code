@@ -23,7 +23,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### [VQGAN implementation](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN)
+### [VAE implementation](https://github.com/Ramsi-K/paper-to-code/tree/main/VAE) in Pytorch)
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -34,7 +34,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 **<p align="right">2024-03-04</p>**
 
 - **Task Description**:
-Today, I focused on finalizing the [VQGAN project]((https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN)) in PyTorch, ensuring all components are integrated and functional. This involved wrapping up code organization, conducting final tests, and preparing documentation for potential future iterations or collaborators.
+Implementing VAE paper in PyTorch, focusing on encoder-decoder architecture and variational inference principles. Experimenting with latent space representations and reconstruction quality metrics. Troubleshooting training dynamics and regularization techniques for stable convergence.
 <br/><br/>
 
 ## <center>Purpose
@@ -66,6 +66,7 @@ Editing person's clothes in image using segmentation and diffusion model
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|30| 2024-03-05|Implemented the [VAE paper from scratch](https://github.com/Ramsi-K/paper-to-code/tree/main/VAE) in Pytorch training on MNIST | GANs |
 |29| 2024-03-04|Completed [VQGAN implementation](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN) for code repository| GANs |
 |28| 2024-03-01|Exploring the [Mesa](https://github.com/projectmesa/mesa) library for agent-based modeling, analysis and visualization | RL |
 |27| 2024-02-29| Implementing [VQGAN paper](https://arxiv.org/abs/2012.09841) from [scratch in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN). VQGAN debugging and scripting for transformer| GANs|
