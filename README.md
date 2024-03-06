@@ -23,7 +23,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### [VAE implementation](https://github.com/Ramsi-K/paper-to-code/tree/main/VAE) in Pytorch)
+### [Exploring PointNet: Understanding the Paper and Its Applications](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet)
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -31,10 +31,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-03-05</p>**
+**<p align="right">2024-03-06</p>**
 
 - **Task Description**:
-Implementing VAE paper in PyTorch, focusing on encoder-decoder architecture and variational inference principles. Experimenting with latent space representations and reconstruction quality metrics. Troubleshooting training dynamics and regularization techniques for stable convergence.
+Today, I dedicated time to thoroughly review the PointNet paper and explore its various applications in 3D data processing. By delving into the paper's details and understanding its underlying principles, I'm laying the groundwork for recreating the architecture in code. This preliminary research phase is crucial for gaining insights into PointNet's design, functionality, and potential challenges, ultimately paving the way for a successful implementation.
 <br/><br/>
 
 ## <center>Purpose
@@ -66,6 +66,7 @@ Editing person's clothes in image using segmentation and diffusion model
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|31| 2024-03-06 |Researching [PointNet](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet) paper for code recreation | DL 3D |
 |30| 2024-03-05|Implemented the [VAE paper from scratch](https://github.com/Ramsi-K/paper-to-code/tree/main/VAE) in Pytorch training on MNIST | GANs |
 |29| 2024-03-04|Completed [VQGAN implementation](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN) for code repository| GANs |
 |28| 2024-03-01|Exploring the [Mesa](https://github.com/projectmesa/mesa) library for agent-based modeling, analysis and visualization | RL |
