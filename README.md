@@ -23,7 +23,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### [Exploring PointNet: Understanding the Paper and Its Applications](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet)
+### Expanding the [3D Vision Playground](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main) and PyTorch3D Tutorials
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -31,10 +31,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-03-06</p>**
+**<p align="right">2024-03-07</p>**
 
 - **Task Description**:
-Today, I dedicated time to thoroughly review the PointNet paper and explore its various applications in 3D data processing. By delving into the paper's details and understanding its underlying principles, I'm laying the groundwork for recreating the architecture in code. This preliminary research phase is crucial for gaining insights into PointNet's design, functionality, and potential challenges, ultimately paving the way for a successful implementation.
+Today I delved into PyTorch3D by working through three tutorials: "[Bundle Adjustment](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Pytorch3D/bundle_adjustment.ipynb)," "[Deform Source Mesh to Target Mesh](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Pytorch3D/deform_source_mesh_to_target_mesh.ipynb)," and "[Render Textured Meshes](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Pytorch3D/render_textured_meshes.ipynb)." These tutorials provided hands-on experience with essential functionalities of PyTorch3D, including optimizing camera parameters, mesh deformation, and rendering textured meshes. By following these tutorials, I gained a deeper understanding of 3D reconstruction, deformation, and rendering techniques, which I plan to leverage in future projects within my [3D Vision Playground](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main) repository.
 <br/><br/>
 
 ## <center>Purpose
@@ -66,6 +66,7 @@ Editing person's clothes in image using segmentation and diffusion model
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|32| 2024-03-07 |Explored [PyTorch3D tutorials](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Pytorch3D) and updated the  [3D Vision Playground](https://github.com/Ramsi-K/3D-Vision-Playground) repo. | DL 3D |
 |31| 2024-03-06 |Researching [PointNet](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet) paper for code recreation | DL 3D |
 |30| 2024-03-05|Implemented the [VAE paper from scratch](https://github.com/Ramsi-K/paper-to-code/tree/main/VAE) in Pytorch training on MNIST | GANs |
 |29| 2024-03-04|Completed [VQGAN implementation](https://github.com/Ramsi-K/paper-to-code/tree/main/VQGAN) for code repository| GANs |
