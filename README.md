@@ -1,6 +1,7 @@
-# <center>300 Days Of Code
+# <center>👨‍💻✨🔭300 Days Of Code 🤖🎉🚀
 
-This repository is a 300-day coding challenge focused on vision technologies.  The repository serves as a comprehensive log of the journey, providing insights into the progress and evolution of skills.
+ This repository is a 300-day coding challenge focused on vision technologies. The repository serves as a comprehensive log of the journey, providing insights into the progress and evolution of skills.
+Get ready for 300 days of coding excitement, challenges, and triumphs in the universe of computer vision!
 <br>
 **[<p align="right">Jump to Daily Task Table](#daily-tasks)**</p>
 
@@ -37,32 +38,50 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 Today I delved into PyTorch3D by working through three tutorials: "[Bundle Adjustment](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Pytorch3D/bundle_adjustment.ipynb)," "[Deform Source Mesh to Target Mesh](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Pytorch3D/deform_source_mesh_to_target_mesh.ipynb)," and "[Render Textured Meshes](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Pytorch3D/render_textured_meshes.ipynb)." These tutorials provided hands-on experience with essential functionalities of PyTorch3D, including optimizing camera parameters, mesh deformation, and rendering textured meshes. By following these tutorials, I gained a deeper understanding of 3D reconstruction, deformation, and rendering techniques, which I plan to leverage in future projects within my [3D Vision Playground](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main) repository.
 <br/><br/>
 
-## <center>Purpose
+## <center>The Challenge
 
-The primary objectives of this coding journey are:
+Embark on a thrilling 300-day coding odyssey, a quest where every day is a new adventure in the realm of computer vision and deep learning. Join me on this exciting journey of practical coding tasks, where each day unfolds with hands-on challenges, research paper implementations, and real-world problem-solving.
 
-1. **Showcasing Abilities**: Demonstrate my deep learning and coding skills through daily updates, ranging from small coding challenges to more extensive deep learning projects.
+**Here's what makes this challenge an epic adventure:**
 
-2. **Continuous Learning**: Actively engage in learning and improvement, exploring new concepts, algorithms, and frameworks within the field of computer vision.
+- **Hands-on Coding**: Dive deep into practical coding tasks, from implementing cutting-edge research papers to tackling real-world problems head-on.
 
-3. **Building a Portfolio**: Create a comprehensive portfolio of projects and code snippets that highlight proficiency and growth in vision technologies.
+- **Continuous Learning**: Embrace a culture of lifelong learning, exploring new concepts, algorithms, and frameworks in the dynamic field of vision technologies.
+
+- **Beyond Boundaries:** Explore the frontiers of computer vision and deep learning, pushing the limits with projects that go from semantic segmentation to GANs, reinforcement learning, and more.
+
+- **Building a Robust Portfolio**: Craft a comprehensive portfolio of projects and code snippets, showcasing not just skills, but the journey of growth and innovation.
+
+- **Progressive Learning:** Witness the evolution of skills as each day adds new layers of expertise, building a solid foundation and demonstrating continuous improvement.
+
+- **Meaningful Contributions**: Connect, collaborate, and share insights with a growing community of enthusiasts, making this journey a collective exploration of the fascinating world of vision technologies.
 <br/><br/>
 
-## <center>The Challenge
+## <center>Challenge Structure
 
 - **DailyLogs**: Daily log and description of task undertaken.
 
-- **Projects**: Subfolders containing individual projects, each focused on a specific aspect of vision technologies.
+- **Projects**: Repositories and subfolders containing individual projects, each focused on a specific aspect of vision technologies.
 
 - **CodingChallenges**: Code snippets or solutions from coding challenges, providing a mix of practical coding skills and problem-solving capabilities.
+<br/><br/>
 
+## <center>30-Day Coding Sprints: Project Highlights
+
+Here's a glimpse into the projects accomplished during the inaugural 30-Day Sprint of my 300-day challenge:
+
+1. **Implementing Vision Transformer (ViT) from Scratch**: Developing a deep understanding of the ViT architecture and translating theoretical concepts into functional code to create a ViT model using PyTorch.
+
+2. **Training a Semantic Segmentation Model with Open3D**: Leveraging the Open3D library to train a semantic segmentation model on the SemanticKITTI dataset, involving data loading, transformation, and visualization tasks.
+
+3. **Exploring Classic Control Tasks for Reinforcement Learning**: Delving into classic control environments to understand Markov Decision Processes (MDP), Temporal Difference (TD) learning, and Q-learning, implementing these concepts in Python using reinforcement learning techniques.
+
+4. **Building a Multimodal GAN for Image Generation**: Constructing a Generative Adversarial Network (GAN) capable of generating images from text descriptions by combining pre-trained models such as CLIP and VQGAN, emphasizing multi-modal fusion and learning.
 <br/><br/>
 
 ## <center>Daily Tasks
 
 Here's a log of the daily tasks completed during the coding challenge:
-Editing person's clothes in image using segmentation and diffusion model
-<br/><br/>
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
@@ -122,3 +141,4 @@ Happy Coding! 🚀
     - Hypothesis Verification for 3D Object Recognition 
     -  Detecting people on a ground plane with RGB-D data
     - Detecting people and their poses using PointCloud Library -->
+
