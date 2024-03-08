@@ -32,7 +32,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-03-07</p>**
+**<p align="right">2024-03-08</p>**
 
 - **Task Description**:
 Today's focus was on converting the PointNet paper into executable PyTorch code. This involved understanding the intricate details of the PointNet architecture. By meticulously dissecting the paper and translating its concepts into PyTorch code, I aimed to deepen my understanding of both the PointNet model and PyTorch's capabilities in implementing complex neural network architectures.
