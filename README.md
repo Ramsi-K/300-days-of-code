@@ -24,7 +24,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ## <center>Latest Update
 
-### Expanding the [3D Vision Playground](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main) and PyTorch3D Tutorials
+### [Converting PointNet Paper to PyTorch Code](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet)
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -35,7 +35,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 **<p align="right">2024-03-07</p>**
 
 - **Task Description**:
-Today I delved into PyTorch3D by working through three tutorials: "[Bundle Adjustment](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Pytorch3D/bundle_adjustment.ipynb)," "[Deform Source Mesh to Target Mesh](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Pytorch3D/deform_source_mesh_to_target_mesh.ipynb)," and "[Render Textured Meshes](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Pytorch3D/render_textured_meshes.ipynb)." These tutorials provided hands-on experience with essential functionalities of PyTorch3D, including optimizing camera parameters, mesh deformation, and rendering textured meshes. By following these tutorials, I gained a deeper understanding of 3D reconstruction, deformation, and rendering techniques, which I plan to leverage in future projects within my [3D Vision Playground](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main) repository.
+Today's focus was on converting the PointNet paper into executable PyTorch code. This involved understanding the intricate details of the PointNet architecture. By meticulously dissecting the paper and translating its concepts into PyTorch code, I aimed to deepen my understanding of both the PointNet model and PyTorch's capabilities in implementing complex neural network architectures.
 <br/><br/>
 
 ## <center>The Challenge
@@ -85,6 +85,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|33| 2024-03-08 | Implementing the PointNet [paper](https://arxiv.org/abs/1612.00593) to [code in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet).| DL 3D |
 |32| 2024-03-07 |Explored [PyTorch3D tutorials](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Pytorch3D) and updated the  [3D Vision Playground](https://github.com/Ramsi-K/3D-Vision-Playground) repo. | DL 3D |
 |31| 2024-03-06 |Researching [PointNet](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet) paper for code recreation | DL 3D |
 |30| 2024-03-05|Implemented the [VAE paper from scratch](https://github.com/Ramsi-K/paper-to-code/tree/main/VAE) in Pytorch training on MNIST | GANs |
