@@ -23,8 +23,6 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 <br/><br/>
 
 ## <center>Latest Update
-
-### LeetCode: [15-3sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/15-3sum)
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -32,10 +30,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-**<p align="right">2024-03-11</p>**
+### [PointNet in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet)
+
+**<p align="right">2024-03-12</p>**
 
 - **Task Description**:
-Today's challenge was tackling the "3Sum" problem on LeetCode, which required finding all unique triplets in an array that sum up to zero. Despite the complexity of the problem, I persisted and successfully implemented an efficient solution after spending over an hour on it. This task not only honed my problem-solving skills but also enhanced my understanding of array manipulation and algorithm optimization techniques.
+After many intense days of work, I successfully translated the PointNet paper into PyTorch code. This task was particularly challenging due to the complexity of the PointNet architecture and the fact that the official implementation is in TensorFlow 1x. Despite the steep learning curve and the intricate nature of the subject matter, I found the process immensely rewarding and intellectually stimulating. As someone who has a keen interest in 3D data and point clouds, delving into PointNet provided me with valuable insights into geometric deep learning and its applications in computer vision.
 <br/><br/>
 
 ## <center>The Challenge
@@ -85,6 +85,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|35| 2024-03-12 |  Finished implementing the PointNet paper to [code in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet). | DL 3D |
 |34| 2024-03-11 | LeetCode problems: [15-3sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/15-3sum) | DSA |
 |33| 2024-03-08 | Implementing the PointNet [paper](https://arxiv.org/abs/1612.00593) to [code in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet).| DL 3D |
 |32| 2024-03-07 |Explored [PyTorch3D tutorials](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Pytorch3D) and updated the  [3D Vision Playground](https://github.com/Ramsi-K/3D-Vision-Playground) repo. | DL 3D |
