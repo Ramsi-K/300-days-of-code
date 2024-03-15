@@ -30,12 +30,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-### [PointNet in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet)
+### [ESRGAN](https://github.com/Ramsi-K/paper-to-code/tree/main/ESRGAN)
 
-**<p align="right">2024-03-12</p>**
+**<p align="right">2024-03-14</p>**
 
 - **Task Description**:
-After many intense days of work, I successfully translated the PointNet paper into PyTorch code. This task was particularly challenging due to the complexity of the PointNet architecture and the fact that the official implementation is in TensorFlow 1x. Despite the steep learning curve and the intricate nature of the subject matter, I found the process immensely rewarding and intellectually stimulating. As someone who has a keen interest in 3D data and point clouds, delving into PointNet provided me with valuable insights into geometric deep learning and its applications in computer vision.
+Over the past two days, I've been deeply engrossed in the realm of image super-resolution, specifically focusing on the implementation of state-of-the-art models such as ESRGAN (Enhanced Super-Resolution Generative Adversarial Networks). With a keen eye on advancements in the field, I've been diligently working on understanding and applying the intricate techniques proposed in the ESRGAN paper. Leveraging the power of PyTorch, I've successfully translated these concepts into functional code, contributing to my repository dedicated to paper-to-code implementations. By diving into the intricacies of ESRGAN, I aim to enhance my understanding of generative adversarial networks (GANs) while exploring cutting-edge methods for high-quality image generation and enhancement.
 <br/><br/>
 
 ## <center>The Challenge
@@ -85,6 +85,8 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|37| 2024-03-14 |  Finished implementing the ESRGAN paper to [code in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/ESRGAN). | GANs |
+|36| 2024-03-13 | Working on image super-resolution and implementing a SOTA model like [ESRGAN (Enhanced Super-Resolution Generative Adversarial Networks)](https://arxiv.org/abs/1809.00219). GitHub Repo: [ESRGAN](https://github.com/xinntao/ESRGAN) | GANs |
 |35| 2024-03-12 |  Finished implementing the PointNet paper to [code in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet). | DL 3D |
 |34| 2024-03-11 | LeetCode problems: [15-3sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/15-3sum) | DSA |
 |33| 2024-03-08 | Implementing the PointNet [paper](https://arxiv.org/abs/1612.00593) to [code in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/PointNet).| DL 3D |
