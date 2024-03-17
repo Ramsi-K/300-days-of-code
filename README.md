@@ -30,12 +30,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-### [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488) &  [VoteNet: A Deep Learning-based 3D Object Detection Method](https://arxiv.org/abs/1904.09664)
+###  LeetCode: [3sum-closest](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0016-3sum-closest) and [letter-combinations-of-a-phone-number](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0017-letter-combinations-of-a-phone-number)
 
-**<p align="right">2024-03-15</p>**
+**<p align="right">2024-03-17</p>**
 
 - **Task Description**:
-Today, my focus was on the fascinating realm of 3D object detection, a crucial aspect of computer vision with applications ranging from autonomous driving to robotics. These cutting-edge approaches, outlined in research papers like [Frustum PointNets](https://arxiv.org/abs/1711.08488) and [VoteNet]((https://arxiv.org/abs/1904.09664)), will enable me to leverage point cloud data effectively to detect and classify objects in three-dimensional space. By leveraging these methodologies, I aim to build a robust model capable of accurately detecting and localizing objects within a three-dimensional space. 
+Today, I solved LeetCode problems "3Sum Longest" and "Letter Combinations of a Phone Number." 
 <br/><br/>
 
 ## <center>The Challenge
@@ -85,6 +85,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|39| 2024-03-17 | LeetCode: [0016-3sum-closest](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0016-3sum-closest) and [0017-letter-combinations-of-a-phone-number](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0017-letter-combinations-of-a-phone-number) | DSA |
 |38| 2024-03-15 | Exploring 3D object detection by implementing a model using methods including [Frustum PointNets](https://arxiv.org/abs/1711.08488) and [VoteNet](https://arxiv.org/abs/1904.09664) | DL 3D |
 |37| 2024-03-14 |  Finished implementing the ESRGAN paper to [code in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/ESRGAN). | GANs |
 |36| 2024-03-13 | Working on image super-resolution and implementing a SOTA model like [ESRGAN (Enhanced Super-Resolution Generative Adversarial Networks)](https://arxiv.org/abs/1809.00219). GitHub Repo: [ESRGAN](https://github.com/xinntao/ESRGAN) | GANs |
