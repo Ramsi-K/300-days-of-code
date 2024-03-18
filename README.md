@@ -2,8 +2,9 @@
 
  This repository is a 300-day coding challenge focused on vision technologies. The repository serves as a comprehensive log of the journey, providing insights into the progress and evolution of skills.
 Get ready for 300 days of coding excitement, challenges, and triumphs in the universe of computer vision!
-<br>
-**[<p align="right">Jump to Daily Task Table](#daily-tasks)**</p>
+
+
+**[Jump to Daily Task Table](#daily-tasks)**
 
 ## <center>Coding Journey
 
@@ -30,12 +31,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-###  LeetCode: [3sum-closest](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0016-3sum-closest) and [letter-combinations-of-a-phone-number](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0017-letter-combinations-of-a-phone-number)
+###  [GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/GNN)
 
-**<p align="right">2024-03-17</p>**
+**<p align="right">2024-03-18</p>**
 
 - **Task Description**:
-Today, I solved LeetCode problems "3Sum Longest" and "Letter Combinations of a Phone Number." 
+Today's focus was on diving into Graph Neural Networks (GNNs) with the [PyTorch Geometric (PyG) library](https://github.com/pyg-team/pytorch_geometric/tree/master). Through exercises and examples, I gained proficiency in utilizing popular GNN architectures such as Graph Convolutional Networks (GCNs) and Graph Attention Networks (GATs) for tasks like node and graph classification.
 <br/><br/>
 
 ## <center>The Challenge
@@ -81,10 +82,12 @@ Here's a glimpse into the projects accomplished during the inaugural 30-Day Spri
 
 ## <center>Daily Tasks
 
+
 Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|40| 2024-03-18 | Explored Graph Neural Networks (GNNs) using PyG including [node and graph classification](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/GNN) tasks | GNN |
 |39| 2024-03-17 | LeetCode: [0016-3sum-closest](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0016-3sum-closest) and [0017-letter-combinations-of-a-phone-number](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0017-letter-combinations-of-a-phone-number) | DSA |
 |38| 2024-03-15 | Exploring 3D object detection by implementing a model using methods including [Frustum PointNets](https://arxiv.org/abs/1711.08488) and [VoteNet](https://arxiv.org/abs/1904.09664) | DL 3D |
 |37| 2024-03-14 |  Finished implementing the ESRGAN paper to [code in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/ESRGAN). | GANs |
