@@ -33,10 +33,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 --------------------------------------------------------------------------------------------- -->
 ###  [GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/GNN)
 
-**<p align="right">2024-03-18</p>**
+**<p align="right">2024-03-21</p>**
 
 - **Task Description**:
-Today's focus was on diving into Graph Neural Networks (GNNs) with the [PyTorch Geometric (PyG) library](https://github.com/pyg-team/pytorch_geometric/tree/master). Through exercises and examples, I gained proficiency in utilizing popular GNN architectures such as Graph Convolutional Networks (GCNs) and Graph Attention Networks (GATs) for tasks like node and graph classification.
+Over the past few days, I've been fully immersed in exploring the fascinating world of Graph Neural Networks (GNNs) using PyTorch Geometric (PyG). Following the comprehensive course structure outlined by the official PyG resources, I've delved into various aspects of GNNs, from fundamental concepts like node and graph classification to advanced techniques such as spectral graph convolutional layers, aggregation functions, and graph autoencoders. Each day has been a deep dive into a different facet of GNNs, from data handling and graph generation to recurrent GNNs and edge analysis all through hands-on exploration and coding exercises. By understanding how GNNs can effectively model relationships in complex 3D data structures such as point clouds or voxel grids, I'm better prepared to leverage these techniques for tasks like 3D object detection, segmentation, and reconstruction. This interdisciplinary approach bridges the gap between graph-based representation learning and the intricacies of 3D scene understanding, opening up exciting avenues for innovative solutions in the field of computer vision.
 <br/><br/>
 
 ## <center>The Challenge
@@ -87,7 +87,10 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|40| 2024-03-18 | Explored Graph Neural Networks (GNNs) using PyG including [node and graph classification](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/GNN) tasks | GNN |
+|43| 2024-03-21 | Exploring Graph Neural Networks using PyG: [Data handling in PyG](), [MetaPath2vec]() & [Graph Pooling]() | GNN |
+|42| 2024-03-20 | Exploring Graph Neural Networks using PyG: Graph Generation, [Recurrent GNNs](), [DeepWalk and Node2Vec]() & [Edge analysis]() | GNN |
+|41| 2024-03-19 | Exploring Graph Neural Networks using PyG: [Spectral Graph Convolutional Layers ](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/04_Convolutional_Layers_Spectral_methods.ipynb), [Aggregation Functions in GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/05_Aggregation_PNA%2BLAF.ipynb), [GAE and VGAE](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/06_GAE_VGAE.ipynb), [ARGA and ARGVA](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/07_ARGA_%26_ARVGA.ipynb) | GNN |
+|40| 2024-03-18 | Exploring Graph Neural Networks using PyG: [node classification](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/02_Node_classification.ipynb) and [graph classification](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/03_Graph_classification.ipynb) tasks | GNN |
 |39| 2024-03-17 | LeetCode: [0016-3sum-closest](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0016-3sum-closest) and [0017-letter-combinations-of-a-phone-number](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0017-letter-combinations-of-a-phone-number) | DSA |
 |38| 2024-03-15 | Exploring 3D object detection by implementing a model using methods including [Frustum PointNets](https://arxiv.org/abs/1711.08488) and [VoteNet](https://arxiv.org/abs/1904.09664) | DL 3D |
 |37| 2024-03-14 |  Finished implementing the ESRGAN paper to [code in PyTorch](https://github.com/Ramsi-K/paper-to-code/tree/main/ESRGAN). | GANs |
