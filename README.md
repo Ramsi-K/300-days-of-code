@@ -87,7 +87,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|46| 2024-03-25 | [Point Cloud Classification using PointNet++](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/PointNet%2B%2B_Point_Cloud_Classification.ipynb) using the [GeometricShapes](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.GeometricShapes) dataset | GNN |
+|46| 2024-03-25 | [Point Cloud Classification using PointNet++](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/5_Point_Cloud_Classification.ipynb) using the [GeometricShapes](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.GeometricShapes) dataset | GNN |
 |45| 2024-03-24 | Working on understanding and implementing [Recurrent GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/08_RecGNN.ipynb) | GNN |
 |44| 2024-03-22 | Exploring Graph Neural Networks using PyG: [Data handling in PyG](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Data%20Handling%20in%20PyG%202.ipynb), [MetaPath2vec](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/MetaPath2Vec.ipynb) & [Graph Pooling - DiffPool](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/DIFFPOOL.ipynb)  | GNN |
 |43| 2024-03-21 | [Edge analysis for label prediction](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/11_Node2Vec_for_label_prediction.ipynb) & [Edge analysis for link prediction](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/10_GAE_for_link_prediction.ipynb)  | GNN |
