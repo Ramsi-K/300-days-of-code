@@ -33,7 +33,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 --------------------------------------------------------------------------------------------- -->
 ###  [GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/GNN)
 
-**<p align="right">2024-03-22</p>**
+**<p align="right">2024-03-26</p>**
 
 - **Task Description**:
 Over the past few days, I've been fully immersed in exploring the fascinating world of Graph Neural Networks (GNNs) using PyTorch Geometric (PyG). Following the comprehensive course structure outlined by the official PyG resources, I've delved into various aspects of GNNs, from fundamental concepts like node and graph classification to advanced techniques such as spectral graph convolutional layers, aggregation functions, and graph autoencoders. Each day has been a deep dive into a different facet of GNNs, from data handling and graph generation to recurrent GNNs and edge analysis all through hands-on exploration and coding exercises. By understanding how GNNs can effectively model relationships in complex 3D data structures such as point clouds or voxel grids, I'm better prepared to leverage these techniques for tasks like 3D object detection, segmentation, and reconstruction. This interdisciplinary approach bridges the gap between graph-based representation learning and the intricacies of 3D scene understanding, opening up exciting avenues for innovative solutions in the field of computer vision.
@@ -87,6 +87,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|47| 2024-03-26 | [Understanding GNN predictions with the Captum lib](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/6_GNN_Explanation.ipynb) and went through a [GNN overview](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/GNN_overview.ipynb) | GNN |
 |46| 2024-03-25 | [Point Cloud Classification using PointNet++](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/5_Point_Cloud_Classification.ipynb) using the [GeometricShapes](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.GeometricShapes) dataset | GNN |
 |45| 2024-03-24 | Working on understanding and implementing [Recurrent GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/08_RecGNN.ipynb) | GNN |
 |44| 2024-03-22 | Exploring Graph Neural Networks using PyG: [Data handling in PyG](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Data%20Handling%20in%20PyG%202.ipynb), [MetaPath2vec](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/MetaPath2Vec.ipynb) & [Graph Pooling - DiffPool](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/DIFFPOOL.ipynb)  | GNN |
