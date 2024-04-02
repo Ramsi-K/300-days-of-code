@@ -3,7 +3,6 @@
  This repository is a 300-day coding challenge focused on vision technologies. The repository serves as a comprehensive log of the journey, providing insights into the progress and evolution of skills.
 Get ready for 300 days of coding excitement, challenges, and triumphs in the universe of computer vision!
 
-
 **[Jump to Daily Task Table](#daily-tasks)**
 
 ## <center>Coding Journey
@@ -31,9 +30,9 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-###  [GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/GNN)
+### [GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/GNN)
 
-**<p align="right">2024-04-01</p>**
+**<p align="right">2024-04-02</p>**
 
 - **Task Description**:
 Over the past few days, I've been fully immersed in exploring the fascinating world of Graph Neural Networks (GNNs) using PyTorch Geometric (PyG). Following the comprehensive course structure outlined by the official PyG resources, I've delved into various aspects of GNNs, from fundamental concepts like node and graph classification to advanced techniques such as spectral graph convolutional layers, aggregation functions, and graph autoencoders. Each day has been a deep dive into a different facet of GNNs, from data handling and graph generation to recurrent GNNs and edge analysis all through hands-on exploration and coding exercises. By understanding how GNNs can effectively model relationships in complex 3D data structures such as point clouds or voxel grids, I'm better prepared to leverage these techniques for tasks like 3D object detection, segmentation, and reconstruction. This interdisciplinary approach bridges the gap between graph-based representation learning and the intricacies of 3D scene understanding, opening up exciting avenues for innovative solutions in the field of computer vision.
@@ -82,19 +81,19 @@ Here's a glimpse into the projects accomplished during the inaugural 30-Day Spri
 
 ## <center>Daily Tasks
 
-
 Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|48| 2024-04-01 | Understanding [message passing](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/message_passing.ipynb) and utilization of various [aggregation functions](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/7_Aggregation_Package.ipynb) | GNN |
-|47| 2024-03-26 | [Understanding GNN predictions with the Captum lib](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/6_GNN_Explanation.ipynb) and went through a [GNN overview](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/GNN_overview.ipynb) | GNN |
-|46| 2024-03-25 | [Point Cloud Classification using PointNet++](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/5_Point_Cloud_Classification.ipynb) using the [GeometricShapes](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.GeometricShapes) dataset | GNN |
-|45| 2024-03-24 | Working on understanding and implementing [Recurrent GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/08_RecGNN.ipynb) | GNN |
+|49| 2024-04-02 | Exploring Graph Neural Networks using PyG: [Link Prediction](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Link_Prediction_on_MovieLens.ipynb) & [Link Regression](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Link_Regression_on_Movielens.ipynb) on toy [MovieLens dataset](https://grouplens.org/datasets/movielens/) | GNN |
+|48| 2024-04-01 | Exploring Graph Neural Networks using PyG:  Understanding [message passing](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/message_passing.ipynb) and utilization of various [aggregation functions](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/7_Aggregation_Package.ipynb) | GNN |
+|47| 2024-03-26 | Exploring Graph Neural Networks using PyG: [Understanding GNN predictions with the Captum lib](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/6_GNN_Explanation.ipynb) and went through a [GNN overview](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/GNN_overview.ipynb) | GNN |
+|46| 2024-03-25 | Exploring Graph Neural Networks using PyG: [Point Cloud Classification using PointNet++](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/5_Point_Cloud_Classification.ipynb) using the [GeometricShapes](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.GeometricShapes) dataset | GNN |
+|45| 2024-03-24 | Exploring Graph Neural Networks using PyG: Working on understanding and implementing [Recurrent GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/08_RecGNN.ipynb) | GNN |
 |44| 2024-03-22 | Exploring Graph Neural Networks using PyG: [Data handling in PyG](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Data%20Handling%20in%20PyG%202.ipynb), [MetaPath2vec](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/MetaPath2Vec.ipynb) & [Graph Pooling - DiffPool](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/DIFFPOOL.ipynb)  | GNN |
-|43| 2024-03-21 | [Edge analysis for label prediction](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/11_Node2Vec_for_label_prediction.ipynb) & [Edge analysis for link prediction](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/10_GAE_for_link_prediction.ipynb)  | GNN |
+|43| 2024-03-21 | Exploring Graph Neural Networks using PyG: [Edge analysis for label prediction](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/11_Node2Vec_for_label_prediction.ipynb) & [Edge analysis for link prediction](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/10_GAE_for_link_prediction.ipynb)  | GNN |
 |42| 2024-03-20 | Exploring Graph Neural Networks using PyG: Graph Generation, Recurrent GNNs, [DeepWalk and Node2Vec](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/09_DeepWalk_and_node2vec.ipynb) | GNN |
-|41| 2024-03-19 | Exploring Graph Neural Networks using PyG: [Spectral Graph Convolutional Layers ](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/04_Convolutional_Layers_Spectral_methods.ipynb), [Aggregation Functions in GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/05_Aggregation_PNA%2BLAF.ipynb), [GAE and VGAE](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/06_GAE_VGAE.ipynb), [ARGA and ARGVA](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/07_ARGA_%26_ARVGA.ipynb) | GNN |
+|41| 2024-03-19 | Exploring Graph Neural Networks using PyG: [Spectral Graph Convolutional Layers](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/04_Convolutional_Layers_Spectral_methods.ipynb), [Aggregation Functions in GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/05_Aggregation_PNA%2BLAF.ipynb), [GAE and VGAE](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/06_GAE_VGAE.ipynb), [ARGA and ARGVA](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/07_ARGA_%26_ARVGA.ipynb) | GNN |
 |40| 2024-03-18 | Exploring Graph Neural Networks using PyG: [node classification](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/02_Node_classification.ipynb) and [graph classification](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/03_Graph_classification.ipynb) tasks | GNN |
 |39| 2024-03-17 | LeetCode: [0016-3sum-closest](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0016-3sum-closest) and [0017-letter-combinations-of-a-phone-number](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0017-letter-combinations-of-a-phone-number) | DSA |
 |38| 2024-03-15 | Exploring 3D object detection by implementing a model using methods including [Frustum PointNets](https://arxiv.org/abs/1711.08488) and [VoteNet](https://arxiv.org/abs/1904.09664) | DL 3D |
@@ -159,4 +158,3 @@ Happy Coding! 🚀
     - Hypothesis Verification for 3D Object Recognition 
     -  Detecting people on a ground plane with RGB-D data
     - Detecting people and their poses using PointCloud Library -->
-
