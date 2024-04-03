@@ -30,12 +30,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-### [GNNs](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/GNN)
+### [LeetCode Problems](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
 
-**<p align="right">2024-04-02</p>**
+**<p align="right">2024-04-03</p>**
 
 - **Task Description**:
-Over the past few days, I've been fully immersed in exploring the fascinating world of Graph Neural Networks (GNNs) using PyTorch Geometric (PyG). Following the comprehensive course structure outlined by the official PyG resources, I've delved into various aspects of GNNs, from fundamental concepts like node and graph classification to advanced techniques such as spectral graph convolutional layers, aggregation functions, and graph autoencoders. Each day has been a deep dive into a different facet of GNNs, from data handling and graph generation to recurrent GNNs and edge analysis all through hands-on exploration and coding exercises. By understanding how GNNs can effectively model relationships in complex 3D data structures such as point clouds or voxel grids, I'm better prepared to leverage these techniques for tasks like 3D object detection, segmentation, and reconstruction. This interdisciplinary approach bridges the gap between graph-based representation learning and the intricacies of 3D scene understanding, opening up exciting avenues for innovative solutions in the field of computer vision.
+LeetCode problems: [Longest Palindromic Substring](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0005-longest-palindromic-substring), [Zigzag Conversion](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0006-zigzag-conversion), [Reverse Integer](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0007-reverse-integer) & [Remove Element](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0027-remove-element)
 <br/><br/>
 
 ## <center>The Challenge
@@ -85,6 +85,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|50| 2024-04-03 | LeetCode: [Longest Palindromic Substring](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0005-longest-palindromic-substring), [Zigzag Conversion](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0006-zigzag-conversion), [Reverse Integer](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0007-reverse-integer) & [Remove Element](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0027-remove-element) |  |
 |49| 2024-04-02 | Exploring Graph Neural Networks using PyG: [Link Prediction](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Link_Prediction_on_MovieLens.ipynb) & [Link Regression](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Link_Regression_on_Movielens.ipynb) on toy [MovieLens dataset](https://grouplens.org/datasets/movielens/) | GNN |
 |48| 2024-04-01 | Exploring Graph Neural Networks using PyG:  Understanding [message passing](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/message_passing.ipynb) and utilization of various [aggregation functions](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/7_Aggregation_Package.ipynb) | GNN |
 |47| 2024-03-26 | Exploring Graph Neural Networks using PyG: [Understanding GNN predictions with the Captum lib](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/6_GNN_Explanation.ipynb) and went through a [GNN overview](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/GNN_overview.ipynb) | GNN |
