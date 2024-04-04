@@ -30,13 +30,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-### [LeetCode Problems](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
+### [GNN](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/GNN)
 
-**<p align="right">2024-04-03</p>**
+**<p align="right">2024-04-04</p>**
 
 - **Task Description**:
-LeetCode problems: [Longest Palindromic Substring](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0005-longest-palindromic-substring), [Zigzag Conversion](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0006-zigzag-conversion), [Reverse Integer](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0007-reverse-integer) & [Remove Element](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0027-remove-element)
-<br/><br/>
+Built and Implemented a [GAT model](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Scaling_Graph_Neural_Networks.ipynb) on the Cora dataset using Pytorch Geometric.
+
 
 ## <center>The Challenge
 
@@ -85,7 +85,8 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|50| 2024-04-03 | LeetCode: [Longest Palindromic Substring](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0005-longest-palindromic-substring), [Zigzag Conversion](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0006-zigzag-conversion), [Reverse Integer](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0007-reverse-integer) & [Remove Element](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0027-remove-element) |  |
+|51| 2024-04-04 | Built and Implemented a [GAT model](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Scaling_Graph_Neural_Networks.ipynb) on the Cora dataset | GNN |
+|50| 2024-04-03 | LeetCode: [Longest Palindromic Substring](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0005-longest-palindromic-substring), [Zigzag Conversion](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0006-zigzag-conversion), [Reverse Integer](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0007-reverse-integer) & [Remove Element](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0027-remove-element) | Pandas |
 |49| 2024-04-02 | Exploring Graph Neural Networks using PyG: [Link Prediction](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Link_Prediction_on_MovieLens.ipynb) & [Link Regression](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Link_Regression_on_Movielens.ipynb) on toy [MovieLens dataset](https://grouplens.org/datasets/movielens/) | GNN |
 |48| 2024-04-01 | Exploring Graph Neural Networks using PyG:  Understanding [message passing](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/message_passing.ipynb) and utilization of various [aggregation functions](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/7_Aggregation_Package.ipynb) | GNN |
 |47| 2024-03-26 | Exploring Graph Neural Networks using PyG: [Understanding GNN predictions with the Captum lib](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/6_GNN_Explanation.ipynb) and went through a [GNN overview](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/GNN_overview.ipynb) | GNN |
