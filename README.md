@@ -30,12 +30,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-### [Luna-Net3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
 
-**<p align="right">2024-04-05</p>**
+**<p align="right">2024-04-06</p>**
 
 - **Task Description**:
-Exploring the [Luna16](https://luna16.grand-challenge.org/) dataset for lung node analysis inlcuding [data exploration and minor preprocessing](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D). As it is a very large dataset divided into 9 subsets, the process took me quite a long time. Today I focussed mainly on the dataset sample.
+LeetCode:[Find the Index of the First Occurrence in a String](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0028-find-the-index-of-the-first-occurrence-in-a-string), [Divide Two Integers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0029-divide-two-integers), [3sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0015-3sum), [4sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0018-4sum),  [Search Insert Position](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0035-search-insert-position).
+I wanted to continue working on the Luna dataset but am having a hard time downloading the dataset completely. I am trying to find a workaround and so settled for LeetCode challenges in the meantime.
 
 ## <center>The Challenge
 
@@ -84,9 +85,10 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|53| 2024-04-06 | LeetCode:[Find the Index of the First Occurrence in a String](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0028-find-the-index-of-the-first-occurrence-in-a-string), [Divide Two Integers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0029-divide-two-integers), [3sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0015-3sum), [4sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0018-4sum),  [Search Insert Position](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0035-search-insert-position) | DSA |
 |52| 2024-04-05 | Exploring the [Luna16](https://luna16.grand-challenge.org/) dataset for lung node analysis inlcuding [data exploration](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D) on the sample. | 3D CV |
 |51| 2024-04-04 | Exploring Graph Neural Networks using PyG: Built and Implemented a [GAT model](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Scaling_Graph_Neural_Networks.ipynb) on the Cora dataset | GNN |
-|50| 2024-04-03 | LeetCode: [Longest Palindromic Substring](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0005-longest-palindromic-substring), [Zigzag Conversion](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0006-zigzag-conversion), [Reverse Integer](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0007-reverse-integer) & [Remove Element](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0027-remove-element) | Pandas |
+|50| 2024-04-03 | LeetCode: [Longest Palindromic Substring](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0005-longest-palindromic-substring), [Zigzag Conversion](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0006-zigzag-conversion), [Reverse Integer](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0007-reverse-integer) & [Remove Element](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0027-remove-element) | DSA |
 |49| 2024-04-02 | Exploring Graph Neural Networks using PyG: [Link Prediction](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Link_Prediction_on_MovieLens.ipynb) & [Link Regression](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Link_Regression_on_Movielens.ipynb) on toy [MovieLens dataset](https://grouplens.org/datasets/movielens/) | GNN |
 |48| 2024-04-01 | Exploring Graph Neural Networks using PyG:  Understanding [message passing](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/message_passing.ipynb) and utilization of various [aggregation functions](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/7_Aggregation_Package.ipynb) | GNN |
 |47| 2024-03-26 | Exploring Graph Neural Networks using PyG: [Understanding GNN predictions with the Captum lib](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/6_GNN_Explanation.ipynb) and went through a [GNN overview](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/GNN_overview.ipynb) | GNN |
