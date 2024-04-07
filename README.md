@@ -32,11 +32,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 --------------------------------------------------------------------------------------------- -->
 ### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
 
-**<p align="right">2024-04-06</p>**
+**<p align="right">2024-04-07</p>**
 
 - **Task Description**:
-LeetCode:[Find the Index of the First Occurrence in a String](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0028-find-the-index-of-the-first-occurrence-in-a-string), [Divide Two Integers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0029-divide-two-integers), [3sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0015-3sum), [4sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0018-4sum),  [Search Insert Position](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0035-search-insert-position).
-I wanted to continue working on the Luna dataset but am having a hard time downloading the dataset completely. I am trying to find a workaround and so settled for LeetCode challenges in the meantime.
+LeetCode: [Next Permutation](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0031-next-permutation), [Length of Last Word](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0058-length-of-last-word),[Merge Sorted Array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0088-merge-sorted-array)
+I am still trying todownload the Luna dataset completely. The dataset guidelines dictate that we should use all 10 subsets in conjunction so I will try again tomorrow.
 
 ## <center>The Challenge
 
@@ -85,6 +85,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|54| 2024-04-07 | LeetCode: [Next Permutation](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0031-next-permutation), [Length of Last Word](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0058-length-of-last-word),[Merge Sorted Array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0088-merge-sorted-array) | DSA |
 |53| 2024-04-06 | LeetCode:[Find the Index of the First Occurrence in a String](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0028-find-the-index-of-the-first-occurrence-in-a-string), [Divide Two Integers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0029-divide-two-integers), [3sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0015-3sum), [4sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0018-4sum),  [Search Insert Position](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0035-search-insert-position) | DSA |
 |52| 2024-04-05 | Exploring the [Luna16](https://luna16.grand-challenge.org/) dataset for lung node analysis inlcuding [data exploration](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D) on the sample. | 3D CV |
 |51| 2024-04-04 | Exploring Graph Neural Networks using PyG: Built and Implemented a [GAT model](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Scaling_Graph_Neural_Networks.ipynb) on the Cora dataset | GNN |
