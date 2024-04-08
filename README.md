@@ -22,7 +22,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 🟣 : Complete*
 <br/><br/>
 
-## <center>Latest Update
+<!-- ## <center>Latest Update
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -36,7 +36,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 - **Task Description**:
 LeetCode: [Next Permutation](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0031-next-permutation), [Length of Last Word](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0058-length-of-last-word),[Merge Sorted Array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0088-merge-sorted-array)
-I am still trying todownload the Luna dataset completely. The dataset guidelines dictate that we should use all 10 subsets in conjunction so I will try again tomorrow.
+I am still trying todownload the Luna dataset completely. The dataset guidelines dictate that we should use all 10 subsets in conjunction so I will try again tomorrow. -->
 
 ## <center>The Challenge
 
@@ -85,8 +85,9 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|55| 2024-04-08 | Luna16: Processing mhd images and working on sample dataset | 3D CV |
 |54| 2024-04-07 | LeetCode: [Next Permutation](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0031-next-permutation), [Length of Last Word](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0058-length-of-last-word),[Merge Sorted Array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0088-merge-sorted-array) | DSA |
-|53| 2024-04-06 | LeetCode:[Find the Index of the First Occurrence in a String](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0028-find-the-index-of-the-first-occurrence-in-a-string), [Divide Two Integers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0029-divide-two-integers), [3sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0015-3sum), [4sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0018-4sum),  [Search Insert Position](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0035-search-insert-position) | DSA |
+|53| 2024-04-06 | LeetCode: [Find the Index of the First Occurrence in a String](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0028-find-the-index-of-the-first-occurrence-in-a-string), [Divide Two Integers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0029-divide-two-integers), [3Sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0015-3sum), [4Sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0018-4sum),  [Search Insert Position](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0035-search-insert-position) | DSA |
 |52| 2024-04-05 | Exploring the [Luna16](https://luna16.grand-challenge.org/) dataset for lung node analysis inlcuding [data exploration](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D) on the sample. | 3D CV |
 |51| 2024-04-04 | Exploring Graph Neural Networks using PyG: Built and Implemented a [GAT model](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Scaling_Graph_Neural_Networks.ipynb) on the Cora dataset | GNN |
 |50| 2024-04-03 | LeetCode: [Longest Palindromic Substring](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0005-longest-palindromic-substring), [Zigzag Conversion](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0006-zigzag-conversion), [Reverse Integer](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0007-reverse-integer) & [Remove Element](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0027-remove-element) | DSA |
