@@ -85,6 +85,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|56| 2024-04-09 | Luna16: Plotting mhd images in 2D from sample subset | 3D CV |
 |55| 2024-04-08 | Luna16: Processing mhd images and working on sample dataset | 3D CV |
 |54| 2024-04-07 | LeetCode: [Next Permutation](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0031-next-permutation), [Length of Last Word](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0058-length-of-last-word),[Merge Sorted Array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0088-merge-sorted-array) | DSA |
 |53| 2024-04-06 | LeetCode: [Find the Index of the First Occurrence in a String](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0028-find-the-index-of-the-first-occurrence-in-a-string), [Divide Two Integers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0029-divide-two-integers), [3Sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0015-3sum), [4Sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0018-4sum),  [Search Insert Position](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0035-search-insert-position) | DSA |
