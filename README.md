@@ -22,7 +22,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 🟣 : Complete*
 <br/><br/>
 
-<!-- ## <center>Latest Update
+## <center>Latest Update
 <!-- ----------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
                 CHANGE TITLE AND DATE AND DESCRIPTION
@@ -30,13 +30,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
+### [Luna-Net3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-04-07</p>**
+**<p align="right">2024-04-10</p>**
 
 - **Task Description**:
-LeetCode: [Next Permutation](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0031-next-permutation), [Length of Last Word](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0058-length-of-last-word),[Merge Sorted Array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0088-merge-sorted-array)
-I am still trying todownload the Luna dataset completely. The dataset guidelines dictate that we should use all 10 subsets in conjunction so I will try again tomorrow. -->
+Luna-Net3D: Over the past few days I have been working on understanding the data provided in the Luna16 dataset. Initially I thought the data exploration would be easier considering it was used for the Kaggle Data Science Bowl 2017. However, the dataset structure and format has changed from then. Most of the work I have found that discussed this dataset has been unhelpful. Many of the discussions surrounding the Luna16 dataset have also turned out to be unhelpful. I have been working on understanding and plotting the mhd and zraw images in 2D as well as 3D. I think the most important aspect of developing a deep learning model is to first fully comprehend the data. I believe that this crucial step also aids in understanding exactly how and where to augment the data if needed. I will keep working on this and perhaps train only a single small model eventually.
 
 ## <center>The Challenge
 
@@ -85,8 +84,9 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|56| 2024-04-09 | Luna16: Plotting mhd images in 2D from sample subset | 3D CV |
-|55| 2024-04-08 | Luna16: Processing mhd images and working on sample dataset | 3D CV |
+|57| 2024-04-10 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Plotting mhd images in 3D and generating animations to better understand data | 3D CV  |
+|56| 2024-04-09 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Plotting mhd images in 2D from sample subset | 3D CV |
+|55| 2024-04-08 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Processing mhd images and working on sample dataset | 3D CV |
 |54| 2024-04-07 | LeetCode: [Next Permutation](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0031-next-permutation), [Length of Last Word](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0058-length-of-last-word),[Merge Sorted Array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0088-merge-sorted-array) | DSA |
 |53| 2024-04-06 | LeetCode: [Find the Index of the First Occurrence in a String](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0028-find-the-index-of-the-first-occurrence-in-a-string), [Divide Two Integers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0029-divide-two-integers), [3Sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0015-3sum), [4Sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0018-4sum),  [Search Insert Position](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0035-search-insert-position) | DSA |
 |52| 2024-04-05 | Exploring the [Luna16](https://luna16.grand-challenge.org/) dataset for lung node analysis inlcuding [data exploration](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D) on the sample. | 3D CV |
