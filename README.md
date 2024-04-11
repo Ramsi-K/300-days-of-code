@@ -32,10 +32,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 --------------------------------------------------------------------------------------------- -->
 ### [Luna-Net3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-04-10</p>**
+**<p align="right">2024-04-11</p>**
 
 - **Task Description**:
-Luna-Net3D: Over the past few days I have been working on understanding the data provided in the Luna16 dataset. Initially I thought the data exploration would be easier considering it was used for the Kaggle Data Science Bowl 2017. However, the dataset structure and format has changed from then. Most of the work I have found that discussed this dataset has been unhelpful. Many of the discussions surrounding the Luna16 dataset have also turned out to be unhelpful. I have been working on understanding and plotting the mhd and zraw images in 2D as well as 3D. I think the most important aspect of developing a deep learning model is to first fully comprehend the data. I believe that this crucial step also aids in understanding exactly how and where to augment the data if needed. I will keep working on this and perhaps train only a single small model eventually.
+Luna-Net3D: Working on data preprocessing methods and exploring libraries for the same. Spent a large amount of time on understanding medical imaging methods and space understanding. Also explored built-in functions for the sitk lib and others for image viewing and plotting.
 
 ## <center>The Challenge
 
@@ -84,6 +84,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|58| 2024-04-11 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing - Medical image and ct scan fundamanetals and lib explorations| 3D CV |
 |57| 2024-04-10 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Plotting mhd images in 3D and generating animations to better understand data | 3D CV  |
 |56| 2024-04-09 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Plotting mhd images in 2D from sample subset | 3D CV |
 |55| 2024-04-08 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Processing mhd images and working on sample dataset | 3D CV |
