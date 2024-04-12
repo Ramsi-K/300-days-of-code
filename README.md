@@ -32,10 +32,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 --------------------------------------------------------------------------------------------- -->
 ### [Luna-Net3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-04-11</p>**
+**<p align="right">2024-04-12</p>**
 
 - **Task Description**:
-Luna-Net3D: Working on data preprocessing methods and exploring libraries for the same. Spent a large amount of time on understanding medical imaging methods and space understanding. Also explored built-in functions for the sitk lib and others for image viewing and plotting.
+Luna-Net3D: Working on data preprocessing methods. Understanding medical image coordinates and transformation methods.
 
 ## <center>The Challenge
 
@@ -84,6 +84,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|59| 2024-04-12 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing -  coordinates manipulations and image transformations | 3D CV |
 |58| 2024-04-11 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing - Medical image and ct scan fundamanetals and lib explorations| 3D CV |
 |57| 2024-04-10 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Plotting mhd images in 3D and generating animations to better understand data | 3D CV  |
 |56| 2024-04-09 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Plotting mhd images in 2D from sample subset | 3D CV |
