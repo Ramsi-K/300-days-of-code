@@ -14,10 +14,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 |  |Project Title        | Description                            | Framework     |  Comments | |
 |---|:----------------------:|:---------------------------------------------:|:---------------:|----------:|----------|
-| 1 | Road Sign Classifier | Multiclass classification of road sign images    | Pytorch    |  Building training and tracking pipelines from scratch |🟢|
-| 2 | Human Action Recognition | Video based multiclass classification of human actions            | TensorFlow    |  In Progress: training baseline models |🟢|
+| 1 | LunaNet3D | 3D medical image analysis for lung nodule detection using the LUNA16 dataset | PyTorch | Working on data preprocessing, transformations, and visualizations |🟢|
+| 2 | Road Sign Classifier | Multiclass classification of road sign images | PyTorch | Building training and tracking pipelines from scratch |🟠|
+| 3 | Human Action Recognition | Video-based multiclass classification of human actions | TensorFlow | In Progress: training baseline models |🟠|
 
-*🟠 : To Do
+
+*🟠 : On Pause
 🟢 : In Progress
 🟣 : Complete*
 <br/><br/>
@@ -30,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-### [Luna-Net3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [LeetCode  Exercises](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
 
-**<p align="right">2024-04-12</p>**
+**<p align="right">2024-04-14</p>**
 
 - **Task Description**:
-Luna-Net3D: Working on data preprocessing methods. Understanding medical image coordinates and transformation methods.
+Worked mainly on Pandas exercises on Leetcode.
 
 ## <center>The Challenge
 
@@ -67,15 +69,16 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
 
 ## <center>30-Day Coding Sprints: Project Highlights
 
-Here's a glimpse into the projects accomplished during the inaugural 30-Day Sprint of my 300-day challenge:
+Here's a glimpse into the projects accomplished during the second 30-Day Sprint of my 300-day challenge:
 
-1. **Implementing Vision Transformer (ViT) from Scratch**: Developing a deep understanding of the ViT architecture and translating theoretical concepts into functional code to create a ViT model using PyTorch.
+1. **LunaNet3D - Medical Image Preprocessing**: Delved into data preprocessing, manipulation, and visualization of the LUNA16 dataset. This sprint involved detailed exploration of medical images, working on CT scan fundamentals, and generating insightful 3D visualizations to better understand the dataset. I tackled tasks like thresholding, segmentations, and transformations.
 
-2. **Training a Semantic Segmentation Model with Open3D**: Leveraging the Open3D library to train a semantic segmentation model on the SemanticKITTI dataset, involving data loading, transformation, and visualization tasks.
+2. **Graph Neural Networks (GNNs) with PyG**: Completed various tasks with GNNs using PyTorch Geometric (PyG), such as node and graph classification, understanding spectral graph convolutions, and working on point cloud classification using PointNet++. Key projects included GAT models and link prediction on the MovieLens dataset.
 
-3. **Exploring Classic Control Tasks for Reinforcement Learning**: Delving into classic control environments to understand Markov Decision Processes (MDP), Temporal Difference (TD) learning, and Q-learning, implementing these concepts in Python using reinforcement learning techniques.
+3. **LeetCode DSA Practice**: Strengthened problem-solving skills by solving LeetCode problems on topics such as permutations, binary search, and array manipulations. Continued sharpening algorithmic thinking with hands-on exercises in preparation for coding interviews.
 
-4. **Building a Multimodal GAN for Image Generation**: Constructing a Generative Adversarial Network (GAN) capable of generating images from text descriptions by combining pre-trained models such as CLIP and VQGAN, emphasizing multi-modal fusion and learning.
+4. **3D Object Detection**: Explored 3D object detection by implementing models like Frustum PointNets and VoteNet. These models are key for real-time object detection in 3D environments, using point cloud data and voxel representations to enhance object recognition capabilities.
+
 <br/><br/>
 
 ## <center>Daily Tasks
@@ -84,6 +87,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|61| 2024-04-14 | LeetCode: [Combine two tables](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0175-combine-two-tables), [Second highest salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0176-second-highest-salary), [Rank Scores](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0178-rank-scores), [Consecutive Numbers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0180-consecutive-numbers), [Employees earning more than their managers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0181-employees-earning-more-than-their-managers), [Duplicate Emails](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0182-duplicate-emails), [Customers who never order](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0183-customers-who-never-order) | DSA |
 |60| 2024-04-13 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing| 3D CV |
 |59| 2024-04-12 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing -  coordinates manipulations and image transformations | 3D CV |
 |58| 2024-04-11 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing - Medical image and ct scan fundamanetals and lib explorations| 3D CV |
@@ -151,20 +155,3 @@ Feel free to reach out, provide feedback, or collaborate on any aspect of the jo
 
 Happy Coding! 🚀
 
-<!-- TODO Topics, Ideas, Tutorials
-**Topics to cover:** Segmentation, Object Detection, human pose, SLAM, GANs, Quantization, Pruning, Depth Analysis, Multi-Object Multi-Camera Tracking, 3D reconstruction, augmented reality?, Image Restoration, Image Enhancement, Optical Flow, Multi-View Geometry, Domain Adaptation, Anomaly Detection, 3D point clouds, OpenCV implementations
-
-**Project Ideas:** 
-- Hand gesture (ASL?), 
-- Vehicle Tracking on road, 
-- Point Cloud Library, 
-- [Multi-object tracking of people in surveillance videos](https://youtu.be/1VTQ2b3fbb0)
-- [A  prototype of a virtual fitting room solution for a startup from Silicon Valley](https://youtu.be/HloNNIW1kx4)
-- An engine for visual understanding of industrial scenes captured by high-precision laser scanners (2D and 3D data)
-- Aerial and satellite image analysis – semantic segmentation of multispectral photos and objects detection
-
-**Tutorials:** 
-- PCL 
-    - Hypothesis Verification for 3D Object Recognition 
-    -  Detecting people on a ground plane with RGB-D data
-    - Detecting people and their poses using PointCloud Library -->
