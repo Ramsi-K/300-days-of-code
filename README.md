@@ -32,12 +32,14 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
                 CHANGE TITLE AND DATE AND DESCRIPTION
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-### Radiance Field Meetup
 
-**<p align="right">2024-04-15</p>**
+### [LunaNet3D: Exploring Excluded Annotations](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+
+**<p align="right">2024-04-16</p>**
 
 - **Task Description**:  
-Attended a Radiance Field meetup focused on NeRF (Neural Radiance Fields) and Gaussian Splatting. Discussed key techniques and their application in 3D scene reconstruction, providing useful insights for future work with NeRF.
+Explored excluded annotations within the Luna16 dataset, investigating how to handle these exceptions effectively to improve data integrity and performance during model training.
+
 
 
 ## <center>The Challenge
@@ -88,10 +90,11 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|63| 2024-04-16 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Exploring excluded annotations and understanding the dataset | 3D CV |
 |62| 2024-04-15 | Radiance Field Meetup: NeRF and Gaussian Splatting discussion | NeRF |
 |61| 2024-04-14 | LeetCode: [Combine two tables](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0175-combine-two-tables), [Second highest salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0176-second-highest-salary), [Rank Scores](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0178-rank-scores), [Consecutive Numbers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0180-consecutive-numbers), [Employees earning more than their managers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0181-employees-earning-more-than-their-managers), [Duplicate Emails](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0182-duplicate-emails), [Customers who never order](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0183-customers-who-never-order) | DSA |
-|60| 2024-04-13 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing| 3D CV |
-|59| 2024-04-12 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing -  coordinates manipulations and image transformations | 3D CV |
+|60| 2024-04-13 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing| 3D CV |
+|59| 2024-04-12 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing -  coordinates manipulations and image transformations | 3D CV |
 |58| 2024-04-11 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing - Medical image and ct scan fundamanetals and lib explorations| 3D CV |
 |57| 2024-04-10 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Plotting mhd images in 3D and generating animations to better understand data | 3D CV  |
 |56| 2024-04-09 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Plotting mhd images in 2D from sample subset | 3D CV |
