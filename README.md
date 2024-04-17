@@ -33,12 +33,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D: Exploring Excluded Annotations](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [LunaNet3D:](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)  Visualizations - Thresholding and Morphological Techniques
 
-**<p align="right">2024-04-16</p>**
+**<p align="right">2024-04-17</p>**
 
 - **Task Description**:  
-Explored excluded annotations within the Luna16 dataset, investigating how to handle these exceptions effectively to improve data integrity and performance during model training.
+Worked on various visualization techniques, including thresholding, segmentation, binary, and morphological methods, to gain deeper insights into the dataset's structure and characteristics.
+
 
 
 
@@ -90,6 +91,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|64| 2024-04-17 | LunaNet3D: Visualizations using thresholding and morphological techniques | 3D CV |
 |63| 2024-04-16 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Exploring excluded annotations and understanding the dataset | 3D CV |
 |62| 2024-04-15 | Radiance Field Meetup: NeRF and Gaussian Splatting discussion | NeRF |
 |61| 2024-04-14 | LeetCode: [Combine two tables](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0175-combine-two-tables), [Second highest salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0176-second-highest-salary), [Rank Scores](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0178-rank-scores), [Consecutive Numbers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0180-consecutive-numbers), [Employees earning more than their managers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0181-employees-earning-more-than-their-managers), [Duplicate Emails](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0182-duplicate-emails), [Customers who never order](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0183-customers-who-never-order) | DSA |
