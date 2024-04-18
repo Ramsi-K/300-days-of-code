@@ -18,7 +18,6 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 | 2 | Road Sign Classifier | Multiclass classification of road sign images | PyTorch | Building training and tracking pipelines from scratch |🟠|
 | 3 | Human Action Recognition | Video-based multiclass classification of human actions | TensorFlow | In Progress: training baseline models |🟠|
 
-
 *🟠 : On Pause
 🟢 : In Progress
 🟣 : Complete*
@@ -33,15 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D:](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)  Visualizations - Thresholding and Morphological Techniques
+### [LunaNet3D: Visualizations - Nodules, Binary Masking, Segmentations](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-04-17</p>**
+**<p align="right">2024-04-18</p>**
 
 - **Task Description**:  
-Worked on various visualization techniques, including thresholding, segmentation, binary, and morphological methods, to gain deeper insights into the dataset's structure and characteristics.
-
-
-
+Focused on advanced visualizations, including nodule plotting, binary masking, intensity mapping, and segmentation techniques, to improve the quality of image processing and understanding in LunaNet3D.
 
 ## <center>The Challenge
 
@@ -91,6 +87,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|65| 2024-04-18 | LunaNet3D: Visualizations (nodules, binary masking, segmentations) | 3D CV |
 |64| 2024-04-17 | LunaNet3D: Visualizations using thresholding and morphological techniques | 3D CV |
 |63| 2024-04-16 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Exploring excluded annotations and understanding the dataset | 3D CV |
 |62| 2024-04-15 | Radiance Field Meetup: NeRF and Gaussian Splatting discussion | NeRF |
@@ -161,4 +158,3 @@ Here's a log of the daily tasks completed during the coding challenge:
 Feel free to reach out, provide feedback, or collaborate on any aspect of the journey. Let's embark on this coding adventure together!
 
 Happy Coding! 🚀
-
