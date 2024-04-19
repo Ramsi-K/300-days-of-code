@@ -32,12 +32,14 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D: Visualizations - Nodules, Binary Masking, Segmentations](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-04-18</p>**
+### [Revisiting PAg-NeRF Paper](https://arxiv.org/abs/2309.05339)
+
+**<p align="right">2024-04-19</p>**
 
 - **Task Description**:  
-Focused on advanced visualizations, including nodule plotting, binary masking, intensity mapping, and segmentation techniques, to improve the quality of image processing and understanding in LunaNet3D.
+Revisited the PAg-NeRF paper to explore Gaussian Splatting and its potential integration into ongoing work, particularly to improve 3D scene rendering and reconstruction.
+
 
 ## <center>The Challenge
 
@@ -87,6 +89,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|66| 2024-04-19 | Revisiting PAg-NeRF paper for Gaussian Splatting and potential integration | NeRF |
 |65| 2024-04-18 | LunaNet3D: Visualizations (nodules, binary masking, segmentations) | 3D CV |
 |64| 2024-04-17 | LunaNet3D: Visualizations using thresholding and morphological techniques | 3D CV |
 |63| 2024-04-16 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Exploring excluded annotations and understanding the dataset | 3D CV |
