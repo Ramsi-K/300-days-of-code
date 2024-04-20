@@ -32,14 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
+### [LunaNet3D: Statistical Analysis, Volume Comparisons, Updates](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-### [Revisiting PAg-NeRF Paper](https://arxiv.org/abs/2309.05339)
-
-**<p align="right">2024-04-19</p>**
+**<p align="right">2024-04-20</p>**
 
 - **Task Description**:  
-Revisited the PAg-NeRF paper to explore Gaussian Splatting and its potential integration into ongoing work, particularly to improve 3D scene rendering and reconstruction.
-
+Performed statistical analysis and volume comparison setups, updated utility functions in `utils.py`, and laid the groundwork for further exploration of 3D medical image processing.
 
 ## <center>The Challenge
 
@@ -89,8 +87,9 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|66| 2024-04-19 | Revisiting PAg-NeRF paper for Gaussian Splatting and potential integration | NeRF |
-|65| 2024-04-18 | LunaNet3D: Visualizations (nodules, binary masking, segmentations) | 3D CV |
+|67| 2024-04-20 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Statistical analysis, volume comparison setup, utils.py updates | 3D CV |
+|66| 2024-04-19 | Revisiting [PAg-NeRF](https://arxiv.org/abs/2309.05339) paper for Gaussian Splatting and potential integration | NeRF |
+|65| 2024-04-18 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Visualizations (nodules, binary masking, segmentations) | 3D CV |
 |64| 2024-04-17 | LunaNet3D: Visualizations using thresholding and morphological techniques | 3D CV |
 |63| 2024-04-16 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Exploring excluded annotations and understanding the dataset | 3D CV |
 |62| 2024-04-15 | Radiance Field Meetup: NeRF and Gaussian Splatting discussion | NeRF |
