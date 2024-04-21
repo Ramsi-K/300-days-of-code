@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D: Statistical Analysis, Volume Comparisons, Updates](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [LeetCode: Pandas Exercises](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
 
-**<p align="right">2024-04-20</p>**
+**<p align="right">2024-04-21</p>**
 
 - **Task Description**:  
-Performed statistical analysis and volume comparison setups, updated utility functions in `utils.py`, and laid the groundwork for further exploration of 3D medical image processing.
+Completed additional Pandas exercises on LeetCode to refine data manipulation and analysis skills, with an emphasis on improving efficiency in working with tabular datasets.
 
 ## <center>The Challenge
 
@@ -87,6 +87,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|68| 2024-04-21 | LeetCode: [Nth Highest Salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0177-nth-highest-salary), [Department Highest Salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0184-department-highest-salary), [Top 3 Salaries](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0185-department-top-three-salaries), [Delete Duplicate Emails](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0196-delete-duplicate-emails), [Rising Temperature](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0197-rising-temperature), [Trips and Users](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0262-trips-and-users) | DSA |
 |67| 2024-04-20 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Statistical analysis, volume comparison setup, utils.py updates | 3D CV |
 |66| 2024-04-19 | Revisiting [PAg-NeRF](https://arxiv.org/abs/2309.05339) paper for Gaussian Splatting and potential integration | NeRF |
 |65| 2024-04-18 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Visualizations (nodules, binary masking, segmentations) | 3D CV |
