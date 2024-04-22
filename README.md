@@ -32,12 +32,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LeetCode: Pandas Exercises](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
+### [LunaNet3D: Addressing Annotation Mismatches and CSV File Investigation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-04-21</p>**
+**<p align="right">2024-04-22</p>**
 
 - **Task Description**:  
-Completed additional Pandas exercises on LeetCode to refine data manipulation and analysis skills, with an emphasis on improving efficiency in working with tabular datasets.
+Addressed mismatches between the `labels.csv` and `annotations.csv` files, investigating the root cause of inconsistencies in the Luna16 dataset, and performed data cleaning tasks.
+
 
 ## <center>The Challenge
 
@@ -87,6 +88,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|69| 2024-04-22 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Addressing annotation mismatches and CSV file investigation | 3D CV |
 |68| 2024-04-21 | LeetCode: [Nth Highest Salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0177-nth-highest-salary), [Department Highest Salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0184-department-highest-salary), [Top 3 Salaries](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0185-department-top-three-salaries), [Delete Duplicate Emails](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0196-delete-duplicate-emails), [Rising Temperature](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0197-rising-temperature), [Trips and Users](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0262-trips-and-users) | DSA |
 |67| 2024-04-20 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Statistical analysis, volume comparison setup, utils.py updates | 3D CV |
 |66| 2024-04-19 | Revisiting [PAg-NeRF](https://arxiv.org/abs/2309.05339) paper for Gaussian Splatting and potential integration | NeRF |
