@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D: Data Exploration, Outlier Handling, Class Imbalance Analysis](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [LunaNet3D: Helper Functions and Data Analysis](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-04-23</p>**
+**<p align="right">2024-04-24</p>**
 
 - **Task Description**:  
-Conducted a deep dive into data exploration, focusing on outlier handling and class imbalance analysis. Also explored strategies for utilizing the `weightedRandomSampler` in PyTorch to address class imbalance during training.
+Worked on building helper function files (`utils.py`, `data_analysis.py`, `image_processing.py`) to streamline analysis processes, and refined data analysis techniques for better pre-processing and exploration.
 
 ## <center>The Challenge
 
@@ -87,6 +87,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|71| 2024-04-24 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Helper function files and more data analysis | 3D CV |
 |70| 2024-04-23 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data exploration, outlier handling, class imbalance analysis, and sampler setup | 3D CV |
 |69| 2024-04-22 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Addressing annotation mismatches and CSV file investigation | 3D CV |
 |68| 2024-04-21 | LeetCode: [Nth Highest Salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0177-nth-highest-salary), [Department Highest Salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0184-department-highest-salary), [Top 3 Salaries](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0185-department-top-three-salaries), [Delete Duplicate Emails](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0196-delete-duplicate-emails), [Rising Temperature](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0197-rising-temperature), [Trips and Users](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0262-trips-and-users) | DSA |
