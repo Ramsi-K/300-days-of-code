@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D: Redid Voxel Transformations and Validation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [LunaNet3D: Final Data Validation and Consistency Check](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-04-26</p>**
+**<p align="right">2024-04-27</p>**
 
 - **Task Description**:  
-Redid the voxel transformations to account for orientation issues (left vs. right), rechecked the process for consistency, and validated the transformations to ensure correctness before proceeding.
+Performed the final round of data validation to ensure that the dataset is consistent, well-structured, and ready for training, marking the completion of the pre-processing stage for LunaNet3D.
 
 ## <center>The Challenge
 
@@ -87,6 +87,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|74| 2024-04-27 |  [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Final data validation and checking for consistency | 3D CV |
 |73| 2024-04-26 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Redid voxel transformations, orientation issues, and validation | 3D CV |
 |72| 2024-04-25 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Pre-processing voxel transformations and storing them in CSV format | 3D CV |
 |71| 2024-04-24 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Helper function files and more data analysis | 3D CV |
