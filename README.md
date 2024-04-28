@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D: Final Data Validation and Consistency Check](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [LeetCode: Pandas Exercises](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
 
-**<p align="right">2024-04-27</p>**
+**<p align="right">2024-04-28</p>**
 
 - **Task Description**:  
-Performed the final round of data validation to ensure that the dataset is consistent, well-structured, and ready for training, marking the completion of the pre-processing stage for LunaNet3D.
+Continued to strengthen data manipulation skills by working on Pandas-related exercises on LeetCode, refining techniques for handling complex tabular data in Python.
 
 ## <center>The Challenge
 
@@ -87,6 +87,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|75| 2024-04-28 | LeetCode: [Game Play Analysis 1](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0511-game-play-analysis-i), [Game Play Analysis 4](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0550-game-play-analysis-iv), [Managers with 5 direct reports](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0570-managers-with-at-least-5-direct-reports) | DSA |
 |74| 2024-04-27 |  [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Final data validation and checking for consistency | 3D CV |
 |73| 2024-04-26 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Redid voxel transformations, orientation issues, and validation | 3D CV |
 |72| 2024-04-25 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Pre-processing voxel transformations and storing them in CSV format | 3D CV |
