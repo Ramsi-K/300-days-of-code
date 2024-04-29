@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LeetCode: Pandas Exercises](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
+### [Luna-Net3D: Data Validation Script and Comparative Plotting](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-04-28</p>**
+**<p align="right">2024-04-29</p>**
 
 - **Task Description**:  
-Continued to strengthen data manipulation skills by working on Pandas-related exercises on LeetCode, refining techniques for handling complex tabular data in Python.
+Implemented a comprehensive data validation script for Luna-Net3D to verify the accuracy and alignment of voxel and nodule data. Generated comparative plots, both 2D and 3D, to visualize nodule locations and inspect data consistency across different views.
 
 ## <center>The Challenge
 
@@ -87,6 +87,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|76 | 2024-04-29 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data validation script and comparative plotting | 3D CV |
 |75| 2024-04-28 | LeetCode: [Game Play Analysis 1](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0511-game-play-analysis-i), [Game Play Analysis 4](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0550-game-play-analysis-iv), [Managers with 5 direct reports](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0570-managers-with-at-least-5-direct-reports) | DSA |
 |74| 2024-04-27 |  [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Final data validation and checking for consistency | 3D CV |
 |73| 2024-04-26 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Redid voxel transformations, orientation issues, and validation | 3D CV |
@@ -98,7 +99,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 |67| 2024-04-20 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Statistical analysis, volume comparison setup, utils.py updates | 3D CV |
 |66| 2024-04-19 | Revisiting [PAg-NeRF](https://arxiv.org/abs/2309.05339) paper for Gaussian Splatting and potential integration | NeRF |
 |65| 2024-04-18 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Visualizations (nodules, binary masking, segmentations) | 3D CV |
-|64| 2024-04-17 | LunaNet3D: Visualizations using thresholding and morphological techniques | 3D CV |
+|64| 2024-04-17 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Visualizations using thresholding and morphological techniques | 3D CV |
 |63| 2024-04-16 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Exploring excluded annotations and understanding the dataset | 3D CV |
 |62| 2024-04-15 | Radiance Field Meetup: NeRF and Gaussian Splatting discussion | NeRF |
 |61| 2024-04-14 | LeetCode: [Combine two tables](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0175-combine-two-tables), [Second highest salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0176-second-highest-salary), [Rank Scores](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0178-rank-scores), [Consecutive Numbers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0180-consecutive-numbers), [Employees earning more than their managers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0181-employees-earning-more-than-their-managers), [Duplicate Emails](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0182-duplicate-emails), [Customers who never order](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0183-customers-who-never-order) | DSA |
