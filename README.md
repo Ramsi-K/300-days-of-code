@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Data Restructuring and Visual Analysis](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Voxel to Lung Alignment Validation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-04-30</p>**
+**<p align="right">2024-05-01</p>**
 
 - **Task Description**:  
-Restructured the data files in Luna-Net3D to enhance readability and efficiency in data handling. Developed helper functions for generating 2D and 3D plots with and without nodule highlights, allowing for a clearer comparative visual analysis.
+Conducted validation checks to ensure accurate alignment between voxel coordinates and lung data. This step was essential to guarantee that voxel data accurately represents the structure of the lungs, paving the way for precise nodule annotations.
 
 ---
 
@@ -89,6 +89,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|78 | 2024-05-01 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Voxel to lung alignment validation | 3D CV |
 |77 | 2024-04-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data restructuring and comparative visual analysis | 3D CV |
 |76 | 2024-04-29 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data validation script and comparative plotting | 3D CV |
 |75| 2024-04-28 | LeetCode: [Game Play Analysis 1](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0511-game-play-analysis-i), [Game Play Analysis 4](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0550-game-play-analysis-iv), [Managers with 5 direct reports](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0570-managers-with-at-least-5-direct-reports) | DSA |
