@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Voxel to Lung Alignment Validation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Misaligned Nodule Analysis and Edge Detection](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-01</p>**
+**<p align="right">2024-05-02</p>**
 
 - **Task Description**:  
-Conducted validation checks to ensure accurate alignment between voxel coordinates and lung data. This step was essential to guarantee that voxel data accurately represents the structure of the lungs, paving the way for precise nodule annotations.
+Focused on detecting misaligned nodules within the dataset, primarily using boundary and edge detection methods. This analysis identified nodules close to lung boundaries, a key step for future error correction and segmentation accuracy.
 
 ---
 
@@ -89,6 +89,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|79 | 2024-05-02 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Misaligned nodule analysis and boundary detection | 3D CV |
 |78 | 2024-05-01 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Voxel to lung alignment validation | 3D CV |
 |77 | 2024-04-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data restructuring and comparative visual analysis | 3D CV |
 |76 | 2024-04-29 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data validation script and comparative plotting | 3D CV |
