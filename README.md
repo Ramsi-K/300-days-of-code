@@ -32,14 +32,15 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Misaligned Nodule Analysis and Edge Detection](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Boundary Edge Debugging](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-02</p>**
+**<p align="right">2024-05-03</p>**
 
 - **Task Description**:  
-Focused on detecting misaligned nodules within the dataset, primarily using boundary and edge detection methods. This analysis identified nodules close to lung boundaries, a key step for future error correction and segmentation accuracy.
+Debugged and refined the boundary edge detection techniques for nodule validation. This step aimed to increase the precision of identifying nodules at lung boundaries, ensuring accurate data for future modeling.
 
 ---
+
 
 ## <center>The Challenge
 
@@ -89,6 +90,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|80 | 2024-05-03 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Debugging boundary/edge cases in misaligned nodule analysis | 3D CV |
 |79 | 2024-05-02 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Misaligned nodule analysis and boundary detection | 3D CV |
 |78 | 2024-05-01 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Voxel to lung alignment validation | 3D CV |
 |77 | 2024-04-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data restructuring and comparative visual analysis | 3D CV |
