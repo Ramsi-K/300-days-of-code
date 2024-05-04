@@ -32,15 +32,15 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Boundary Edge Debugging](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-03</p>**
+### [Luna-Net3D: Boundary to Nodule Correlations](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+
+**<p align="right">2024-05-04</p>**
 
 - **Task Description**:  
-Debugged and refined the boundary edge detection techniques for nodule validation. This step aimed to increase the precision of identifying nodules at lung boundaries, ensuring accurate data for future modeling.
+Analyzed the correlation between nodules and lung boundaries, calculating p-values to differentiate aligned from misaligned nodules. The analysis also included outlier detection, setting a foundation for further refinement in nodule classification.
 
 ---
-
 
 ## <center>The Challenge
 
@@ -90,6 +90,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|81 | 2024-05-04 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Boundary-nodule correlations, p-values, and outlier detection | 3D CV |
 |80 | 2024-05-03 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Debugging boundary/edge cases in misaligned nodule analysis | 3D CV |
 |79 | 2024-05-02 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Misaligned nodule analysis and boundary detection | 3D CV |
 |78 | 2024-05-01 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Voxel to lung alignment validation | 3D CV |
