@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [YOLOv3: Paper to Code](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3)
+### [Luna-Net3D: Linear Regression Analysis and Orientation Validation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-05</p>**
+**<p align="right">2024-05-06</p>**
 
 - **Task Description**:  
-Began coding the YOLOv3 model based on the original paper. This included setting up the backbone architecture for object detection, understanding layer design, and preparing for future training on nodule detection.
+Performed multiple linear regression on voxel data to analyze nodule orientation and alignment. Investigated pleural-based nodules and recalculated distances between nodules and lung boundaries.
 
 ---
 
@@ -89,6 +89,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|83 | 2024-05-06 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Multiple linear regression analysis, voxel alignment, orientation validation | 3D CV |
 |82 | 2024-05-05 | YOLOv3 paper exploration and code setup | DL 2D |
 |81 | 2024-05-04 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Boundary-nodule correlations, p-values, and outlier detection | 3D CV |
 |80 | 2024-05-03 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Debugging boundary/edge cases in misaligned nodule analysis | 3D CV |
