@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Visual Inspection and LPI Conversion Error Fix](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Voxel Conversion and Distance Calculation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-07</p>**
+**<p align="right">2024-05-08</p>**
 
 - **Task Description**:  
-Completed a detailed visual inspection of nodule data and discovered an error in LPI coordinate conversion. Working on correcting this issue by adjusting the conversion process to accurately handle left/right orientation, reducing data discrepancies.
+Finalized the conversion of voxel coordinates and recalculated distances for accurate nodule placements. Utilized the MHD transformation matrix to handle negative axis values and document voxel-distance calculations.
 
 ---
 
@@ -89,6 +89,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|85 | 2024-05-08 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Fixed LPI nodule orientation issue with mhd transform matrix adjustments | 3D CV |
 |84 | 2024-05-07 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Completed visual inspection, discovered errors in LPI nodule conversion | 3D CV |
 |83 | 2024-05-06 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Multiple linear regression analysis, voxel alignment, orientation validation | 3D CV |
 |82 | 2024-05-05 | YOLOv3 paper exploration and code setup | DL 2D |
