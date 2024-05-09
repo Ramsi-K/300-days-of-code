@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Voxel Conversion and Distance Calculation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Markdown Documentation for Data Validation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-08</p>**
+**<p align="right">2024-05-09</p>**
 
 - **Task Description**:  
-Finalized the conversion of voxel coordinates and recalculated distances for accurate nodule placements. Utilized the MHD transformation matrix to handle negative axis values and document voxel-distance calculations.
+Created a detailed markdown file documenting the data validation process, including voxel alignment, distance calculations, and any identified misalignments. This serves as a comprehensive reference for data integrity checks. Final calculations of voxel coordinate values for both annotations and labels files.
 
 ---
 
@@ -89,6 +89,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|86 | 2024-05-09 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data validation markdown creation, recalculating voxel distances for annotations and labels | 3D CV |
 |85 | 2024-05-08 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Fixed LPI nodule orientation issue with mhd transform matrix adjustments | 3D CV |
 |84 | 2024-05-07 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Completed visual inspection, discovered errors in LPI nodule conversion | 3D CV |
 |83 | 2024-05-06 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Multiple linear regression analysis, voxel alignment, orientation validation | 3D CV |
