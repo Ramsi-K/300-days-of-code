@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Markdown Documentation for Data Validation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Misalignment Validation and Interactive Plotting](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-09</p>**
+**<p align="right">2024-05-10</p>**
 
 - **Task Description**:  
-Created a detailed markdown file documenting the data validation process, including voxel alignment, distance calculations, and any identified misalignments. This serves as a comprehensive reference for data integrity checks. Final calculations of voxel coordinate values for both annotations and labels files.
+Validated misaligned images by plotting them in both 2D and 3D. Explored interactive plotting with libraries such as Plotly to enhance visualization of nodule misalignment.
 
 ---
 
@@ -89,6 +89,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|87 | 2024-05-10 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Validating misaligned images with 2D/3D plotting and working on interactive 3D visualizations | 3D CV |
 |86 | 2024-05-09 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data validation markdown creation, recalculating voxel distances for annotations and labels | 3D CV |
 |85 | 2024-05-08 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Fixed LPI nodule orientation issue with mhd transform matrix adjustments | 3D CV |
 |84 | 2024-05-07 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Completed visual inspection, discovered errors in LPI nodule conversion | 3D CV |
