@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Interactive 3D Plotting with Plotly](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [YOLOv3: Training and Documentation](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3)
 
-**<p align="right">2024-05-11</p>**
+**<p align="right">2024-05-12</p>**
 
 - **Task Description**:  
-Developed interactive 3D plots for better exploration of nodule data. Used Plotly to create dynamic visualizations of misaligned nodules, providing an intuitive interface for inspection.
+Completed the YOLOv3 implementation with training on preliminary datasets. Documented the process in the README, summarizing architecture details and training outcomes.
 
 ---
 
@@ -89,13 +89,14 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|89 | 2024-05-12| Completed [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3) paper implementation, training, and README documentation | DL 2D |
 |88 | 2024-05-11 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Interactive 3D plotting of misaligned nodules using Plotly | 3D CV |
 |87 | 2024-05-10 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Validating misaligned images with 2D/3D plotting and working on interactive 3D visualizations | 3D CV |
 |86 | 2024-05-09 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data validation markdown creation, recalculating voxel distances for annotations and labels | 3D CV |
 |85 | 2024-05-08 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Fixed LPI nodule orientation issue with mhd transform matrix adjustments | 3D CV |
 |84 | 2024-05-07 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Completed visual inspection, discovered errors in LPI nodule conversion | 3D CV |
 |83 | 2024-05-06 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Multiple linear regression analysis, voxel alignment, orientation validation | 3D CV |
-|82 | 2024-05-05 | YOLOv3 paper exploration and code setup | DL 2D |
+|82 | 2024-05-05 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3) paper exploration and code setup | DL 2D |
 |81 | 2024-05-04 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Boundary-nodule correlations, p-values, and outlier detection | 3D CV |
 |80 | 2024-05-03 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Debugging boundary/edge cases in misaligned nodule analysis | 3D CV |
 |79 | 2024-05-02 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Misaligned nodule analysis and boundary detection | 3D CV |
