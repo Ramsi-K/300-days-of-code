@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [YOLOv3: Training and Documentation](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3)
+### [Luna-Net3D: Preprocessing and Augmentations](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-12</p>**
+**<p align="right">2024-05-13</p>**
 
 - **Task Description**:  
-Completed the YOLOv3 implementation with training on preliminary datasets. Documented the process in the README, summarizing architecture details and training outcomes.
+Began data preprocessing for Luna-Net3D, including resizing, padding, and augmentations. These steps aimed to standardize the input data for faster loading and efficient training.
 
 ---
 
@@ -69,17 +69,45 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
 - **CodingChallenges**: Code snippets or solutions from coding challenges, providing a mix of practical coding skills and problem-solving capabilities.
 <br/><br/>
 
-## <center>30-Day Coding Sprints: Project Highlights
+## 30-Day Coding Sprints: Project Highlights
 
-Here's a glimpse into the projects accomplished during the second 30-Day Sprint of my 300-day challenge:
+### Latest Sprint: Days 61-90 Highlights
 
-1. **LunaNet3D - Medical Image Preprocessing**: Delved into data preprocessing, manipulation, and visualization of the LUNA16 dataset. This sprint involved detailed exploration of medical images, working on CT scan fundamentals, and generating insightful 3D visualizations to better understand the dataset. I tackled tasks like thresholding, segmentations, and transformations.
+1. **Luna-Net3D Data Validation and Visualization**: An intensive focus on ensuring data quality and alignment, developing scripts for voxel-to-lung validation, boundary checks, and comparative plotting of aligned and misaligned nodules in both 2D and 3D. This phase was crucial for cleaning up the dataset and ensuring accurate annotations.
 
-2. **Graph Neural Networks (GNNs) with PyG**: Completed various tasks with GNNs using PyTorch Geometric (PyG), such as node and graph classification, understanding spectral graph convolutions, and working on point cloud classification using PointNet++. Key projects included GAT models and link prediction on the MovieLens dataset.
+2. **YOLOv3 Paper Implementation**: Started implementing YOLOv3 from scratch based on the original paper to understand the architecture of YOLO and its layers. YOLO’s object detection architecture is an excellent candidate for applying nodule detection to the Luna-Net3D dataset. The work involved coding the layers, training on preliminary data, and drafting detailed notes on implementation.
 
-3. **LeetCode DSA Practice**: Strengthened problem-solving skills by solving LeetCode problems on topics such as permutations, binary search, and array manipulations. Continued sharpening algorithmic thinking with hands-on exercises in preparation for coding interviews.
+3. **Exploring MLOps with ZoomCamp**: Completed Weeks 1 and 2 of the MLOps ZoomCamp course, covering foundational MLOps concepts, experiment tracking, and model management with MLflow. Weekly modules included hands-on exercises, implementing experiment tracking, and setting up a model registry to organize experiments and streamline model development.
 
-4. **3D Object Detection**: Explored 3D object detection by implementing models like Frustum PointNets and VoteNet. These models are key for real-time object detection in 3D environments, using point cloud data and voxel representations to enhance object recognition capabilities.
+4. **Data Preprocessing and Augmentation for Luna-Net3D**: Developed effective data transformations and resizing methods to improve data loading and training speeds. This involved extensive exploration of TorchIO for 3D data augmentation, implementing padding, resizing, and balancing methods, and tackling augmentation-related debugging challenges.
+
+---
+
+<details>
+  <summary>Archived 30-Day Sprints</summary>
+
+  ### Archived Sprint 2: Days 31-60 Highlights
+  
+  1. **LunaNet3D - Medical Image Preprocessing**: Delved into data preprocessing, manipulation, and visualization of the LUNA16 dataset. This sprint involved detailed exploration of medical images, working on CT scan fundamentals, and generating insightful 3D visualizations to better understand the dataset. I tackled tasks like thresholding, segmentations, and transformations.
+
+  2. **Graph Neural Networks (GNNs) with PyG**: Completed various tasks with GNNs using PyTorch Geometric (PyG), such as node and graph classification, understanding spectral graph convolutions, and working on point cloud classification using PointNet++. Key projects included GAT models and link prediction on the MovieLens dataset.
+
+  3. **LeetCode DSA Practice**: Strengthened problem-solving skills by solving LeetCode problems on topics such as permutations, binary search, and array manipulations. Continued sharpening algorithmic thinking with hands-on exercises in preparation for coding interviews.
+
+  4. **3D Object Detection**: Explored 3D object detection by implementing models like Frustum PointNets and VoteNet. These models are key for real-time object detection in 3D environments, using point cloud data and voxel representations to enhance object recognition capabilities.
+
+  ### Archived Sprint 1: Days 1-30 Highlights
+  
+  1. **Implementing Vision Transformer (ViT) from Scratch**: Developing a deep understanding of the ViT architecture and translating theoretical concepts into functional code to create a ViT model using PyTorch.
+
+  2. **Training a Semantic Segmentation Model with Open3D**: Leveraging the Open3D library to train a semantic segmentation model on the SemanticKITTI dataset, involving data loading, transformation, and visualization tasks.
+
+  3. **Exploring Classic Control Tasks for Reinforcement Learning**: Delving into classic control environments to understand Markov Decision Processes (MDP), Temporal Difference (TD) learning, and Q-learning, implementing these concepts in Python using reinforcement learning techniques.
+
+  4. **Building a Multimodal GAN for Image Generation**: Constructing a Generative Adversarial Network (GAN) capable of generating images from text descriptions by combining pre-trained models such as CLIP and VQGAN, emphasizing multi-modal fusion and learning.
+
+</details>
+
 
 <br/><br/>
 
@@ -89,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|90 | 2024-05-13 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data preprocessing with resizing, padding, and augmentation exploration | 3D CV |
 |89 | 2024-05-12| Completed [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3) paper implementation, training, and README documentation | DL 2D |
 |88 | 2024-05-11 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Interactive 3D plotting of misaligned nodules using Plotly | 3D CV |
 |87 | 2024-05-10 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Validating misaligned images with 2D/3D plotting and working on interactive 3D visualizations | 3D CV |
