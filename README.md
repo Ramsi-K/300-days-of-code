@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Preprocessing and Augmentations](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Image Transformations and Augmentation Completion](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-13</p>**
+**<p align="right">2024-05-14</p>**
 
 - **Task Description**:  
-Began data preprocessing for Luna-Net3D, including resizing, padding, and augmentations. These steps aimed to standardize the input data for faster loading and efficient training.
+Completed image transformations and augmentations for Luna-Net3D. Focused on achieving consistency in data size and representation to ensure smooth model training.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|91 | 2024-05-14 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Image transformations and augmentations completed | 3D CV |
 |90 | 2024-05-13 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data preprocessing with resizing, padding, and augmentation exploration | 3D CV |
 |89 | 2024-05-12| Completed [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3) paper implementation, training, and README documentation | DL 2D |
 |88 | 2024-05-11 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Interactive 3D plotting of misaligned nodules using Plotly | 3D CV |
