@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Image Transformations and Augmentation Completion](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Data Organization and Storage Optimization](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-14</p>**
+**<p align="right">2024-05-15</p>**
 
 - **Task Description**:  
-Completed image transformations and augmentations for Luna-Net3D. Focused on achieving consistency in data size and representation to ensure smooth model training.
+Reorganized the dataset for efficient storage and retrieval, considering optimal resizing and saving methods. These adjustments were crucial for reducing data loading times during training.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|92 | 2024-05-15 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data organization with optimal resizing and storage methods for efficient loading | 3D CV |
 |91 | 2024-05-14 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Image transformations and augmentations completed | 3D CV |
 |90 | 2024-05-13 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data preprocessing with resizing, padding, and augmentation exploration | 3D CV |
 |89 | 2024-05-12| Completed [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3) paper implementation, training, and README documentation | DL 2D |
