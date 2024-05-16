@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Data Organization and Storage Optimization](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Label Fixing and Cross-Validation Setup](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-15</p>**
+**<p align="right">2024-05-16</p>**
 
 - **Task Description**:  
-Reorganized the dataset for efficient storage and retrieval, considering optimal resizing and saving methods. These adjustments were crucial for reducing data loading times during training.
+Addressed NaN values in labels and explored data splitting strategies to ensure unique lung instances across different splits. Aligned with official 10-fold cross-validation recommendations.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|93 | 2024-05-16 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Fixing NaN label values, addressing lung instance splitting across folders | 3D CV |
 |92 | 2024-05-15 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data organization with optimal resizing and storage methods for efficient loading | 3D CV |
 |91 | 2024-05-14 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Image transformations and augmentations completed | 3D CV |
 |90 | 2024-05-13 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data preprocessing with resizing, padding, and augmentation exploration | 3D CV |
