@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Label Fixing and Cross-Validation Setup](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Data Resampling and Range Correlation Studies](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-16</p>**
+**<p align="right">2024-05-17</p>**
 
 - **Task Description**:  
-Addressed NaN values in labels and explored data splitting strategies to ensure unique lung instances across different splits. Aligned with official 10-fold cross-validation recommendations.
+Resampled data, resized and padded images, and conducted correlation studies between z-ranges and x/y-ranges to further refine data consistency for training.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|94 | 2024-05-17 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Cross-validation setup with official 10-fold structure and train/val/test splits | 3D CV |
 |93 | 2024-05-16 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Fixing NaN label values, addressing lung instance splitting across folders | 3D CV |
 |92 | 2024-05-15 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data organization with optimal resizing and storage methods for efficient loading | 3D CV |
 |91 | 2024-05-14 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Image transformations and augmentations completed | 3D CV |
