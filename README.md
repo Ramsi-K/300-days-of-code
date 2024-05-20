@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Dataloader Development and Augmentation with TorchIO](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Modularization and System Optimization](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-19</p>**
+**<p align="right">2024-05-20</p>**
 
 - **Task Description**:  
-Built dataloaders for the dataset using TorchIO for 3D augmentations. Faced significant debugging challenges with image sizing and augmentation logging, eventually resolving critical issues.
+Reorganized code into modular scripts for better maintainability. Overcame several system-level issues, streamlining processes for model training and debugging.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|97 | 2024-05-20 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Dataloaders with TorchIO for augmentations, tackling major image sizing and augmentation logging issues | 3D CV |
 |96 | 2024-05-19 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Voxel recalculation post-resizing, image conversion to .npy format, and dataset organization | 3D CV |
 |95 | 2024-05-18 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data resampling, resizing, padding, and correlation studies on z-range and xy-range | 3D CV |
 |94 | 2024-05-17 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Cross-validation setup with official 10-fold structure and train/val/test splits | 3D CV |
