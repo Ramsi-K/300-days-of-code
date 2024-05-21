@@ -34,7 +34,7 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Luna-Net3D: Modularization and System Optimization](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-20</p>**
+**<p align="right">2024-05-21</p>**
 
 - **Task Description**:  
 Reorganized code into modular scripts for better maintainability. Overcame several system-level issues, streamlining processes for model training and debugging.
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|98 | 2024-05-21 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Modularization and system setup, overcoming frustrating system issues | 3D CV |
 |97 | 2024-05-20 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Dataloaders with TorchIO for augmentations, tackling major image sizing and augmentation logging issues | 3D CV |
 |96 | 2024-05-19 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Voxel recalculation post-resizing, image conversion to .npy format, and dataset organization | 3D CV |
 |95 | 2024-05-18 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data resampling, resizing, padding, and correlation studies on z-range and xy-range | 3D CV |
