@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [MLOps ZoomCamp: Week 1 Homework](https://github.com/Ramsi-K/mlops-zoomcamp)
+### [Luna-Net3D: Classification Training Scripts](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-22</p>**
+**<p align="right">2024-05-23</p>**
 
 - **Task Description**:  
-Completed Week 1 of the MLOps Zoomcamp course, focusing on MLOps fundamentals, environment setup, and introductory practices to streamline the machine learning pipeline.
+Developed initial training scripts for the classification model in Luna-Net3D. Implemented baseline model architecture, preparing the dataset for training experiments.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|100| 2024-05-23 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Classification training scripts and baseline model setup | 3D CV |
 |99 | 2024-05-22 |[MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 1 Homework | MLOps |
 |98 | 2024-05-21 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Modularization and system setup, overcoming frustrating system issues | 3D CV |
 |97 | 2024-05-20 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Dataloaders with TorchIO for augmentations, tackling major image sizing and augmentation logging issues | 3D CV |
