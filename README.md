@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Baseline Model and Theoretical Foundations](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Training, Metrics, and Evaluation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-24</p>**
+**<p align="right">2024-05-25</p>**
 
 - **Task Description**:  
-Completed the baseline classification model with theoretical foundations. Ensured accurate model structure and essential math for voxel-based classification.
+Developed scripts for training, metrics calculation, and evaluation. Initial training took over 160 hours per epoch, requiring immediate debugging and optimization.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|102| 2024-05-25 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Training, metrics, and evaluation scripts with extensive debugging (initial epoch time >160 hours) | 3D CV |
 |101| 2024-05-24 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Baseline model for classification completed with theoretical backing | 3D CV |
 |100| 2024-05-23 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Classification training scripts and baseline model setup | 3D CV |
 |99 | 2024-05-22 |[MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 1 Homework | MLOps |
