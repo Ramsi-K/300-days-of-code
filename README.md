@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Training, Metrics, and Evaluation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
-**<p align="right">2024-05-25</p>**
+**<p align="right">2024-05-26</p>**
 
 - **Task Description**:  
-Developed scripts for training, metrics calculation, and evaluation. Initial training took over 160 hours per epoch, requiring immediate debugging and optimization.
+Leetcode Pandas Exercises: [EmployeeBonus](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0577-employee-bonus), [FindCustomerReferee](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0584-find-customer-referee), [Investmentsin2016](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0585-investments-in-2016) [CustomerPlacingTheLargestNumberofOrders](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0586-customer-placing-the-largest-number-of-orders/),[BiggestCountries](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0595-big-countries/),[ClassesMoreThan5Students](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0596-classes-more-than-5-students/), [HumanTrafficofStadium](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0601-human-traffic-of-stadium/)
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|103| 2024-05-26 | LeetCode: [EmployeeBonus](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0577-employee-bonus), [FindCustomerReferee](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0584-find-customer-referee), [Investmentsin2016](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0585-investments-in-2016) [CustomerPlacingTheLargestNumberofOrders](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0586-customer-placing-the-largest-number-of-orders/),[BiggestCountries](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0595-big-countries/),[ClassesMoreThan5Students](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0596-classes-more-than-5-students/), [HumanTrafficofStadium](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0601-human-traffic-of-stadium/) | DSA |
 |102| 2024-05-25 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Training, metrics, and evaluation scripts with extensive debugging (initial epoch time >160 hours) | 3D CV |
 |101| 2024-05-24 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Baseline model for classification completed with theoretical backing | 3D CV |
 |100| 2024-05-23 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Classification training scripts and baseline model setup | 3D CV |
