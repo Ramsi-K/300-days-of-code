@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Debugging and Optimization](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [MLOps ZoomCamp: Experiment Tracking](https://github.com/Ramsi-K/mlops-zoomcamp)
 
-**<p align="right">2024-05-27</p>**
+**<p align="right">2024-05-28</p>**
 
 - **Task Description**:  
-Optimized training by tuning data prefetching, worker initialization, and exploring mixed precision training. Successfully reduced epoch time from 160 hours to 4.5 hours.
+Completed Week 2 of MLOps ZoomCamp, focusing on experiment tracking and model management with MLflow. Implemented experiment tracking in practice and set up a model registry.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|105| 2024-05-28 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 2: Experiment tracking and model management with MLflow | MLOps |
 |104| 2024-05-27 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Debugging: seed setting, prefetch tuning, worker optimization, mixed precision training | 3D CV |
 |103| 2024-05-26 | LeetCode: [EmployeeBonus](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0577-employee-bonus), [FindCustomerReferee](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0584-find-customer-referee), [Investmentsin2016](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0585-investments-in-2016) [CustomerPlacingTheLargestNumberofOrders](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0586-customer-placing-the-largest-number-of-orders/),[BiggestCountries](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0595-big-countries/),[ClassesMoreThan5Students](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0596-classes-more-than-5-students/), [HumanTrafficofStadium](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0601-human-traffic-of-stadium/) | DSA |
 |102| 2024-05-25 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Training, metrics, and evaluation scripts with extensive debugging (initial epoch time >160 hours) | 3D CV |
