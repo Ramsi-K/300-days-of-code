@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [MLOps ZoomCamp: Experiment Tracking](https://github.com/Ramsi-K/mlops-zoomcamp)
+### [Luna-Net3D: GPU Optimization and Bottleneck Analysis](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-28</p>**
+**<p align="right">2024-05-30</p>**
 
 - **Task Description**:  
-Completed Week 2 of MLOps ZoomCamp, focusing on experiment tracking and model management with MLflow. Implemented experiment tracking in practice and set up a model registry.
+Investigated GPU bottlenecks, implemented caching and a minimal model for further optimization. This analysis helped identify processing delays and optimize GPU usage.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|107| 2024-05-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): GPU Optimization: bottleneck debugging, minimal model creation, caching strategies | 3D CV |
 |106| 2024-05-29 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 2: MLOps experiment tracking with homework | MLOps |
 |105| 2024-05-28 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 2: Experiment tracking and model management with MLflow | MLOps |
 |104| 2024-05-27 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Debugging: seed setting, prefetch tuning, worker optimization, mixed precision training | 3D CV |
