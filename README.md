@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: GPU Optimization and Bottleneck Analysis](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D: Balanced DataLoader and Final Model Testing](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
 
-**<p align="right">2024-05-30</p>**
+**<p align="right">2024-05-31</p>**
 
 - **Task Description**:  
-Investigated GPU bottlenecks, implemented caching and a minimal model for further optimization. This analysis helped identify processing delays and optimize GPU usage.
+Created a balanced data loader to address class imbalance. Documented steps in the classification README, detailing rationale and strategies behind the new data loader structure.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|108| 2024-05-31 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Balanced data loader creation, model testing optimizations, README update | 3D CV |
 |107| 2024-05-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): GPU Optimization: bottleneck debugging, minimal model creation, caching strategies | 3D CV |
 |106| 2024-05-29 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 2: MLOps experiment tracking with homework | MLOps |
 |105| 2024-05-28 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 2: Experiment tracking and model management with MLflow | MLOps |
