@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D: Balanced DataLoader and Final Model Testing](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D)
+### [Luna-Net3D-Archived: Balanced DataLoader](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived)
 
-**<p align="right">2024-05-31</p>**
+**<p align="right">2024-06-01</p>**
 
 - **Task Description**:  
-Created a balanced data loader to address class imbalance. Documented steps in the classification README, detailing rationale and strategies behind the new data loader structure.
+Implemented a balanced data loader aimed at addressing class imbalance by sampling an equal number of positive and negative samples per batch. Today involved iterating through multiple logic structures to achieve a working approach, with significant debugging around batch processing, indexing, and ensuring individual samples were processed correctly in `__getitem__`. Worked through several trial and error steps to refine the loader and verify balanced outputs in test batches.
 
 ---
 
@@ -73,13 +73,13 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
 
 ### Latest Sprint: Days 61-90 Highlights
 
-1. **Luna-Net3D Data Validation and Visualization**: An intensive focus on ensuring data quality and alignment, developing scripts for voxel-to-lung validation, boundary checks, and comparative plotting of aligned and misaligned nodules in both 2D and 3D. This phase was crucial for cleaning up the dataset and ensuring accurate annotations.
+1. **Luna-Net3D-Archived Data Validation and Visualization**: An intensive focus on ensuring data quality and alignment, developing scripts for voxel-to-lung validation, boundary checks, and comparative plotting of aligned and misaligned nodules in both 2D and 3D. This phase was crucial for cleaning up the dataset and ensuring accurate annotations.
 
-2. **YOLOv3 Paper Implementation**: Started implementing YOLOv3 from scratch based on the original paper to understand the architecture of YOLO and its layers. YOLO’s object detection architecture is an excellent candidate for applying nodule detection to the Luna-Net3D dataset. The work involved coding the layers, training on preliminary data, and drafting detailed notes on implementation.
+2. **YOLOv3 Paper Implementation**: Started implementing YOLOv3 from scratch based on the original paper to understand the architecture of YOLO and its layers. YOLO’s object detection architecture is an excellent candidate for applying nodule detection to the Luna-Net3D-Archived dataset. The work involved coding the layers, training on preliminary data, and drafting detailed notes on implementation.
 
 3. **Exploring MLOps with ZoomCamp**: Completed Weeks 1 and 2 of the MLOps ZoomCamp course, covering foundational MLOps concepts, experiment tracking, and model management with MLflow. Weekly modules included hands-on exercises, implementing experiment tracking, and setting up a model registry to organize experiments and streamline model development.
 
-4. **Data Preprocessing and Augmentation for Luna-Net3D**: Developed effective data transformations and resizing methods to improve data loading and training speeds. This involved extensive exploration of TorchIO for 3D data augmentation, implementing padding, resizing, and balancing methods, and tackling augmentation-related debugging challenges.
+4. **Data Preprocessing and Augmentation for Luna-Net3D-Archived**: Developed effective data transformations and resizing methods to improve data loading and training speeds. This involved extensive exploration of TorchIO for 3D data augmentation, implementing padding, resizing, and balancing methods, and tackling augmentation-related debugging challenges.
 
 ---
 
@@ -117,63 +117,64 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|108| 2024-05-31 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Balanced data loader creation, model testing optimizations, README update | 3D CV |
-|107| 2024-05-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): GPU Optimization: bottleneck debugging, minimal model creation, caching strategies | 3D CV |
+|109| 2024-05-31 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Balanced data loader modifications, debugging and batch processing debugging , handling indexing issues. | 3D CV |
+|108| 2024-05-31 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Balanced data loader creation, model testing optimizations, README update | 3D CV |
+|107| 2024-05-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): GPU Optimization: bottleneck debugging, minimal model creation, caching strategies | 3D CV |
 |106| 2024-05-29 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 2: MLOps experiment tracking with homework | MLOps |
 |105| 2024-05-28 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 2: Experiment tracking and model management with MLflow | MLOps |
-|104| 2024-05-27 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Debugging: seed setting, prefetch tuning, worker optimization, mixed precision training | 3D CV |
+|104| 2024-05-27 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Debugging: seed setting, prefetch tuning, worker optimization, mixed precision training | 3D CV |
 |103| 2024-05-26 | LeetCode: [EmployeeBonus](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0577-employee-bonus), [FindCustomerReferee](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0584-find-customer-referee), [Investmentsin2016](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0585-investments-in-2016) [CustomerPlacingTheLargestNumberofOrders](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0586-customer-placing-the-largest-number-of-orders/),[BiggestCountries](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0595-big-countries/),[ClassesMoreThan5Students](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0596-classes-more-than-5-students/), [HumanTrafficofStadium](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0601-human-traffic-of-stadium/) | DSA |
-|102| 2024-05-25 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Training, metrics, and evaluation scripts with extensive debugging (initial epoch time >160 hours) | 3D CV |
-|101| 2024-05-24 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Baseline model for classification completed with theoretical backing | 3D CV |
-|100| 2024-05-23 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Classification training scripts and baseline model setup | 3D CV |
+|102| 2024-05-25 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Training, metrics, and evaluation scripts with extensive debugging (initial epoch time >160 hours) | 3D CV |
+|101| 2024-05-24 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Baseline model for classification completed with theoretical backing | 3D CV |
+|100| 2024-05-23 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Classification training scripts and baseline model setup | 3D CV |
 |99 | 2024-05-22 |[MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 1 Homework | MLOps |
-|98 | 2024-05-21 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Modularization and system setup, overcoming frustrating system issues | 3D CV |
-|97 | 2024-05-20 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Dataloaders with TorchIO for augmentations, tackling major image sizing and augmentation logging issues | 3D CV |
-|96 | 2024-05-19 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Voxel recalculation post-resizing, image conversion to .npy format, and dataset organization | 3D CV |
-|95 | 2024-05-18 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data resampling, resizing, padding, and correlation studies on z-range and xy-range | 3D CV |
-|94 | 2024-05-17 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Cross-validation setup with official 10-fold structure and train/val/test splits | 3D CV |
-|93 | 2024-05-16 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Fixing NaN label values, addressing lung instance splitting across folders | 3D CV |
-|92 | 2024-05-15 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data organization with optimal resizing and storage methods for efficient loading | 3D CV |
-|91 | 2024-05-14 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Image transformations and augmentations completed | 3D CV |
-|90 | 2024-05-13 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data preprocessing with resizing, padding, and augmentation exploration | 3D CV |
+|98 | 2024-05-21 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Modularization and system setup, overcoming frustrating system issues | 3D CV |
+|97 | 2024-05-20 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Dataloaders with TorchIO for augmentations, tackling major image sizing and augmentation logging issues | 3D CV |
+|96 | 2024-05-19 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Voxel recalculation post-resizing, image conversion to .npy format, and dataset organization | 3D CV |
+|95 | 2024-05-18 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data resampling, resizing, padding, and correlation studies on z-range and xy-range | 3D CV |
+|94 | 2024-05-17 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Cross-validation setup with official 10-fold structure and train/val/test splits | 3D CV |
+|93 | 2024-05-16 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Fixing NaN label values, addressing lung instance splitting across folders | 3D CV |
+|92 | 2024-05-15 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data organization with optimal resizing and storage methods for efficient loading | 3D CV |
+|91 | 2024-05-14 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Image transformations and augmentations completed | 3D CV |
+|90 | 2024-05-13 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data preprocessing with resizing, padding, and augmentation exploration | 3D CV |
 |89 | 2024-05-12| Completed [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3) paper implementation, training, and README documentation | DL 2D |
-|88 | 2024-05-11 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Interactive 3D plotting of misaligned nodules using Plotly | 3D CV |
-|87 | 2024-05-10 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Validating misaligned images with 2D/3D plotting and working on interactive 3D visualizations | 3D CV |
-|86 | 2024-05-09 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data validation markdown creation, recalculating voxel distances for annotations and labels | 3D CV |
-|85 | 2024-05-08 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Fixed LPI nodule orientation issue with mhd transform matrix adjustments | 3D CV |
-|84 | 2024-05-07 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Completed visual inspection, discovered errors in LPI nodule conversion | 3D CV |
-|83 | 2024-05-06 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Multiple linear regression analysis, voxel alignment, orientation validation | 3D CV |
+|88 | 2024-05-11 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Interactive 3D plotting of misaligned nodules using Plotly | 3D CV |
+|87 | 2024-05-10 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Validating misaligned images with 2D/3D plotting and working on interactive 3D visualizations | 3D CV |
+|86 | 2024-05-09 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data validation markdown creation, recalculating voxel distances for annotations and labels | 3D CV |
+|85 | 2024-05-08 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Fixed LPI nodule orientation issue with mhd transform matrix adjustments | 3D CV |
+|84 | 2024-05-07 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Completed visual inspection, discovered errors in LPI nodule conversion | 3D CV |
+|83 | 2024-05-06 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Multiple linear regression analysis, voxel alignment, orientation validation | 3D CV |
 |82 | 2024-05-05 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3) paper exploration and code setup | DL 2D |
-|81 | 2024-05-04 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Boundary-nodule correlations, p-values, and outlier detection | 3D CV |
-|80 | 2024-05-03 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Debugging boundary/edge cases in misaligned nodule analysis | 3D CV |
-|79 | 2024-05-02 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Misaligned nodule analysis and boundary detection | 3D CV |
-|78 | 2024-05-01 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Voxel to lung alignment validation | 3D CV |
-|77 | 2024-04-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data restructuring and comparative visual analysis | 3D CV |
-|76 | 2024-04-29 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data validation script and comparative plotting | 3D CV |
+|81 | 2024-05-04 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Boundary-nodule correlations, p-values, and outlier detection | 3D CV |
+|80 | 2024-05-03 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Debugging boundary/edge cases in misaligned nodule analysis | 3D CV |
+|79 | 2024-05-02 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Misaligned nodule analysis and boundary detection | 3D CV |
+|78 | 2024-05-01 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Voxel to lung alignment validation | 3D CV |
+|77 | 2024-04-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data restructuring and comparative visual analysis | 3D CV |
+|76 | 2024-04-29 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data validation script and comparative plotting | 3D CV |
 |75| 2024-04-28 | LeetCode: [Game Play Analysis 1](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0511-game-play-analysis-i), [Game Play Analysis 4](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0550-game-play-analysis-iv), [Managers with 5 direct reports](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0570-managers-with-at-least-5-direct-reports) | DSA |
-|74| 2024-04-27 |  [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Final data validation and checking for consistency | 3D CV |
-|73| 2024-04-26 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Redid voxel transformations, orientation issues, and validation | 3D CV |
-|72| 2024-04-25 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Pre-processing voxel transformations and storing them in CSV format | 3D CV |
-|71| 2024-04-24 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Helper function files and more data analysis | 3D CV |
-|70| 2024-04-23 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data exploration, outlier handling, class imbalance analysis, and sampler setup | 3D CV |
-|69| 2024-04-22 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Addressing annotation mismatches and CSV file investigation | 3D CV |
+|74| 2024-04-27 |  [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Final data validation and checking for consistency | 3D CV |
+|73| 2024-04-26 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Redid voxel transformations, orientation issues, and validation | 3D CV |
+|72| 2024-04-25 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Pre-processing voxel transformations and storing them in CSV format | 3D CV |
+|71| 2024-04-24 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Helper function files and more data analysis | 3D CV |
+|70| 2024-04-23 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data exploration, outlier handling, class imbalance analysis, and sampler setup | 3D CV |
+|69| 2024-04-22 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Addressing annotation mismatches and CSV file investigation | 3D CV |
 |68| 2024-04-21 | LeetCode: [Nth Highest Salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0177-nth-highest-salary), [Department Highest Salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0184-department-highest-salary), [Top 3 Salaries](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0185-department-top-three-salaries), [Delete Duplicate Emails](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0196-delete-duplicate-emails), [Rising Temperature](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0197-rising-temperature), [Trips and Users](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0262-trips-and-users) | DSA |
-|67| 2024-04-20 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Statistical analysis, volume comparison setup, utils.py updates | 3D CV |
+|67| 2024-04-20 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Statistical analysis, volume comparison setup, utils.py updates | 3D CV |
 |66| 2024-04-19 | Revisiting [PAg-NeRF](https://arxiv.org/abs/2309.05339) paper for Gaussian Splatting and potential integration | NeRF |
-|65| 2024-04-18 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Visualizations (nodules, binary masking, segmentations) | 3D CV |
-|64| 2024-04-17 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Visualizations using thresholding and morphological techniques | 3D CV |
-|63| 2024-04-16 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Exploring excluded annotations and understanding the dataset | 3D CV |
+|65| 2024-04-18 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Visualizations (nodules, binary masking, segmentations) | 3D CV |
+|64| 2024-04-17 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Visualizations using thresholding and morphological techniques | 3D CV |
+|63| 2024-04-16 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Exploring excluded annotations and understanding the dataset | 3D CV |
 |62| 2024-04-15 | Radiance Field Meetup: NeRF and Gaussian Splatting discussion | NeRF |
 |61| 2024-04-14 | LeetCode: [Combine two tables](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0175-combine-two-tables), [Second highest salary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0176-second-highest-salary), [Rank Scores](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0178-rank-scores), [Consecutive Numbers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0180-consecutive-numbers), [Employees earning more than their managers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0181-employees-earning-more-than-their-managers), [Duplicate Emails](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0182-duplicate-emails), [Customers who never order](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0183-customers-who-never-order) | DSA |
-|60| 2024-04-13 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing| 3D CV |
-|59| 2024-04-12 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing -  coordinates manipulations and image transformations | 3D CV |
-|58| 2024-04-11 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Data Preprocessing - Medical image and ct scan fundamanetals and lib explorations| 3D CV |
-|57| 2024-04-10 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Plotting mhd images in 3D and generating animations to better understand data | 3D CV  |
-|56| 2024-04-09 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Plotting mhd images in 2D from sample subset | 3D CV |
-|55| 2024-04-08 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D): Processing mhd images and working on sample dataset | 3D CV |
+|60| 2024-04-13 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data Preprocessing| 3D CV |
+|59| 2024-04-12 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data Preprocessing -  coordinates manipulations and image transformations | 3D CV |
+|58| 2024-04-11 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data Preprocessing - Medical image and ct scan fundamanetals and lib explorations| 3D CV |
+|57| 2024-04-10 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Plotting mhd images in 3D and generating animations to better understand data | 3D CV  |
+|56| 2024-04-09 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Plotting mhd images in 2D from sample subset | 3D CV |
+|55| 2024-04-08 | [Luna16](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Processing mhd images and working on sample dataset | 3D CV |
 |54| 2024-04-07 | LeetCode: [Next Permutation](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0031-next-permutation), [Length of Last Word](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0058-length-of-last-word),[Merge Sorted Array](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0088-merge-sorted-array) | DSA |
 |53| 2024-04-06 | LeetCode: [Find the Index of the First Occurrence in a String](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0028-find-the-index-of-the-first-occurrence-in-a-string), [Divide Two Integers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0029-divide-two-integers), [3Sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0015-3sum), [4Sum](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0018-4sum),  [Search Insert Position](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0035-search-insert-position) | DSA |
-|52| 2024-04-05 | Exploring the [Luna16](https://luna16.grand-challenge.org/) dataset for lung node analysis inlcuding [data exploration](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D) on the sample. | 3D CV |
+|52| 2024-04-05 | Exploring the [Luna16](https://luna16.grand-challenge.org/) dataset for lung node analysis inlcuding [data exploration](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) on the sample. | 3D CV |
 |51| 2024-04-04 | Exploring Graph Neural Networks using PyG: Built and Implemented a [GAT model](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Scaling_Graph_Neural_Networks.ipynb) on the Cora dataset | GNN |
 |50| 2024-04-03 | LeetCode: [Longest Palindromic Substring](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0005-longest-palindromic-substring), [Zigzag Conversion](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0006-zigzag-conversion), [Reverse Integer](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0007-reverse-integer) & [Remove Element](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0027-remove-element) | DSA |
 |49| 2024-04-02 | Exploring Graph Neural Networks using PyG: [Link Prediction](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Link_Prediction_on_MovieLens.ipynb) & [Link Regression](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/GNN/Link_Regression_on_Movielens.ipynb) on toy [MovieLens dataset](https://grouplens.org/datasets/movielens/) | GNN |
