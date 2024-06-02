@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Luna-Net3D-Archived: Balanced DataLoader](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived)
+### [MLOps Zoomcamp: Week 3](https://github.com/Ramsi-K/mlops-zoomcamp)  Docker Connectivity Issue
 
-**<p align="right">2024-06-01</p>**
+**<p align="right">2024-06-02</p>**
 
 - **Task Description**:  
-Implemented a balanced data loader aimed at addressing class imbalance by sampling an equal number of positive and negative samples per batch. Today involved iterating through multiple logic structures to achieve a working approach, with significant debugging around batch processing, indexing, and ensuring individual samples were processed correctly in `__getitem__`. Worked through several trial and error steps to refine the loader and verify balanced outputs in test batches.
+Today was dedicated to troubleshooting a critical Docker connectivity issue while working on MLOps Zoomcamp coursework. Encountered persistent failures loading Docker, leading to a full day of problem-solving, which included uninstalling and reinstalling Linux and Docker, along with extensive testing of various fixes. Ultimately identified the problem as a security restriction: Docker fails to operate over a HotSpot connection.
 
 ---
 
@@ -117,7 +117,8 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|109| 2024-05-31 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Balanced data loader modifications, debugging and batch processing debugging , handling indexing issues. | 3D CV |
+|110| 2024-06-02 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 3 : Major Docker Issues | MLOps |
+|109| 2024-06-01 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Balanced data loader modifications, debugging and batch processing debugging , handling indexing issues. | 3D CV |
 |108| 2024-05-31 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Balanced data loader creation, model testing optimizations, README update | 3D CV |
 |107| 2024-05-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): GPU Optimization: bottleneck debugging, minimal model creation, caching strategies | 3D CV |
 |106| 2024-05-29 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 2: MLOps experiment tracking with homework | MLOps |
