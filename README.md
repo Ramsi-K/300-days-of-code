@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D: Balanced DataLoader Implementation](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived)  Docker Connectivity Issue
+### [LunaNet3D: Basic Balanced DataLoader Finalization](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) 
 
-**<p align="right">2024-06-03</p>**
+**<p align="right">2024-06-04</p>**
 
 - **Task Description**:  
-Developed and tested a balanced data loader for equal sampling of positive and negative cases, aimed at addressing class imbalance. Today included extensive debugging of batch processing and indexing issues, specifically ensuring individual sample retrieval within __getitem__. Worked iteratively on logic refinements, resolving batch errors, and validating augmentation application per sample. Successfully retrieved and verified individual sample details from the data loader.
+Debugged and refined the balanced data loader by resolving errors in batch sampling and augmentation logic. Adjusted the batch sampling to correctly yield individual samples, ensuring the loader outputs balanced batches of positive and negative samples. Conducted a batch-wise class balance test to verify accuracy across multiple batches, confirming the loader meets the expected functionality.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|112| 2024-06-04 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Resolved batching issues, confirmed balanced sampling, and finalized basic data loader with augmentation | 3D CV |
 |111| 2024-06-03 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Balanced data loader logic revision, implementation, debugging batch processing, and resolving indexing errors. | 3D CV |
 |110| 2024-06-02 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 3 : Major Docker Issues | MLOps |
 |109| 2024-06-01 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Balanced data loader modifications, debugging and batch processing debugging , handling indexing issues. | 3D CV |
