@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D: Basic Balanced DataLoader Finalization](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) 
+### [LunaNet3D: Difficulty and Confidence Tracking](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) 
 
-**<p align="right">2024-06-04</p>**
+**<p align="right">2024-06-05</p>**
 
 - **Task Description**:  
-Debugged and refined the balanced data loader by resolving errors in batch sampling and augmentation logic. Adjusted the batch sampling to correctly yield individual samples, ensuring the loader outputs balanced batches of positive and negative samples. Conducted a batch-wise class balance test to verify accuracy across multiple batches, confirming the loader meets the expected functionality.
+Integrated dynamic tracking for difficulty and confidence scores in the training loop, ensuring accurate sample-level adjustments. Adjusted PrefetchLoader to maintain batch size accessibility, allowing for streamlined logging and model updates. Training time down to 20 minutes per epoch.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|113| 2024-06-05 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Implemented dynamic tracking of difficulty and confidence scores in training loop; adjusted PrefetchLoader for accessibility of batch size.(Training time down to 20 min/epoch)| 3D CV |
 |112| 2024-06-04 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Resolved batching issues, confirmed balanced sampling, and finalized basic data loader with augmentation | 3D CV |
 |111| 2024-06-03 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Balanced data loader logic revision, implementation, debugging batch processing, and resolving indexing errors. | 3D CV |
 |110| 2024-06-02 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 3 : Major Docker Issues | MLOps |
@@ -140,7 +141,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 |92 | 2024-05-15 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data organization with optimal resizing and storage methods for efficient loading | 3D CV |
 |91 | 2024-05-14 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Image transformations and augmentations completed | 3D CV |
 |90 | 2024-05-13 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data preprocessing with resizing, padding, and augmentation exploration | 3D CV |
-|89 | 2024-05-12| Completed [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3) paper implementation, training, and README documentation | DL 2D |
+|89 | 2024-05-12| [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3) paper implementation, and README documentation. Debugging training. | DL 2D |
 |88 | 2024-05-11 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Interactive 3D plotting of misaligned nodules using Plotly | 3D CV |
 |87 | 2024-05-10 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Validating misaligned images with 2D/3D plotting and working on interactive 3D visualizations | 3D CV |
 |86 | 2024-05-09 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Data validation markdown creation, recalculating voxel distances for annotations and labels | 3D CV |
