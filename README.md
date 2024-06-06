@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D: Difficulty and Confidence Tracking](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) 
+### [LunaNet3D: Difficulty based Sampling](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) 
 
-**<p align="right">2024-06-05</p>**
+**<p align="right">2024-06-06</p>**
 
 - **Task Description**:  
-Integrated dynamic tracking for difficulty and confidence scores in the training loop, ensuring accurate sample-level adjustments. Adjusted PrefetchLoader to maintain batch size accessibility, allowing for streamlined logging and model updates. Training time down to 20 minutes per epoch.
+Integrated dynamic difficulty-based sampling by reinitializing train_loader each epoch with updated difficulty scores. Added conditionals to handle batch unpacking issues with reinitialized train_loader. Improved logging for accuracy and loss tracking, set up consistent metric and log saving, and handled checkpoint management for re-training flexibility.
 
 ---
 
@@ -117,13 +117,14 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|113| 2024-06-05 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Implemented dynamic tracking of difficulty and confidence scores in training loop; adjusted PrefetchLoader for accessibility of batch size.(Training time down to 20 min/epoch)| 3D CV |
+|114| 2024-06-06 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Added dynamic sampling and difficulty-based DataLoader reinitialization, logging adjustments, and batch structure validation in training loop. Training on minimal model, sample dataset for debugging.| 3D CV |
+|113| 2024-06-05 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Implemented dynamic tracking of difficulty and confidence scores in training loop; adjusted PrefetchLoader for accessibility of batch size.(Training time down to 20 min/epoch on minimal)| 3D CV |
 |112| 2024-06-04 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Resolved batching issues, confirmed balanced sampling, and finalized basic data loader with augmentation | 3D CV |
 |111| 2024-06-03 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Balanced data loader logic revision, implementation, debugging batch processing, and resolving indexing errors. | 3D CV |
 |110| 2024-06-02 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 3 : Major Docker Issues | MLOps |
 |109| 2024-06-01 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Balanced data loader modifications, debugging and batch processing debugging , handling indexing issues. | 3D CV |
 |108| 2024-05-31 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Balanced data loader creation, model testing optimizations, README update | 3D CV |
-|107| 2024-05-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): GPU Optimization: bottleneck debugging, minimal model creation, caching strategies | 3D CV |
+|107| 2024-05-30 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): GPU Optimization: bottleneck debugging, minimal model creation, caching strategies. Training time down to 4hrs/epoch on baseline. | 3D CV |
 |106| 2024-05-29 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 2: MLOps experiment tracking with homework | MLOps |
 |105| 2024-05-28 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 2: Experiment tracking and model management with MLflow | MLOps |
 |104| 2024-05-27 |[LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived): Debugging: seed setting, prefetch tuning, worker optimization, mixed precision training | 3D CV |
