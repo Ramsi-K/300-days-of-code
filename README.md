@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D: Difficulty based Sampling](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) 
+### [LunaNet3D: Dataloaders complete, Classification Training on Minimal & Baseline models.](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) 
 
-**<p align="right">2024-06-06</p>**
+**<p align="right">2024-06-07</p>**
 
 - **Task Description**:  
-Integrated dynamic difficulty-based sampling by reinitializing train_loader each epoch with updated difficulty scores. Added conditionals to handle batch unpacking issues with reinitialized train_loader. Improved logging for accuracy and loss tracking, set up consistent metric and log saving, and handled checkpoint management for re-training flexibility.
+Today’s work focused on finalizing the balanced data loader with adaptive augmentation and cyclical difficulty-based sampling, improving batch variety without reinitialization. Testing validated augmentation probabilities for positives and negatives, streamlined loader setup, and managed cyclical difficulty sampling.
 
 ---
 
@@ -117,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|115| 2024-06-07 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived)Completed balanced data loader, adaptive augmentation, difficulty-based sampling for batch construction.Minimal and Baseline models successfully training with custom Dataloaders. | 3D CV |
 |114| 2024-06-06 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Added dynamic sampling and difficulty-based DataLoader reinitialization, logging adjustments, and batch structure validation in training loop. Training on minimal model, sample dataset for debugging.| 3D CV |
 |113| 2024-06-05 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Implemented dynamic tracking of difficulty and confidence scores in training loop; adjusted PrefetchLoader for accessibility of batch size.(Training time down to 20 min/epoch on minimal)| 3D CV |
 |112| 2024-06-04 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Resolved batching issues, confirmed balanced sampling, and finalized basic data loader with augmentation | 3D CV |
