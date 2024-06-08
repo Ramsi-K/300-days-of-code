@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D: Dataloaders complete, Classification Training on Minimal & Baseline models.](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) 
+### [Paper to Code - Reorganization](https://github.com/Ramsi-K/paper-to-code)
 
-**<p align="right">2024-06-07</p>**
+**<p align="right">2024-06-08</p>**
 
 - **Task Description**:  
-Today’s work focused on finalizing the balanced data loader with adaptive augmentation and cyclical difficulty-based sampling, improving batch variety without reinitialization. Testing validated augmentation probabilities for positives and negatives, streamlined loader setup, and managed cyclical difficulty sampling.
+Spent the day organizing the "paper-to-code" repository. Added a master README and created requirements.txt files for each project folder to ensure compatibility. Started working on a unified environment file and reviewed each folder to identify missing elements, such as documentation and setup instructions, aiming for a streamlined and professional repository structure.
 
 ---
 
@@ -86,7 +86,7 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
 <details>
   <summary>Archived 30-Day Sprints</summary>
 
-  ### Archived Sprint 2: Days 31-60 Highlights
+### Archived Sprint 2: Days 31-60 Highlights
   
   1. **LunaNet3D - Medical Image Preprocessing**: Delved into data preprocessing, manipulation, and visualization of the LUNA16 dataset. This sprint involved detailed exploration of medical images, working on CT scan fundamentals, and generating insightful 3D visualizations to better understand the dataset. I tackled tasks like thresholding, segmentations, and transformations.
 
@@ -96,7 +96,7 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
 
   4. **3D Object Detection**: Explored 3D object detection by implementing models like Frustum PointNets and VoteNet. These models are key for real-time object detection in 3D environments, using point cloud data and voxel representations to enhance object recognition capabilities.
 
-  ### Archived Sprint 1: Days 1-30 Highlights
+### Archived Sprint 1: Days 1-30 Highlights
   
   1. **Implementing Vision Transformer (ViT) from Scratch**: Developing a deep understanding of the ViT architecture and translating theoretical concepts into functional code to create a ViT model using PyTorch.
 
@@ -108,7 +108,6 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
 
 </details>
 
-
 <br/><br/>
 
 ## <center>Daily Tasks
@@ -117,6 +116,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+| 116 | 2024-06-08 | [Paper to Code](https://github.com/Ramsi-K/paper-to-code): Organized repository with master README, requirements files, and environment setup | Documentation |
 |115| 2024-06-07 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived)Completed balanced data loader, adaptive augmentation, difficulty-based sampling for batch construction.Minimal and Baseline models successfully training with custom Dataloaders. | 3D CV |
 |114| 2024-06-06 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Added dynamic sampling and difficulty-based DataLoader reinitialization, logging adjustments, and batch structure validation in training loop. Training on minimal model, sample dataset for debugging.| 3D CV |
 |113| 2024-06-05 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Implemented dynamic tracking of difficulty and confidence scores in training loop; adjusted PrefetchLoader for accessibility of batch size.(Training time down to 20 min/epoch on minimal)| 3D CV |
