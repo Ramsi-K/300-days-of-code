@@ -32,16 +32,16 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [YOLOv3 - Refactoring](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3) 
-### [MLOps ZoomCamp - Week 3 Orchestration ](https://github.com/Ramsi-K/mlops-zoomcamp) 
+### [YOLOv3 - Refactoring](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3)
+
+### [MLOps ZoomCamp - Week 3 Orchestration](https://github.com/Ramsi-K/mlops-zoomcamp)
 
 **<p align="right">2024-06-09</p>**
 
 - **Task Description**:  
-YOLOv3: Today's work was focused on revisiting and debugging the YOLOv3 model architecture and dataset loader for accurate bounding box handling and input alignment. I restructured the model to resolve channel mismatch errors in the detection layers and improved dataset functions to streamline IoU calculations and target formatting. This involved refactoring the loss function and implementing enhanced error-checking throughout, which ultimately resulted in a more stable and efficient training setup. With these changes, the project is now aligned for effective training progress tracking and optimized loss convergence.
+YOLOv3: Major debugging session completed. Transitioned mask reshaping logic, and handled tensor broadcasting issues. Reached loss_w and loss_h successfully without dimension mismatches.
 
-Orchestration: Worked through Week 3 of the MLOps Zoomcamp, focusing on orchestration with Mage. Explored the pipeline setup, covering ETL, data preparation, and block configuration with Mage, including steps to create ingestion blocks and transform blocks for feature engineering. This involved setting up global variables for consistency across blocks and implementing utility functions for repeated tasks like feature engineering. Also created pipeline dashboards and unit tests to validate data preparation stages, ensuring robust orchestration and model lifecycle management.
-
+Orchestration: Completed the Week 3 homework for the MLOps Zoomcamp, which involved setting up a project in Mage to create a simple training pipeline with data ingestion, transformation, and model training. This process included integrating MLflow for experiment tracking and model registry. After setting up the initial ingestion pipeline and preparing data with filtering and feature engineering, I trained a linear regression model and registered it using MLflow. Successfully tracked experiments in MLflow, confirmed the size of the model artifact, and verified the model intercept. This homework provided a hands-on understanding of orchestration, pipeline setup, and the integration of MLflow with Mage.
 
 ---
 
@@ -120,7 +120,8 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-| 117 | 2024-06-09 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3): Revised and Refactored YOLOv3 architecture and dataset functions; resolved model input mismatches, fixed dataset logic, and refined loss calculations [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 3 Orchestration  | 2D CV, MLOps |
+| 118 | 2024-06-10 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3):  Improved anchor dimension handling in YOLOLoss. Successfully calculated loss_x, loss_y, loss_w, and loss_h individually for each anchor index. Encountered NaN in total loss, to be investigated tomorrow; [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 3 Orchestration Homework  | 2D CV, MLOps |
+| 117 | 2024-06-09 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3): Revised and Refactored YOLOv3 architecture and dataset functions; resolved model input mismatches, fixed dataset logic, and refined loss calculations; [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 3 Orchestration  | 2D CV, MLOps |
 | 116 | 2024-06-08 | [Paper to Code](https://github.com/Ramsi-K/paper-to-code): Organized repository with master README, requirements files, and environment setup | Documentation |
 |115| 2024-06-07 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived)Completed balanced data loader, adaptive augmentation, difficulty-based sampling for batch construction.Minimal and Baseline models successfully training with custom Dataloaders. | 3D CV |
 |114| 2024-06-06 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived):Added dynamic sampling and difficulty-based DataLoader reinitialization, logging adjustments, and batch structure validation in training loop. Training on minimal model, sample dataset for debugging.| 3D CV |
