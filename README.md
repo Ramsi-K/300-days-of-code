@@ -32,16 +32,15 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [YOLOv3 - Refactoring](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3)
+### [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3)
 
-### [MLOps ZoomCamp - Week 3 Orchestration](https://github.com/Ramsi-K/mlops-zoomcamp)
 
-**<p align="right">2024-06-09</p>**
+**<p align="right">2024-06-11</p>**
 
 - **Task Description**:  
-YOLOv3: Major debugging session completed. Transitioned mask reshaping logic, and handled tensor broadcasting issues. Reached loss_w and loss_h successfully without dimension mismatches.
-
-Orchestration: Completed the Week 3 homework for the MLOps Zoomcamp, which involved setting up a project in Mage to create a simple training pipeline with data ingestion, transformation, and model training. This process included integrating MLflow for experiment tracking and model registry. After setting up the initial ingestion pipeline and preparing data with filtering and feature engineering, I trained a linear regression model and registered it using MLflow. Successfully tracked experiments in MLflow, confirmed the size of the model artifact, and verified the model intercept. This homework provided a hands-on understanding of orchestration, pipeline setup, and the integration of MLflow with Mage.
+Fully debugged YOLOLoss function, achieving stable loss breakdown and understanding for each component.
+-	Began work on target assignment in dataset.py, successfully initializing masks and confirming scale shapes. Identified and partially addressed the issue of zeroed obj_mask, with plans to improve target assignments.
+- Established a robust testing approach for both YOLOLoss and dataset targets, paving the way for further debugging.
 
 ---
 
@@ -120,6 +119,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+| 119 | 2024-06-11 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3):  Debugged the YOLOLoss function and verified component-wise loss breakdown with dummy targets; Started refining target assignment for obj_mask and noobj_mask in dataset.py, verified initial target setups for all scales | 2D CV |
 | 118 | 2024-06-10 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3):  Improved anchor dimension handling in YOLOLoss. Successfully calculated loss_x, loss_y, loss_w, and loss_h individually for each anchor index. Encountered NaN in total loss, to be investigated tomorrow; [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 3 Orchestration Homework  | 2D CV, MLOps |
 | 117 | 2024-06-09 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3): Revised and Refactored YOLOv3 architecture and dataset functions; resolved model input mismatches, fixed dataset logic, and refined loss calculations; [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 3 Orchestration  | 2D CV, MLOps |
 | 116 | 2024-06-08 | [Paper to Code](https://github.com/Ramsi-K/paper-to-code): Organized repository with master README, requirements files, and environment setup | Documentation |
