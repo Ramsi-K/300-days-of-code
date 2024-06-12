@@ -35,12 +35,14 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ### [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3)
 
 
-**<p align="right">2024-06-11</p>**
+**<p align="right">2024-06-12</p>**
 
 - **Task Description**:  
-Fully debugged YOLOLoss function, achieving stable loss breakdown and understanding for each component.
--	Began work on target assignment in dataset.py, successfully initializing masks and confirming scale shapes. Identified and partially addressed the issue of zeroed obj_mask, with plans to improve target assignments.
-- Established a robust testing approach for both YOLOLoss and dataset targets, paving the way for further debugging.
+Fully debugged dataset.py file, resizing input images to target (416, 416) dimensions in dataset pipeline.
+- Corrected resizing issues for image and bounding boxes in dataset.py
+- Validated target assignment with obj_mask and noobj_mask checks, confirming proper detection across scales
+- Ran test functions to verify image resizing, target shape, and mask population
+- Confirmed non-zero object assignment and unique values for targets
 
 ---
 
@@ -119,6 +121,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+| 120 | 2024-06-12 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3):  Resolved dataset target generation issues and adjusting bounding boxes accordingly. Validated obj_mask and noobj_mask populations, ensuring object assignments were non-zero across all scales. Tested and confirmed alignment of image dimensions and target grid sizes | 2D CV |
 | 119 | 2024-06-11 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3):  Debugged the YOLOLoss function and verified component-wise loss breakdown with dummy targets; Started refining target assignment for obj_mask and noobj_mask in dataset.py, verified initial target setups for all scales | 2D CV |
 | 118 | 2024-06-10 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3):  Improved anchor dimension handling in YOLOLoss. Successfully calculated loss_x, loss_y, loss_w, and loss_h individually for each anchor index. Encountered NaN in total loss, to be investigated tomorrow; [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 3 Orchestration Homework  | 2D CV, MLOps |
 | 117 | 2024-06-09 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3): Revised and Refactored YOLOv3 architecture and dataset functions; resolved model input mismatches, fixed dataset logic, and refined loss calculations; [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 3 Orchestration  | 2D CV, MLOps |
