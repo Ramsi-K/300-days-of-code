@@ -35,15 +35,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
 
-**<p align="right">2024-06-14</p>**
+**<p align="right">2024-06-15</p>**
 
 - **Task Description**:  
-[FriendRequests](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0602-friend-requests-ii-who-has-the-most-friends)
-[SalesPerson](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0607-sales-person/)
-[TreeNode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0608-tree-node/)
-[TriangleJudgement](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0610-triangle-judgement/) 
-[BiggestSingleNumber](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0619-biggest-single-number/) 
-[NotBoringMovies](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0620-not-boring-movies)
+[ExchangeSeats](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0626-exchange-seats/); [SwapSalary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0627-swap-salary/); [CustomersWhoBoughtAllProducts](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1045-customers-who-bought-all-products/); [ActorsandDirectors](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1050-actors-and-directors-who-cooperated-at-least-three-times/); [ProductSalesAnalysis1](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1068-product-sales-analysis-i/); [ProductSalesAnalysis3](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1070-product-sales-analysis-iii)
 
 ---
 
@@ -122,6 +117,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+| 123 | 2024-06-15 | LeetCode: [ExchangeSeats](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0626-exchange-seats/); [SwapSalary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0627-swap-salary/); [CustomersWhoBoughtAllProducts](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1045-customers-who-bought-all-products/); [ActorsandDirectors](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1050-actors-and-directors-who-cooperated-at-least-three-times/); [ProductSalesAnalysis1](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1068-product-sales-analysis-i/); [ProductSalesAnalysis3](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1070-product-sales-analysis-iii)| DSA |
 | 122 | 2024-06-14 | LeetCode: [FriendRequests](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0602-friend-requests-ii-who-has-the-most-friends); [SalesPerson](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0607-sales-person/); [TreeNode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0608-tree-node/); [TriangleJudgement](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0610-triangle-judgement/); [BiggestSingleNumber](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0619-biggest-single-number/); [NotBoringMovies](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0620-not-boring-movies)| DSA |
 | 121 | 2024-06-13 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3):  Debugging shape errors; extensive debugging on dataset processing and anchor assignments configurations| 2D CV |
 | 120 | 2024-06-12 | [YOLOv3](https://github.com/Ramsi-K/paper-to-code/tree/main/YOLOv3):  Resolved dataset target generation issues and adjusting bounding boxes accordingly. Validated obj_mask and noobj_mask populations, ensuring object assignments were non-zero across all scales. Tested and confirmed alignment of image dimensions and target grid sizes | 2D CV |
