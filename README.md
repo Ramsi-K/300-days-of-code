@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
+### [MLOps ZoomCamp - Week 4 Deployment](https://github.com/Ramsi-K/mlops-zoomcamp)
 
-**<p align="right">2024-06-16</p>**
+**<p align="right">2024-06-17</p>**
 
 - **Task Description**:  
-[ProjectEmployees](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1075-project-employees-i/); [SalesAnalysis](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1084-sales-analysis-iii/); [UserActivity](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1141-user-activity-for-the-past-30-days-i/); [ArticleViews](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1148-article-views-i/); [MarketAnalysis](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1158-market-analysis-i/); [ProductPrice](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1164-product-price-at-a-given-date/); [ReformatDepartment](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1179-reformat-department-table/)
+Today was focused on completing the Week 4 coursework for the MLOps Zoomcamp. I progressed significantly in understanding model deployment strategies, from Dockerizing a Flask app for REST API deployment to conceptualizing batch and streaming deployments. Excited to finish the remaining tasks and the homework tomorrow.
 
 ---
 
@@ -149,6 +149,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+| 125 | 2024-06-17 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 4 : Deployment - focusing on deploying models as web services, batch models, and streaming services | MLOps |
 | 124 | 2024-06-16 | LeetCode: [ProjectEmployees](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1075-project-employees-i/); [SalesAnalysis](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1084-sales-analysis-iii/); [UserActivity](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1141-user-activity-for-the-past-30-days-i/); [ArticleViews](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1148-article-views-i/); [MarketAnalysis](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1158-market-analysis-i/); [ProductPrice](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1164-product-price-at-a-given-date/); [ReformatDepartment](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1179-reformat-department-table/) | DSA |
 | 123 | 2024-06-15 | LeetCode: [ExchangeSeats](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0626-exchange-seats/); [SwapSalary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0627-swap-salary/); [CustomersWhoBoughtAllProducts](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1045-customers-who-bought-all-products/); [ActorsandDirectors](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1050-actors-and-directors-who-cooperated-at-least-three-times/); [ProductSalesAnalysis1](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1068-product-sales-analysis-i/); [ProductSalesAnalysis3](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1070-product-sales-analysis-iii)| DSA |
 | 122 | 2024-06-14 | LeetCode: [FriendRequests](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0602-friend-requests-ii-who-has-the-most-friends); [SalesPerson](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0607-sales-person/); [TreeNode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0608-tree-node/); [TriangleJudgement](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0610-triangle-judgement/); [BiggestSingleNumber](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0619-biggest-single-number/); [NotBoringMovies](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0620-not-boring-movies)| DSA |
