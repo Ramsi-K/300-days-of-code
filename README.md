@@ -32,12 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [MLOps ZoomCamp - Week 4 Deployment](https://github.com/Ramsi-K/mlops-zoomcamp)
+### [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived)
 
-**<p align="right">2024-06-18</p>**
+**<p align="right">2024-06-19</p>**
 
 - **Task Description**:  
-I wrapped up Week 4 of the MLOps Zoomcamp, including coursework and the homework assignment. The day’s highlight was deploying a trained model as a REST API using Flask and Docker while incorporating the MLflow model registry for seamless version control and deployment. This week’s learnings solidified my grasp of real-world ML deployment strategies.
+ Revised the baseline model after facing issues with the original version. The new model is designed for better handling of the input data, especially the coordinate concatenation step, ensuring compatibility with the rest of the training pipeline.
 
 ---
 
@@ -149,6 +149,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|127| 2024-06-19 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) Adjusted the baseline model to improve its integration of spatial and coordinate features. Resolved multiple shape mismatch issues that caused training crashes. | 3D CV |
 | 126 | 2024-06-18 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 4 : Deployment - Implemented the homework assignment: trained a model, deployed it as a REST API using Flask and Docker, and tested deployment scenarios. Experimented with MLflow model registry integration for deployments. | MLOps |
 | 125 | 2024-06-17 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 4 : Deployment - focusing on deploying models as web services, batch models, and streaming services | MLOps |
 | 124 | 2024-06-16 | LeetCode: [ProjectEmployees](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1075-project-employees-i/); [SalesAnalysis](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1084-sales-analysis-iii/); [UserActivity](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1141-user-activity-for-the-past-30-days-i/); [ArticleViews](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1148-article-views-i/); [MarketAnalysis](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1158-market-analysis-i/); [ProductPrice](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1164-product-price-at-a-given-date/); [ReformatDepartment](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1179-reformat-department-table/) | DSA |
