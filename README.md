@@ -32,12 +32,15 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived)
+### [LunaNet3D - training metrics](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived)
 
-**<p align="right">2024-06-19</p>**
+**<p align="right">2024-06-20</p>**
 
 - **Task Description**:  
- Revised the baseline model after facing issues with the original version. The new model is designed for better handling of the input data, especially the coordinate concatenation step, ensuring compatibility with the rest of the training pipeline.
+   - Updated the training loop to use precision, recall, and F1 metrics in tracking and logging for both training and validation.
+   - Implemented early stopping based on the best balanced F1 score.
+   - Added dynamic tracking of difficulty and confidence scores, refining how these scores are updated for each sample.
+   - Included the updated metrics in the log files for each epoch.
 
 ---
 
@@ -141,7 +144,7 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
 
 </details>
 
-<br/><br/>
+<br/><br/> 
 
 ## <center>Daily Tasks
 
@@ -149,6 +152,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|128| 2024-06-20 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) Changed training metrics from loss and accuracy to account for precision, recall, F1 metrics; integrated balanced F1 for early stopping; updated train and validate methods | 3D CV |
 |127| 2024-06-19 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) Adjusted the baseline model to improve its integration of spatial and coordinate features. Resolved multiple shape mismatch issues that caused training crashes. | 3D CV |
 | 126 | 2024-06-18 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 4 : Deployment - Implemented the homework assignment: trained a model, deployed it as a REST API using Flask and Docker, and tested deployment scenarios. Experimented with MLflow model registry integration for deployments. | MLOps |
 | 125 | 2024-06-17 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 4 : Deployment - focusing on deploying models as web services, batch models, and streaming services | MLOps |
