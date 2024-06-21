@@ -32,15 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LunaNet3D - training metrics](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived)
+### [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived)
 
-**<p align="right">2024-06-20</p>**
+**<p align="right">2024-06-21</p>**
 
 - **Task Description**:  
-   - Updated the training loop to use precision, recall, and F1 metrics in tracking and logging for both training and validation.
-   - Implemented early stopping based on the best balanced F1 score.
-   - Added dynamic tracking of difficulty and confidence scores, refining how these scores are updated for each sample.
-   - Included the updated metrics in the log files for each epoch.
+Today, I focused on resolving the issues related to the application of difficulty scores during training. I adjusted the cyclical difficulty-based sampling logic in the BalancedBatchSampler to ensure correct behavior during specific epochs. Additionally, I exposed the dataset in the PrefetchLoader to properly track epochs and prevent the AttributeError that occurred when accessing dataset attributes. I also worked on optimizing logging verbosity during training, making console output more concise.
 
 ---
 
@@ -152,6 +149,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|129| 2024-06-21 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) Resolved difficulty score application and prefetch wrapper issues and optimized training verbosity | 3D CV |
 |128| 2024-06-20 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) Changed training metrics from loss and accuracy to account for precision, recall, F1 metrics; integrated balanced F1 for early stopping; updated train and validate methods | 3D CV |
 |127| 2024-06-19 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) Adjusted the baseline model to improve its integration of spatial and coordinate features. Resolved multiple shape mismatch issues that caused training crashes. | 3D CV |
 | 126 | 2024-06-18 | [MLOps ZoomCamp](https://github.com/Ramsi-K/mlops-zoomcamp) Week 4 : Deployment - Implemented the homework assignment: trained a model, deployed it as a REST API using Flask and Docker, and tested deployment scenarios. Experimented with MLflow model registry integration for deployments. | MLOps |
