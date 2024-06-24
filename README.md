@@ -32,12 +32,15 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
+###  [Monocular Depth Estimation](https://github.com/Ramsi-K/3D-Vision-Playground/Depth-Estimation/Monocular)
 
-**<p align="right">2024-06-23</p>**
+**<p align="right">2024-06-24</p>**
 
 - **Task Description**:  
-LeetCode: [PatientsWithCondition](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1527-patients-with-a-condition/); [CustomersWhoVisited](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1581-customer-who-visited-but-did-not-make-any-transactions/); [BankAccountSummary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1587-bank-account-summary-ii/); [PercentageUsersAttendedConcert](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1633-percentage-of-users-attended-a-contest/); [FixNamedInTable](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1667-fix-names-in-a-table/); [InvalidTweets](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1683-invalid-tweets/)
+Today was spent on understanding the theory and methods behind Monocular Depth Estimation (MDE) and going through the tutorial provided by FiftyOne. MDE is a very interesting topic as it has applications in 3D scene reconstruction, AR technologies, scene understanding, Autonomous Driving and many more fields. While today was spent mostly on breaking down the theory behind the process, it was nonetheless highly engaging. The tutorial provided trains two models on :
+
+- Model 1: Transformer Based DPT
+- Model 2: Diffusion Based Marigold.
 
 ---
 
@@ -149,6 +152,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|132| 2024-06-24 | [Monocular Depth Estimation](https://github.com/Ramsi-K/3D-Vision-Playground/Depth-Estimation/Monocular): Studied monocular depth estimation and worked through FiftyOne Tutorial for Sun-RGBD dataset using DPT and Marigold | 3D CV |
 |131| 2024-06-23 | LeetCode: [PatientsWithCondition](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1527-patients-with-a-condition/); [CustomersWhoVisited](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1581-customer-who-visited-but-did-not-make-any-transactions/); [BankAccountSummary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1587-bank-account-summary-ii/); [PercentageUsersAttendedConcert](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1633-percentage-of-users-attended-a-contest/); [FixNamedInTable](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1667-fix-names-in-a-table/); [InvalidTweets](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1683-invalid-tweets/)  | DSA |
 |130| 2024-06-22 | LeetCode: [StudentsandExaminations](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1280-students-and-examinations/); [ListProductsOrdered](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1327-list-the-products-ordered-in-a-period/); [ReplaceEmployeeId](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1378-replace-employee-id-with-the-unique-identifier/); [TopTravellers](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1407-top-travellers/); [GroupSoldProducts](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1484-group-sold-products-by-the-date/); [FindUsersWithEmails](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1517-find-users-with-valid-e-mails/) | DSA |
 |129| 2024-06-21 | [LunaNet3D](https://github.com/Ramsi-K/3D-Vision-Playground/tree/main/Luna-Net3D-Archived) Resolved difficulty score application and prefetch wrapper issues and optimized training verbosity | 3D CV |
