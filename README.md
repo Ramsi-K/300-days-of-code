@@ -32,16 +32,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Monocular Depth Estimation](https://github.com/Ramsi-K/3D-Vision-Playground/Depth-Estimation/Monocular)
+### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-06-25</p>**
+**<p align="right">2024-06-26</p>**
 
 - **Task Description**:  
-Today I worked on using the DPT transformer model to train a new Monocular Depth Estimation model on the Sun-RGBD dataset.The notebook includes:
-**Data Preparation:** Preprocessing RGB images and depth maps from the SUN RGB-D dataset, including resizing and normalization.
-**Model Inference:** Utilizing a pretrained DPT model from HuggingFace Transformers to generate depth predictions.
-**Evaluation:** Calculating RMSE and SSIM to evaluate predicted depth maps against ground truth.
-**Visualization:** Visualizing predictions and creating 3D point clouds using Open3D. This notebook demonstrates the effectiveness of transformer-based models for depth estimation and highlights key challenges in dataset preparation and evaluation. Future work could involve fine-tuning the model and improving dataset handling for better results.
+Started researching GitHub's limitations with large notebooks. My last notebook [02_SelfExploration_MonocularDepth_DPT](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Depth-Estimation/Monocular/02_SelfExploration_MonocularDepth_DPT.ipynb) will not render on Github and got the error `Sorry, this is too big to display.` Moreover, my GitLFS is at 85% capacity and as I am less than half way through my 300 days of code I am looking for long term solutions to this issue. I looked at using Binder, JupyterHub, huggingface for hosting; deeply evaluated the pros and cons of stripping outputs; zipping folders and notebooks, as well as tools like DVC for tracking large files.  Explored `nbconvert` as a potential solution and explored converting to md, JSON, py, pdf, and html. Found initial issues with rendering outputs and compatibility with GitHub's Markdown. Began experimenting with exporting basic notebooks.
 
 ---
 
@@ -153,6 +149,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|134| 2024-06-26 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Researched GitHub Markdown limitations after the last notebook would not render on Github and also resulted in 85% capacity for GitLFS; explored `nbconvert` as a solution. | DevTools |
 |133| 2024-06-25 | [Monocular Depth Estimation](https://github.com/Ramsi-K/3D-Vision-Playground/Depth-Estimation/Monocular): Monocular depth estimation [self-implementation](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Depth-Estimation/Monocular/02_SelfExploration_MonocularDepth_DPT.ipynb) using pretrained HF DPT; RMSE and SSIM evaluated; point clouds using Open3D | 3D CV |
 |132| 2024-06-24 | [Monocular Depth Estimation](https://github.com/Ramsi-K/3D-Vision-Playground/Depth-Estimation/Monocular): Studied monocular depth estimation and worked through FiftyOne [Tutorial](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Depth-Estimation/Monocular/01_Basics_MonocularDepth_Tutorial.ipynb) for Sun-RGBD dataset using DPT and Marigold | 3D CV |
 |131| 2024-06-23 | LeetCode: [PatientsWithCondition](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1527-patients-with-a-condition/); [CustomersWhoVisited](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1581-customer-who-visited-but-did-not-make-any-transactions/); [BankAccountSummary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1587-bank-account-summary-ii/); [PercentageUsersAttendedConcert](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1633-percentage-of-users-attended-a-contest/); [FixNamedInTable](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1667-fix-names-in-a-table/); [InvalidTweets](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1683-invalid-tweets/)  | DSA |
