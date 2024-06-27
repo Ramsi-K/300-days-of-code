@@ -34,10 +34,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-06-26</p>**
+**<p align="right">2024-06-27</p>**
 
 - **Task Description**:  
-Started researching GitHub's limitations with large notebooks. My last notebook [02_SelfExploration_MonocularDepth_DPT](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Depth-Estimation/Monocular/02_SelfExploration_MonocularDepth_DPT.ipynb) will not render on Github and got the error `Sorry, this is too big to display.` Moreover, my GitLFS is at 85% capacity and as I am less than half way through my 300 days of code I am looking for long term solutions to this issue. I looked at using Binder, JupyterHub, huggingface for hosting; deeply evaluated the pros and cons of stripping outputs; zipping folders and notebooks, as well as tools like DVC for tracking large files.  Explored `nbconvert` as a potential solution and explored converting to md, JSON, py, pdf, and html. Found initial issues with rendering outputs and compatibility with GitHub's Markdown. Began experimenting with exporting basic notebooks.
+Spent the day testing `nbconvert` templates and exploring the feasibility of custom templates. Realized it might solve some problems but wouldn't address interactive outputs or large files effectively. Continued brainstorming for alternatives.
 
 ---
 
@@ -149,6 +149,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|135| 2024-06-27 | [Notebookify](https://github.com/Ramsi-K/notebookify): Extended testing `nbconvert` for Markdown conversion; faced rendering issues. | DevTools |
 |134| 2024-06-26 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Researched GitHub Markdown limitations after the last notebook would not render on Github and also resulted in 85% capacity for GitLFS; explored `nbconvert` as a solution. | DevTools |
 |133| 2024-06-25 | [Monocular Depth Estimation](https://github.com/Ramsi-K/3D-Vision-Playground/Depth-Estimation/Monocular): Monocular depth estimation [self-implementation](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Depth-Estimation/Monocular/02_SelfExploration_MonocularDepth_DPT.ipynb) using pretrained HF DPT; RMSE and SSIM evaluated; point clouds using Open3D | 3D CV |
 |132| 2024-06-24 | [Monocular Depth Estimation](https://github.com/Ramsi-K/3D-Vision-Playground/Depth-Estimation/Monocular): Studied monocular depth estimation and worked through FiftyOne [Tutorial](https://github.com/Ramsi-K/3D-Vision-Playground/blob/main/Depth-Estimation/Monocular/01_Basics_MonocularDepth_Tutorial.ipynb) for Sun-RGBD dataset using DPT and Marigold | 3D CV |
