@@ -34,10 +34,10 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-06-28</p>**
+**<p align="right">2024-06-29</p>**
 
 - **Task Description**:  
-Investigated Git LFS to handle large notebooks. Found it unsuitable for frequent updates and workflows that involve interactive or large output-heavy notebooks. Pivoted to exploring cloud integrations for better output handling.
+Started experimenting with Google Drive API for notebook storage and sharing. Researched how to simplify sharing links for recruiters while minimizing Git LFS usage. Implemented basic authentication to test the API.
 
 ---
 
@@ -149,6 +149,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|137| 2024-06-29 | [Notebookify](https://github.com/Ramsi-K/notebookify): Began integrating Google Drive API for file sharing. | DevTools |
 |136| 2024-06-28 | [Notebookify](https://github.com/Ramsi-K/notebookify): Explored Git LFS for large notebooks; deemed unsuitable. | DevTools |
 |135| 2024-06-27 | [Notebookify](https://github.com/Ramsi-K/notebookify): Extended testing `nbconvert` for Markdown conversion; faced rendering issues. | DevTools |
 |134| 2024-06-26 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Researched GitHub Markdown limitations after the last notebook would not render on Github and also resulted in 85% capacity for GitLFS; explored `nbconvert` as a solution. | DevTools |
