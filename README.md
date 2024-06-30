@@ -32,12 +32,17 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Notebookify](https://github.com/Ramsi-K/notebookify)
+### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
 
-**<p align="right">2024-06-29</p>**
+**<p align="right">2024-06-30</p>**
 
 - **Task Description**:  
-Started experimenting with Google Drive API for notebook storage and sharing. Researched how to simplify sharing links for recruiters while minimizing Git LFS usage. Implemented basic authentication to test the API.
+ LeetCode: [DailyLeadsandPartners](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1693-daily-leads-and-partners/);
+ [NumberofEmployees](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1731-the-number-of-employees-which-report-to-each-employee/); 
+ [TotalTimeSpent](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1741-find-total-time-spent-by-each-employee/);
+ [RecyclableLowFatProducts](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1757-recyclable-and-low-fat-products/); 
+ [PrimaryDepartment](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1789-primary-department-for-each-employee/); 
+ [RearrangeProductsTable](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1795-rearrange-products-table/)
 
 ---
 
@@ -149,6 +154,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|138| 2024-06-30 | LeetCode: [DailyLeadsandPartners](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1693-daily-leads-and-partners/); [NumberofEmployees](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1731-the-number-of-employees-which-report-to-each-employee/); [TotalTimeSpent](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1741-find-total-time-spent-by-each-employee/);  [RecyclableLowFatProducts](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1757-recyclable-and-low-fat-products/); [PrimaryDepartment](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1789-primary-department-for-each-employee/); [RearrangeProductsTable](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1795-rearrange-products-table/) | DSA |
 |137| 2024-06-29 | [Notebookify](https://github.com/Ramsi-K/notebookify): Began integrating Google Drive API for file sharing. | DevTools |
 |136| 2024-06-28 | [Notebookify](https://github.com/Ramsi-K/notebookify): Explored Git LFS for large notebooks; deemed unsuitable. | DevTools |
 |135| 2024-06-27 | [Notebookify](https://github.com/Ramsi-K/notebookify): Extended testing `nbconvert` for Markdown conversion; faced rendering issues. | DevTools |
