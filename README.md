@@ -32,17 +32,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions)
+### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-06-30</p>**
+**<p align="right">2024-07-01</p>**
 
 - **Task Description**:  
- LeetCode: [DailyLeadsandPartners](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1693-daily-leads-and-partners/);
- [NumberofEmployees](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1731-the-number-of-employees-which-report-to-each-employee/); 
- [TotalTimeSpent](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1741-find-total-time-spent-by-each-employee/);
- [RecyclableLowFatProducts](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1757-recyclable-and-low-fat-products/); 
- [PrimaryDepartment](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1789-primary-department-for-each-employee/); 
- [RearrangeProductsTable](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1795-rearrange-products-table/)
+
+Tried combining nbconvert outputs with Google Drive integration. Faced rendering issues with interactive elements like iframes and struggled to retain outputs. Spent hours debugging without much progress and decided to explore static output handling.
 
 ---
 
@@ -154,6 +150,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|139| 2024-07-01 | [Notebookify](https://github.com/Ramsi-K/notebookify): Debugged issues combining nbconvert with Google Drive uploads. | DevTools |
 |138| 2024-06-30 | LeetCode: [DailyLeadsandPartners](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1693-daily-leads-and-partners/); [NumberofEmployees](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1731-the-number-of-employees-which-report-to-each-employee/); [TotalTimeSpent](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1741-find-total-time-spent-by-each-employee/);  [RecyclableLowFatProducts](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1757-recyclable-and-low-fat-products/); [PrimaryDepartment](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1789-primary-department-for-each-employee/); [RearrangeProductsTable](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1795-rearrange-products-table/) | DSA |
 |137| 2024-06-29 | [Notebookify](https://github.com/Ramsi-K/notebookify): Began integrating Google Drive API for file sharing. | DevTools |
 |136| 2024-06-28 | [Notebookify](https://github.com/Ramsi-K/notebookify): Explored Git LFS for large notebooks; deemed unsuitable. | DevTools |
