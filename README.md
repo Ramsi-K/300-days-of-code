@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-03</p>**
+**<p align="right">2024-07-04</p>**
 
 - **Task Description**:  
 
-I expanded the script to include Google Drive integration so I could share converted notebooks more easily. I spent most of today debugging path inconsistencies during uploads. By the end of the day, the script was functional, but it still didn't handle diverse output types.
+I started exploring Jinja2 templates to make the Markdown outputs more flexible. I added placeholders for Colab links and tested them with converted files. There were some quirks with relative paths, so I also began refining how the script handles folders.
 
 ---
 
@@ -150,6 +150,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|142| 2024-07-04 | [Notebookify](https://github.com/Ramsi-K/notebookify): Experimented with Jinja2 templates and added Colab links. | DevTools |
 |141| 2024-07-03 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Debugged path inconsistencies during uploads. | DevTools |
 |140| 2024-07-02 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Began drafting `convert_to_markdown.py` as a standalone script. | DevTools |
 |139| 2024-07-01 | [Notebookify](https://github.com/Ramsi-K/notebookify): Debugged issues combining nbconvert with Google Drive uploads. | DevTools |
