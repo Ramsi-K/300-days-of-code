@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-04</p>**
+**<p align="right">2024-07-05</p>**
 
 - **Task Description**:  
 
-I started exploring Jinja2 templates to make the Markdown outputs more flexible. I added placeholders for Colab links and tested them with converted files. There were some quirks with relative paths, so I also began refining how the script handles folders.
+I took some time to reflect on the project's scope and decided to turn `convert_to_markdown.py` into a complete tool. I started restructuring the script into notebookify with modular components. I also added basic folder cleanup and ran end-to-end tests to check the functionality.
 
 ---
 
@@ -150,6 +150,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|143| 2024-07-05 | [Notebookify](https://github.com/Ramsi-K/notebookify):Decided to evolve convert_to_markdown.py into Notebookify. | DevTools |
 |142| 2024-07-04 | [Notebookify](https://github.com/Ramsi-K/notebookify): Experimented with Jinja2 templates and added Colab links. | DevTools |
 |141| 2024-07-03 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Debugged path inconsistencies during uploads. | DevTools |
 |140| 2024-07-02 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Began drafting `convert_to_markdown.py` as a standalone script. | DevTools |
