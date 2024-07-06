@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-05</p>**
+**<p align="right">2024-07-06</p>**
 
 - **Task Description**:  
 
-I took some time to reflect on the project's scope and decided to turn `convert_to_markdown.py` into a complete tool. I started restructuring the script into notebookify with modular components. I also added basic folder cleanup and ran end-to-end tests to check the functionality.
+Today was frustrating. I struggled to figure out how to convert Plotly outputs into static images. I tried saving snapshots manually and testing a few automated solutions but didn't make much progress. I realized that this feature would need custom handling in the script.
 
 ---
 
@@ -150,6 +150,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|144| 2024-07-06 | [Notebookify](https://github.com/Ramsi-K/notebookify): Debugged issues with static snapshots of Plotly outputs. | DevTools |
 |143| 2024-07-05 | [Notebookify](https://github.com/Ramsi-K/notebookify):Decided to evolve convert_to_markdown.py into Notebookify. | DevTools |
 |142| 2024-07-04 | [Notebookify](https://github.com/Ramsi-K/notebookify): Experimented with Jinja2 templates and added Colab links. | DevTools |
 |141| 2024-07-03 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Debugged path inconsistencies during uploads. | DevTools |
