@@ -32,13 +32,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
+### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-07</p>**
+**<p align="right">2024-07-08</p>**
 
 - **Task Description**:  
 
-[CalculateSpecialBonus](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1873-calculate-special-bonus/); [LatestLogin](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1890-the-latest-login-in-2020/); [CountSalaryCategories](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1907-count-salary-categories/); [EmployeeswithMissingInfo](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1965-employees-with-missing-information/) 
+I worked on integrating logic for saving static snapshots of Plotly visualizations. I made some progress but ran into challenges when dealing with large data outputs. Debugging the application/vnd.plotly.v1+json handling in the template took a significant part of the day.
 
 ---
 
@@ -150,6 +150,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|146| 2024-07-08 | [Notebookify](https://github.com/Ramsi-K/notebookify):Improved handling of Plotly outputs with static snapshots. | DevTools |
 |145| 2024-07-07 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [CalculateSpecialBonus](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1873-calculate-special-bonus/); [LatestLogin](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1890-the-latest-login-in-2020/); [CountSalaryCategories](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1907-count-salary-categories/); [EmployeeswithMissingInfo](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1965-employees-with-missing-information/) | DSA |
 |144| 2024-07-06 | [Notebookify](https://github.com/Ramsi-K/notebookify): Debugged issues with static snapshots of Plotly outputs. | DevTools |
 |143| 2024-07-05 | [Notebookify](https://github.com/Ramsi-K/notebookify):Decided to evolve convert_to_markdown.py into Notebookify. | DevTools |
