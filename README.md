@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-08</p>**
+**<p align="right">2024-07-09</p>**
 
 - **Task Description**:  
 
-I worked on integrating logic for saving static snapshots of Plotly visualizations. I made some progress but ran into challenges when dealing with large data outputs. Debugging the application/vnd.plotly.v1+json handling in the template took a significant part of the day.
+ I added logging throughout the project to track API interactions, folder creation, and output handling. It was satisfying to see the workflow being logged, which will make debugging much easier as the project grows. This feels like progress, even though nothing flashy was achieved.
 
 ---
 
@@ -150,6 +150,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|147| 2024-07-09 | [Notebookify](https://github.com/Ramsi-K/notebookify):Added basic logging for debugging folder and API interactions. | DevTools |
 |146| 2024-07-08 | [Notebookify](https://github.com/Ramsi-K/notebookify):Improved handling of Plotly outputs with static snapshots. | DevTools |
 |145| 2024-07-07 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [CalculateSpecialBonus](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1873-calculate-special-bonus/); [LatestLogin](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1890-the-latest-login-in-2020/); [CountSalaryCategories](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1907-count-salary-categories/); [EmployeeswithMissingInfo](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1965-employees-with-missing-information/) | DSA |
 |144| 2024-07-06 | [Notebookify](https://github.com/Ramsi-K/notebookify): Debugged issues with static snapshots of Plotly outputs. | DevTools |
