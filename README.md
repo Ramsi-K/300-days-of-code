@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-10</p>**
+**<p align="right">2024-07-11</p>**
 
 - **Task Description**:  
 
-Today, I tackled bugs related to folder cleanup, which was causing unused folders to pile up. I streamlined the logic to delete temporary directories after processing. It's now modular and works for batch processing too. This cleanup made the entire script feel a lot more polished.
+I focused on batch processing today. Handling large notebooks in batches is more efficient than one file at a time, especially when uploading to Google Drive. I optimized API calls to reduce overhead and ensure faster uploads. This was a small but impactful improvement.
 
 ---
 
@@ -150,6 +150,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|149| 2024-07-11 | [Notebookify](https://github.com/Ramsi-K/notebookify):FOptimized batch uploads for large notebooks | DevTools |
 |148| 2024-07-10 | [Notebookify](https://github.com/Ramsi-K/notebookify):Fixed folder cleanup bugs; streamlined asset management logic | DevTools |
 |147| 2024-07-09 | [Notebookify](https://github.com/Ramsi-K/notebookify):Added basic logging for debugging folder and API interactions. | DevTools |
 |146| 2024-07-08 | [Notebookify](https://github.com/Ramsi-K/notebookify):Improved handling of Plotly outputs with static snapshots. | DevTools |
