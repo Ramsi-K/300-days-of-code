@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-11</p>**
+**<p align="right">2024-07-12</p>**
 
 - **Task Description**:  
 
-I focused on batch processing today. Handling large notebooks in batches is more efficient than one file at a time, especially when uploading to Google Drive. I optimized API calls to reduce overhead and ensure faster uploads. This was a small but impactful improvement.
+The Jinja2 templates needed to handle more varied output types, so I spent the day expanding them. Now, the templates handle everything from text streams to static images better, making the Markdown outputs more robust. Still working on seamless handling for interactive outputs like Plotly.
 
 ---
 
@@ -150,7 +150,8 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|149| 2024-07-11 | [Notebookify](https://github.com/Ramsi-K/notebookify):FOptimized batch uploads for large notebooks | DevTools |
+|150| 2024-07-12 | [Notebookify](https://github.com/Ramsi-K/notebookify):Expanded Jinja2 templates to support diverse output types. | DevTools |
+|149| 2024-07-11 | [Notebookify](https://github.com/Ramsi-K/notebookify):Optimized batch uploads for large notebooks | DevTools |
 |148| 2024-07-10 | [Notebookify](https://github.com/Ramsi-K/notebookify):Fixed folder cleanup bugs; streamlined asset management logic | DevTools |
 |147| 2024-07-09 | [Notebookify](https://github.com/Ramsi-K/notebookify):Added basic logging for debugging folder and API interactions. | DevTools |
 |146| 2024-07-08 | [Notebookify](https://github.com/Ramsi-K/notebookify):Improved handling of Plotly outputs with static snapshots. | DevTools |
