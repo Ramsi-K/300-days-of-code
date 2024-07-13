@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-12</p>**
+**<p align="right">2024-07-13</p>**
 
 - **Task Description**:  
 
-The Jinja2 templates needed to handle more varied output types, so I spent the day expanding them. Now, the templates handle everything from text streams to static images better, making the Markdown outputs more robust. Still working on seamless handling for interactive outputs like Plotly.
+Testing on a real-world notebook with a lot of interactive elements revealed performance bottlenecks. Some outputs, like 3D visualizations, caused unexpected errors. I spent the day debugging these issues and making note of what needs further refinement.
 
 ---
 
@@ -72,6 +72,45 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
 
 ## 30-Day Coding Sprints: Project Highlights
 
+## Latest Sprint: Days 121-150 Highlights
+
+1. **Notebookify Development**:  
+   - Expanded functionality with advanced Jinja2 templates for diverse output formats and improved Plotly static snapshot handling.  
+   - Debugged Google Drive integration, resolving path inconsistencies and enhancing asset management.  
+   - Introduced basic logging for folder and API interactions, improving reliability and debugging capabilities.  
+   - Evolved `convert_to_markdown.py` into the Notebookify tool, streamlining workflows for notebook sharing and documentation.  
+
+2. **Monocular Depth Estimation**:  
+   - Implemented a self-contained pipeline for monocular depth estimation using pretrained Hugging Face DPT models.  
+   - Evaluated RMSE and SSIM metrics for depth map quality and visualized results as 3D point clouds with Open3D.  
+   - Explored dataset organization with FiftyOne on the Sun-RGBD dataset, improving project insights with data-centric analyses.  
+
+3. **LeetCode Problem Solving**:  
+   - Completed an extensive set of SQL problems, strengthening query optimization, aggregation, and joins.  
+   - Solved a variety of Python-based challenges, enhancing skills in arrays, strings, and dynamic programming.  
+   - Balanced difficulty levels across problems, ensuring consistent skill growth and knowledge reinforcement.  
+
+4. **LunaNet3D Refinements**:  
+   - Enhanced the training pipeline with precision, recall, and F1 metrics for more comprehensive evaluations.  
+   - Integrated a balanced F1 metric for early stopping, improving training stability.  
+   - Resolved shape mismatch errors and optimized feature integration for better performance on the baseline model.  
+
+5. **MLOps Progress**:  
+   - Completed Week 4 of the ZoomCamp, focusing on deploying models as REST APIs using Flask and Docker.  
+   - Integrated MLflow model registry for streamlined deployment workflows.  
+   - Experimented with batch and streaming deployment scenarios, laying the groundwork for scalable production pipelines.  
+
+---
+
+### **Key Themes**
+
+- **Tool Development**: Strengthened Notebookify as a versatile and efficient notebook management tool.  
+- **3D Vision Exploration**: Progressed in monocular depth estimation and visualization techniques with practical applications.  
+- **Consistent Skill Development**: Balanced technical challenges across LeetCode and DSA to maintain diverse skills.  
+
+<details>
+  <summary>Archived 30-Day Sprints</summary>
+
 ### Latest Sprint: Days 91-120 Highlights
 
 1. **YOLOv3 Implementation**:  
@@ -97,28 +136,22 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
    - Completed a series of SQL-based problems, strengthening query optimization and logical reasoning skills.  
    - Solved problems on topics like employee bonuses, customer orders, and data aggregation.
 
-### Key Themes:
+### Key Themes
 
 - **Efficient Pipelines**: Streamlined LunaNet3D and YOLOv3 workflows with improved data loaders, augmentation strategies, and debugging.  
 - **Scalable MLOps Practices**: Applied foundational concepts of orchestration and experiment tracking to real-world setups.  
 - **Repository Management**: Enhanced organization and documentation for long-term usability and professional presentation.  
 - **Consistent Skill Development**: Balanced technical learning with coding problem-solving to maintain diverse skill sets.
 
-
----
-
-<details>
-  <summary>Archived 30-Day Sprints</summary>
-
 ### Archived Sprint: Days 61-90 Highlights
 
-1. **Luna-Net3D-Archived Data Validation and Visualization**: An intensive focus on ensuring data quality and alignment, developing scripts for voxel-to-lung validation, boundary checks, and comparative plotting of aligned and misaligned nodules in both 2D and 3D. This phase was crucial for cleaning up the dataset and ensuring accurate annotations.
+   1. **Luna-Net3D-Archived Data Validation and Visualization**: An intensive focus on ensuring data quality and alignment, developing scripts for voxel-to-lung validation, boundary checks, and comparative plotting of aligned and misaligned nodules in both 2D and 3D. This phase was crucial for cleaning up the dataset and ensuring accurate annotations.
 
-2. **YOLOv3 Paper Implementation**: Started implementing YOLOv3 from scratch based on the original paper to understand the architecture of YOLO and its layers. YOLO’s object detection architecture is an excellent candidate for applying nodule detection to the Luna-Net3D-Archived dataset. The work involved coding the layers, training on preliminary data, and drafting detailed notes on implementation.
+   2. **YOLOv3 Paper Implementation**: Started implementing YOLOv3 from scratch based on the original paper to understand the architecture of YOLO and its layers. YOLO’s object detection architecture is an excellent candidate for applying nodule detection to the Luna-Net3D-Archived dataset. The work involved coding the layers, training on preliminary data, and drafting detailed notes on implementation.
 
-3. **Exploring MLOps with ZoomCamp**: Completed Weeks 1 and 2 of the MLOps ZoomCamp course, covering foundational MLOps concepts, experiment tracking, and model management with MLflow. Weekly modules included hands-on exercises, implementing experiment tracking, and setting up a model registry to organize experiments and streamline model development.
+   3. **Exploring MLOps with ZoomCamp**: Completed Weeks 1 and 2 of the MLOps ZoomCamp course, covering foundational MLOps concepts, experiment tracking, and model management with MLflow. Weekly modules included hands-on exercises, implementing experiment tracking, and setting up a model registry to organize experiments and streamline model development.
 
-4. **Data Preprocessing and Augmentation for Luna-Net3D-Archived**: Developed effective data transformations and resizing methods to improve data loading and training speeds. This involved extensive exploration of TorchIO for 3D data augmentation, implementing padding, resizing, and balancing methods, and tackling augmentation-related debugging challenges.
+   4. **Data Preprocessing and Augmentation for Luna-Net3D-Archived**: Developed effective data transformations and resizing methods to improve data loading and training speeds. This involved extensive exploration of TorchIO for 3D data augmentation, implementing padding, resizing, and balancing methods, and tackling augmentation-related debugging challenges.
 
 ### Archived Sprint 2: Days 31-60 Highlights
   
@@ -142,7 +175,7 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
 
 </details>
 
-<br/><br/> 
+<br/><br/>
 
 ## <center>Daily Tasks
 
@@ -150,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|151| 2024-07-13 | [Notebookify](https://github.com/Ramsi-K/notebookify):Tested the project on a large interactive notebook | DevTools |
 |150| 2024-07-12 | [Notebookify](https://github.com/Ramsi-K/notebookify):Expanded Jinja2 templates to support diverse output types. | DevTools |
 |149| 2024-07-11 | [Notebookify](https://github.com/Ramsi-K/notebookify):Optimized batch uploads for large notebooks | DevTools |
 |148| 2024-07-10 | [Notebookify](https://github.com/Ramsi-K/notebookify):Fixed folder cleanup bugs; streamlined asset management logic | DevTools |
