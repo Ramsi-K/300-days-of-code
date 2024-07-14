@@ -32,13 +32,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Notebookify](https://github.com/Ramsi-K/notebookify)
+### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
-**<p align="right">2024-07-13</p>**
+**<p align="right">2024-07-14</p>**
 
 - **Task Description**:  
 
-Testing on a real-world notebook with a lot of interactive elements revealed performance bottlenecks. Some outputs, like 3D visualizations, caused unexpected errors. I spent the day debugging these issues and making note of what needs further refinement.
+[EmployyesWhoseManagerLeft](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1978-employees-whose-manager-left-the-company/); [NumberofUniqueSubjects](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2356-number-of-unique-subjects-taught-by-each-teacher/) ; [CreateDataframe](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2877-create-a-dataframe-from-list/); [GetSize](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2878-get-the-size-of-a-dataframe/); [DisplayRows](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2879-display-the-first-three-rows/); [SelectData](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2880-select-data/) 
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|152| 2024-07-14 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [EmployyesWhoseManagerLeft](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1978-employees-whose-manager-left-the-company/); [NumberofUniqueSubjects](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2356-number-of-unique-subjects-taught-by-each-teacher/) ; [CreateDataframe](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2877-create-a-dataframe-from-list/); [GetSize](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2878-get-the-size-of-a-dataframe/); [DisplayRows](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2879-display-the-first-three-rows/); [SelectData](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2880-select-data/) | DSA |
 |151| 2024-07-13 | [Notebookify](https://github.com/Ramsi-K/notebookify):Tested the project on a large interactive notebook | DevTools |
 |150| 2024-07-12 | [Notebookify](https://github.com/Ramsi-K/notebookify):Expanded Jinja2 templates to support diverse output types. | DevTools |
 |149| 2024-07-11 | [Notebookify](https://github.com/Ramsi-K/notebookify):Optimized batch uploads for large notebooks | DevTools |
