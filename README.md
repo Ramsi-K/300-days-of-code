@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-16</p>**
+**<p align="right">2024-07-17</p>**
 
 - **Task Description**:  
 
-I started working on Plotly's `application/vnd.plotly.v1+json` handling today. It's complicated to extract and save these outputs as static snapshots, but I made some progress. There's still a lot of work to do, especially for large datasets, but this feels like progress.
+Colab has its quirks when rendering Markdown files, especially with inline outputs. I spent today testing different rendering approaches and debugging inconsistencies. While there's no perfect solution yet, I've documented these quirks for future iterations.
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|155| 2024-07-17 | [Notebookify](https://github.com/Ramsi-K/notebookify): Debugged Colab-specific quirks with Markdown rendering | DevTools |
 |154| 2024-07-16 | [Notebookify](https://github.com/Ramsi-K/notebookify): Began adding support for Plotly's `application/vnd.plotly.v1+json` | DevTools |
 |153| 2024-07-15 | [Notebookify](https://github.com/Ramsi-K/notebookify): Refactored codebase for better modularity and scalability | DevTools |
 |152| 2024-07-14 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [EmployyesWhoseManagerLeft](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1978-employees-whose-manager-left-the-company/); [NumberofUniqueSubjects](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2356-number-of-unique-subjects-taught-by-each-teacher/) ; [CreateDataframe](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2877-create-a-dataframe-from-list/); [GetSize](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2878-get-the-size-of-a-dataframe/); [DisplayRows](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2879-display-the-first-three-rows/); [SelectData](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/2880-select-data/) | DSA |
