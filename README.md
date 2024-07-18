@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-17</p>**
+**<p align="right">2024-07-18</p>**
 
 - **Task Description**:  
 
-Colab has its quirks when rendering Markdown files, especially with inline outputs. I spent today testing different rendering approaches and debugging inconsistencies. While there's no perfect solution yet, I've documented these quirks for future iterations.
+ I revisited iframe handling and used Selenium to attempt snapshots. This approach is promising for handling embedded content but comes with setup complexity. It's still a work in progress, but I'm optimistic about making this feature work in the future
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|156| 2024-07-18 | [Notebookify](https://github.com/Ramsi-K/notebookify):Worked on iframe snapshot rendering using Selenium | DevTools |
 |155| 2024-07-17 | [Notebookify](https://github.com/Ramsi-K/notebookify): Debugged Colab-specific quirks with Markdown rendering | DevTools |
 |154| 2024-07-16 | [Notebookify](https://github.com/Ramsi-K/notebookify): Began adding support for Plotly's `application/vnd.plotly.v1+json` | DevTools |
 |153| 2024-07-15 | [Notebookify](https://github.com/Ramsi-K/notebookify): Refactored codebase for better modularity and scalability | DevTools |
