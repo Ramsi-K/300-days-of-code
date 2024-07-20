@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-19</p>**
+**<p align="right">2024-07-20</p>**
 
 - **Task Description**:  
 
- Today, I focused on the README. It now includes a clear explanation of what Notebookify does, the challenges I faced during development, and what I've learned so far. I think this will make the project more approachable for others.
+ I created a sample notebook that showcases diverse outputs like plots, interactive visualizations, and error handling. This notebook is essential for testing and demonstrating Notebookify’s capabilities
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|158| 2024-07-20 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Created an example notebook with diverse outputs for testing | DevTools |
 |157| 2024-07-19 | [Notebookify](https://github.com/Ramsi-K/notebookify): Expanded README to showcase project usage and document challenges and learnings | DevTools |
 |156| 2024-07-18 | [Notebookify](https://github.com/Ramsi-K/notebookify):Worked on iframe snapshot rendering using Selenium | DevTools |
 |155| 2024-07-17 | [Notebookify](https://github.com/Ramsi-K/notebookify): Debugged Colab-specific quirks with Markdown rendering | DevTools |
