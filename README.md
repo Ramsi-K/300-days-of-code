@@ -32,13 +32,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
+### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-21</p>**
+**<p align="right">2024-07-22</p>**
 
 - **Task Description**:  
 
- Simple Pandas problems
+Error handling was a major focus today. I made sure unsupported outputs are logged and handled gracefully. This will make the tool more robust for edge cases in the future.
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|160| 2024-07-20 | [Notebookify](https://github.com/Ramsi-K/notebookify): Added error handling for unsupported output types | DevTools |
 |159| 2024-07-21 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): Pandas Problems 2881, 2882, 2883, 2884, 2885, 2886, 2887, 2888, 2889, 2891 | DSA |
 |158| 2024-07-20 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Created an example notebook with diverse outputs for testing | DevTools |
 |157| 2024-07-19 | [Notebookify](https://github.com/Ramsi-K/notebookify): Expanded README to showcase project usage and document challenges and learnings | DevTools |
