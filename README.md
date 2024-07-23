@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-22</p>**
+**<p align="right">2024-07-23</p>**
 
 - **Task Description**:  
 
-Error handling was a major focus today. I made sure unsupported outputs are logged and handled gracefully. This will make the tool more robust for edge cases in the future.
+I worked on the folder creation and resource management logic. It's more efficient now and ensures no unnecessary directories or files are left behind. This streamlining felt satisfying
 
 ---
 
@@ -183,7 +183,8 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|160| 2024-07-20 | [Notebookify](https://github.com/Ramsi-K/notebookify): Added error handling for unsupported output types | DevTools |
+|161| 2024-07-23 | [Notebookify](https://github.com/Ramsi-K/notebookify): Refined folder handling and output resource management | DevTools |
+|160| 2024-07-22 | [Notebookify](https://github.com/Ramsi-K/notebookify): Fixed .bat script inconsistencies across platforms | DevTools |
 |159| 2024-07-21 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): Pandas Problems 2881, 2882, 2883, 2884, 2885, 2886, 2887, 2888, 2889, 2891 | DSA |
 |158| 2024-07-20 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Created an example notebook with diverse outputs for testing | DevTools |
 |157| 2024-07-19 | [Notebookify](https://github.com/Ramsi-K/notebookify): Expanded README to showcase project usage and document challenges and learnings | DevTools |
