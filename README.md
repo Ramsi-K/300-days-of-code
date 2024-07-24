@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-23</p>**
+**<p align="right">2024-07-24</p>**
 
 - **Task Description**:  
 
-I worked on the folder creation and resource management logic. It's more efficient now and ensures no unnecessary directories or files are left behind. This streamlining felt satisfying
+ Today was all about testing. I processed multiple notebooks in batches to identify lingering bugs. The tool is close to stable now, but some issues with interactive outputs remain.
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|162| 2024-07-24 | [Notebookify](https://github.com/Ramsi-K/notebookify): Conducted batch tests and debugged final issues | DevTools |
 |161| 2024-07-23 | [Notebookify](https://github.com/Ramsi-K/notebookify): Refined folder handling and output resource management | DevTools |
 |160| 2024-07-22 | [Notebookify](https://github.com/Ramsi-K/notebookify): Fixed .bat script inconsistencies across platforms | DevTools |
 |159| 2024-07-21 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): Pandas Problems 2881, 2882, 2883, 2884, 2885, 2886, 2887, 2888, 2889, 2891 | DSA |
