@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-25</p>**
+**<p align="right">2024-07-26</p>**
 
 - **Task Description**:  
 
- I added detailed logging for edge cases, especially unsupported outputs. This should make it easier to troubleshoot and improve in the next iteration. Logging feels like such a simple thing, but it adds so much clarity
+ Today, I conducted final tests for this iteration. While some challenges remain unresolved (e.g., Plotly's `vnd.plotly.v1+json`), I documented these issues in the README for transparency.
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|164| 2024-07-26 | [Notebookify](https://github.com/Ramsi-K/notebookify): Tested and documented unresolved challenges | DevTools |
 |163| 2024-07-25 | [Notebookify](https://github.com/Ramsi-K/notebookify): Added explicit debug logs for unsupported output types | DevTools |
 |162| 2024-07-24 | [Notebookify](https://github.com/Ramsi-K/notebookify): Conducted batch tests and debugged final issues | DevTools |
 |161| 2024-07-23 | [Notebookify](https://github.com/Ramsi-K/notebookify): Refined folder handling and output resource management | DevTools |
