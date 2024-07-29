@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-28</p>**
+**<p align="right">2024-07-29</p>**
 
 - **Task Description**:  
 
-Today, I tackled the image/png and folder bugs head-on. While some interactive elements are still tricky, the fixes made significant progress. Wrapping up this iteration feels like an achievement, though there's still room for improvement in future updates.
+Reorganized the repository structure to improve clarity and modularity, aligning it with a more maintainable project architecture. Refactored google_drive_uploader.py into drive.py, enhancing modularity, logging, and batch processing workflows. Revamped markdown_converter.py by simplifying methods, integrating custom template support, and relocating utilities to utils.py. Improved the interactivity and retry logic of main.py, creating a more user-friendly interface for batch and single notebook processing.
 
 ---
 
@@ -183,7 +183,8 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
-|166| 2024-07-28 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Worked on final fixes for image/png and folder bugs | DevTools |
+|167| 2024-07-29 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Restructured repo, refactored `drive.py` and `markdown_converter.py`, improved `main.py` CLI | DevTools |
+|166| 2024-07-28 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Worked on fixes for image/png and folder bugs | DevTools |
 |165| 2024-07-27 | [Notebookify](https://github.com/Ramsi-K/notebookify): Debugged folder creation logic for outputs | DevTools |
 |164| 2024-07-26 | [Notebookify](https://github.com/Ramsi-K/notebookify): Tested and documented unresolved challenges | DevTools |
 |163| 2024-07-25 | [Notebookify](https://github.com/Ramsi-K/notebookify): Added explicit debug logs for unsupported output types | DevTools |
