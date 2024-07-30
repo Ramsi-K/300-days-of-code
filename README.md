@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-29</p>**
+**<p align="right">2024-07-30</p>**
 
 - **Task Description**:  
 
-Reorganized the repository structure to improve clarity and modularity, aligning it with a more maintainable project architecture. Refactored google_drive_uploader.py into drive.py, enhancing modularity, logging, and batch processing workflows. Revamped markdown_converter.py by simplifying methods, integrating custom template support, and relocating utilities to utils.py. Improved the interactivity and retry logic of main.py, creating a more user-friendly interface for batch and single notebook processing.
+Focused on major refactoring and foundational improvements. Added `get_template_path` and metadata management functions to `utils.py` for cleaner template handling and integration. Refactored `markdown_converter.py` with enhanced logging, consistent logic, and Colab link handling. Introduced `logger.py` for centralized, color-coded logs to improve readability. Renamed `google_drive_uploader.py` to `drive.py` for better clarity and consistency across modules.
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|168| 2024-07-30 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Refactored logging, added GitHub root detection, improved MarkdownConverter | DevTools |
 |167| 2024-07-29 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Restructured repo, refactored `drive.py` and `markdown_converter.py`, improved `main.py` CLI | DevTools |
 |166| 2024-07-28 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Worked on fixes for image/png and folder bugs | DevTools |
 |165| 2024-07-27 | [Notebookify](https://github.com/Ramsi-K/notebookify): Debugged folder creation logic for outputs | DevTools |
