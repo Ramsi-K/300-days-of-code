@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-30</p>**
+**<p align="right">2024-07-31</p>**
 
 - **Task Description**:  
 
-Focused on major refactoring and foundational improvements. Added `get_template_path` and metadata management functions to `utils.py` for cleaner template handling and integration. Refactored `markdown_converter.py` with enhanced logging, consistent logic, and Colab link handling. Introduced `logger.py` for centralized, color-coded logs to improve readability. Renamed `google_drive_uploader.py` to `drive.py` for better clarity and consistency across modules.
+Today's work focused on improving `main.py` and related modules for better usability and context management. Metadata handling was refined with GitHub root integration for structured uploads and a more intuitive workflow. The CLI was enhanced with a comprehensive help system to guide users, along with a `--refresh-metadata` option for updating Google Drive metadata seamlessly. These changes significantly improve the functionality, making the tool more user-friendly and robust.
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|169| 2024-07-31 | [Notebookify](https://github.com/Ramsi-K/notebookify): Enhanced main.py with metadata, CLI help, and Drive integration | DevTools |
 |168| 2024-07-30 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Refactored logging, added GitHub root detection, improved MarkdownConverter | DevTools |
 |167| 2024-07-29 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Restructured repo, refactored `drive.py` and `markdown_converter.py`, improved `main.py` CLI | DevTools |
 |166| 2024-07-28 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Worked on fixes for image/png and folder bugs | DevTools |
