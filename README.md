@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-07-31</p>**
+**<p align="right">2024-08-01</p>**
 
 - **Task Description**:  
 
-Today's work focused on improving `main.py` and related modules for better usability and context management. Metadata handling was refined with GitHub root integration for structured uploads and a more intuitive workflow. The CLI was enhanced with a comprehensive help system to guide users, along with a `--refresh-metadata` option for updating Google Drive metadata seamlessly. These changes significantly improve the functionality, making the tool more user-friendly and robust.
+Today, the focus was on eliminating redundancies and consolidating functionality across the project. Batch processing logic was centralized into `markdown_converter.py`, removing duplicate functions from `drive.py` and `main.py` for improved clarity and maintainability. The `print_help` function was added to `utils.py` to standardize the help output for CLI interactions. Additionally, Google Drive metadata handling was enhanced to support refresh functionality, ensuring efficient folder and file management during uploads. These changes significantly streamlined the codebase, paving the way for further optimizations.
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|170| 2024-08-01 | [Notebookify](https://github.com/Ramsi-K/notebookify): Centralized batch processing, improved metadata, and refactored CLI tools | DevTools |
 |169| 2024-07-31 | [Notebookify](https://github.com/Ramsi-K/notebookify): Enhanced main.py with metadata, CLI help, and Drive integration | DevTools |
 |168| 2024-07-30 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Refactored logging, added GitHub root detection, improved MarkdownConverter | DevTools |
 |167| 2024-07-29 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Restructured repo, refactored `drive.py` and `markdown_converter.py`, improved `main.py` CLI | DevTools |
