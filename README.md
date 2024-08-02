@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-08-01</p>**
+**<p align="right">2024-08-02</p>**
 
 - **Task Description**:  
 
-Today, the focus was on eliminating redundancies and consolidating functionality across the project. Batch processing logic was centralized into `markdown_converter.py`, removing duplicate functions from `drive.py` and `main.py` for improved clarity and maintainability. The `print_help` function was added to `utils.py` to standardize the help output for CLI interactions. Additionally, Google Drive metadata handling was enhanced to support refresh functionality, ensuring efficient folder and file management during uploads. These changes significantly streamlined the codebase, paving the way for further optimizations.
+Today, I implemented and tested a .bat script for running the Notebookify project. This included starting a new terminal, setting up a clean environment, executing the main script, and ensuring the terminal processes terminated correctly. I also finished addressing minor bugs and import issues caused by earlier refactoring. With these fixes, the repository is cohesive and functional for future development, wrapping up both tasks efficiently.
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|171| 2024-08-02 | [Notebookify](https://github.com/Ramsi-K/notebookify): Tested and improved .bat script; resolved refactoring import issues | DevTools |
 |170| 2024-08-01 | [Notebookify](https://github.com/Ramsi-K/notebookify): Centralized batch processing, improved metadata, and refactored CLI tools | DevTools |
 |169| 2024-07-31 | [Notebookify](https://github.com/Ramsi-K/notebookify): Enhanced main.py with metadata, CLI help, and Drive integration | DevTools |
 |168| 2024-07-30 | [Notebookify](https://github.com/Ramsi-K/notebookify):  Refactored logging, added GitHub root detection, improved MarkdownConverter | DevTools |
