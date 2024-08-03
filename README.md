@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-08-02</p>**
+**<p align="right">2024-08-03</p>**
 
 - **Task Description**:  
 
-Today, I implemented and tested a .bat script for running the Notebookify project. This included starting a new terminal, setting up a clean environment, executing the main script, and ensuring the terminal processes terminated correctly. I also finished addressing minor bugs and import issues caused by earlier refactoring. With these fixes, the repository is cohesive and functional for future development, wrapping up both tasks efficiently.
+Today, I worked on improving the shell script for the Notebookify commits repository. Addressed key issues, including debugging environment activation, handling relative paths, and ensuring compatibility across setups. Fixed a major bug where script paths were hardcoded, making it difficult to share or use generically. The updated script dynamically detects the Conda base, resolves relative paths for the Python script, and provides clear error messages if Conda is not installed or misconfigured. This update ensures portability and reduces redundancy in setup management.
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|172| 2024-08-03 | [Notebookify](https://github.com/Ramsi-K/notebookify): Refactored shell script for environment activation and execution reliability | DevTools |
 |171| 2024-08-02 | [Notebookify](https://github.com/Ramsi-K/notebookify): Tested and improved .bat script; resolved refactoring import issues | DevTools |
 |170| 2024-08-01 | [Notebookify](https://github.com/Ramsi-K/notebookify): Centralized batch processing, improved metadata, and refactored CLI tools | DevTools |
 |169| 2024-07-31 | [Notebookify](https://github.com/Ramsi-K/notebookify): Enhanced main.py with metadata, CLI help, and Drive integration | DevTools |
