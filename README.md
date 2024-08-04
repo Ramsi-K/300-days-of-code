@@ -32,13 +32,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-### [Notebookify](https://github.com/Ramsi-K/notebookify)
+### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
-**<p align="right">2024-08-03</p>**
+**<p align="right">2024-08-04</p>**
 
 - **Task Description**:  
 
-Today, I worked on improving the shell script for the Notebookify commits repository. Addressed key issues, including debugging environment activation, handling relative paths, and ensuring compatibility across setups. Fixed a major bug where script paths were hardcoded, making it difficult to share or use generically. The updated script dynamically detects the Conda base, resolves relative paths for the Python script, and provides clear error messages if Conda is not installed or misconfigured. This update ensures portability and reduces redundancy in setup management.
+[LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [PlusOne](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0066-plus-one/); [AddBinary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0067-add-binary/); [SimplifyPath](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0071-simplify-path/)
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|173| 2024-08-04 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [PlusOne](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0066-plus-one/); [AddBinary](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0067-add-binary/); [SimplifyPath](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0071-simplify-path/) | DSA |
 |172| 2024-08-03 | [Notebookify](https://github.com/Ramsi-K/notebookify): Refactored shell script for environment activation and execution reliability | DevTools |
 |171| 2024-08-02 | [Notebookify](https://github.com/Ramsi-K/notebookify): Tested and improved .bat script; resolved refactoring import issues | DevTools |
 |170| 2024-08-01 | [Notebookify](https://github.com/Ramsi-K/notebookify): Centralized batch processing, improved metadata, and refactored CLI tools | DevTools |
