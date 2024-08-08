@@ -34,11 +34,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 
 ### [Notebookify](https://github.com/Ramsi-K/notebookify)
 
-**<p align="right">2024-08-07</p>**
+**<p align="right">2024-08-08</p>**
 
 - **Task Description**:  
 
- Simplified complex logic within scripts, with specific attention to Google Drive export compatibility. Improved performance, ensuring seamless file uploads to Drive without errors.
+Refactored the CLI for better usability. Removed unnecessary commands and added clearer error messages. Streamlined the command-line interface, making it more intuitive for users.
 
 ---
 
@@ -183,6 +183,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|177| 2024-08-08 | [Notebookify](https://github.com/Ramsi-K/notebookify): Refactored CLI and removed bloat for improved usability | DevTools |
 |176| 2024-08-07 | [Notebookify](https://github.com/Ramsi-K/notebookify): Simplified script logic; ensured compatibility with Drive integration | DevTools |
 |175| 2024-08-06 | [Notebookify](https://github.com/Ramsi-K/notebookify): Reviewed scripts for inefficiencies and identified redundant features | DevTools |
 |174| 2024-08-05 | [Notebookify](https://github.com/Ramsi-K/notebookify): Debugged script flow and resolved tracing-related issues | DevTools |
