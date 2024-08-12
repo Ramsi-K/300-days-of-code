@@ -35,16 +35,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 <!-- ### [Notebookify](https://github.com/Ramsi-K/notebookify) -->
 ### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
-**<p align="right">2024-08-11</p>**
+**<p align="right">2024-08-12</p>**
 
 - **Task Description**:  
 
-[ImmediateFoodDelivery](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1174-immediate-food-delivery-ii/);
-[MaxNumBalloons](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1189-maximum-number-of-balloons/);
-[MonthlyTransactions](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1193-monthly-transactions-i/);
-[LastPersonToFit](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1204-last-person-to-fit-in-the-bus/);
-[QueriesQualityAndPercentage](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1211-queries-quality-and-percentage/)
-
+ [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [ImmediateFoodDelivery](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1174-immediate-food-delivery-ii/); [MaxNumBalloons](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1189-maximum-number-of-balloons/)
 ---
 
 ## <center>The Challenge
@@ -77,7 +72,42 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
 
 ## 30-Day Coding Sprints: Project Highlights
 
-## Latest Sprint: Days 121-150 Highlights
+### Latest Sprint: Days 151-180 Highlights
+
+1. **Notebookify Iterative Development**:  
+   - Addressed complex debugging challenges, such as folder creation logic and `.bat` script inconsistencies, showcasing problem-solving under pressure.  
+   - Made steady progress in batch processing workflows, laying the foundation for future stability and scalability.  
+   - Refactored portions of the codebase to identify inefficiencies, improving modularity and maintainability.  
+   - Continued to refine the vision for the tool, despite setbacks, demonstrating resilience and adaptability.
+
+2. **LeetCode Problem Solving**:  
+   - Tackled a variety of SQL and Python challenges, enhancing skills in data manipulation, logical reasoning, and algorithm optimization.  
+   - Solved problems related to dynamic programming, arrays, and real-world data scenarios, ensuring consistent progress and skill enhancement.  
+   - Focused on a balance of difficulty levels to reinforce learning across key domains.
+
+3. **Portfolio Refinement**:  
+   - Reorganized repositories to improve clarity and emphasize individual contributions.  
+   - Enhanced documentation across multiple projects, highlighting functionality and goals for potential collaborators or employers.  
+   - Identified strategic priorities for upcoming work, ensuring focused efforts on impactful areas.
+
+4. **Exploration of 3D Vision**:  
+   - Revisited depth estimation workflows and explored advanced visualization techniques with Open3D.  
+   - Reviewed datasets and prepared for deeper dives into 3D reconstruction and monocular depth estimation.  
+
+---
+
+### Key Themes
+
+- **Resilience in Development**: Overcame significant challenges in Notebookify while making iterative progress and refining its core vision.  
+- **Consistent Technical Growth**: Balanced problem-solving across SQL, Python, and 3D vision domains to maintain diverse expertise.  
+- **Portfolio Enhancements**: Focused on repository reorganization and documentation for long-term professional impact.  
+- **Future-Ready Exploration**: Built a foundation for deeper 3D vision work, aligning with long-term project goals.
+
+
+<details>
+  <summary>Archived 30-Day Sprints</summary>
+
+### Archived Sprint: Days 121-150 Highlights
 
 1. **Notebookify Development**:  
    - Expanded functionality with advanced Jinja2 templates for diverse output formats and improved Plotly static snapshot handling.  
@@ -113,10 +143,7 @@ Embark on a thrilling 300-day coding odyssey, a quest where every day is a new a
 - **3D Vision Exploration**: Progressed in monocular depth estimation and visualization techniques with practical applications.  
 - **Consistent Skill Development**: Balanced technical challenges across LeetCode and DSA to maintain diverse skills.  
 
-<details>
-  <summary>Archived 30-Day Sprints</summary>
-
-### Latest Sprint: Days 91-120 Highlights
+### Archived Sprint: Days 91-120 Highlights
 
 1. **YOLOv3 Implementation**:  
    - Focused on debugging and refining YOLOv3 components, including the loss function, target assignment, and bounding box handling.  
@@ -188,6 +215,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|181 | 2024-08-12 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [ImmediateFoodDelivery](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1174-immediate-food-delivery-ii/); [MaxNumBalloons](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1189-maximum-number-of-balloons/) | DSA |
 |180 | 2024-08-11 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [ImmediateFoodDelivery](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1174-immediate-food-delivery-ii/); [MaxNumBalloons](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1189-maximum-number-of-balloons/); [MonthlyTransactions](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1193-monthly-transactions-i/); [LastPersonToFit](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1204-last-person-to-fit-in-the-bus/); [QueriesQualityAndPercentage](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1211-queries-quality-and-percentage/) | DSA |
 |179| 2024-08-10 | [Notebookify](https://github.com/Ramsi-K/notebookify): Reached final stable version; completed modular integration | DevTools |
 |178| 2024-08-09 | [Notebookify](https://github.com/Ramsi-K/notebookify): Finalized testing and validated stable functionality | DevTools |
