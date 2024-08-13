@@ -35,11 +35,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 <!-- ### [Notebookify](https://github.com/Ramsi-K/notebookify) -->
 ### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
-**<p align="right">2024-08-12</p>**
+**<p align="right">2024-08-13</p>**
 
 - **Task Description**:  
 
- [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [ImmediateFoodDelivery](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1174-immediate-food-delivery-ii/); [MaxNumBalloons](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1189-maximum-number-of-balloons/)
+[0933-number-of-recent-calls](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0933-number-of-recent-calls/); [0682-baseball-game](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0682-baseball-game/)
 ---
 
 ## <center>The Challenge
@@ -215,6 +215,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|182 | 2024-08-13 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0933-number-of-recent-calls](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0933-number-of-recent-calls/); [0682-baseball-game](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0682-baseball-game/) | DSA |
 |181 | 2024-08-12 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [ImmediateFoodDelivery](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1174-immediate-food-delivery-ii/); [MaxNumBalloons](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1189-maximum-number-of-balloons/) | DSA |
 |180 | 2024-08-11 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [ImmediateFoodDelivery](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1174-immediate-food-delivery-ii/); [MaxNumBalloons](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1189-maximum-number-of-balloons/); [MonthlyTransactions](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1193-monthly-transactions-i/); [LastPersonToFit](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1204-last-person-to-fit-in-the-bus/); [QueriesQualityAndPercentage](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1211-queries-quality-and-percentage/) | DSA |
 |179| 2024-08-10 | [Notebookify](https://github.com/Ramsi-K/notebookify): Reached final stable version; completed modular integration | DevTools |
