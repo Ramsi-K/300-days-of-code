@@ -35,11 +35,12 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 <!-- ### [Notebookify](https://github.com/Ramsi-K/notebookify) -->
 ### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
-**<p align="right">2024-08-13</p>**
+**<p align="right">2024-08-14</p>**
 
 - **Task Description**:  
 
-[0933-number-of-recent-calls](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0933-number-of-recent-calls/); [0682-baseball-game](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0682-baseball-game/)
+[0557-reverse-words-in-a-string-iii](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0557-reverse-words-in-a-string-iii/); [0409-longest-palindrome](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0409-longest-palindrome/) 
+
 ---
 
 ## <center>The Challenge
@@ -215,6 +216,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|183 | 2024-08-14 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0557-reverse-words-in-a-string-iii](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0557-reverse-words-in-a-string-iii/); [0409-longest-palindrome](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0409-longest-palindrome/) | DSA |
 |182 | 2024-08-13 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0933-number-of-recent-calls](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0933-number-of-recent-calls/); [0682-baseball-game](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0682-baseball-game/) | DSA |
 |181 | 2024-08-12 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [ImmediateFoodDelivery](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1174-immediate-food-delivery-ii/); [MaxNumBalloons](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1189-maximum-number-of-balloons/) | DSA |
 |180 | 2024-08-11 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [ImmediateFoodDelivery](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1174-immediate-food-delivery-ii/); [MaxNumBalloons](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1189-maximum-number-of-balloons/); [MonthlyTransactions](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1193-monthly-transactions-i/); [LastPersonToFit](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1204-last-person-to-fit-in-the-bus/); [QueriesQualityAndPercentage](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1211-queries-quality-and-percentage/) | DSA |
