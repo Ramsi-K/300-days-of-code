@@ -35,11 +35,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 <!-- ### [Notebookify](https://github.com/Ramsi-K/notebookify) -->
 ### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
-**<p align="right">2024-08-16</p>**
+**<p align="right">2024-08-17</p>**
 
 - **Task Description**:  
 
-[0929-unique-email-addresses](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0929-unique-email-addresses/); [0696-count-binary-substrings](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0696-count-binary-substrings/)
+[0383-ransom-note](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0383-ransom-note/); [0171-excel-sheet-column-number](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0171-excel-sheet-column-number/); [0118-pascals-triangle](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0118-pascals-triangle/) 
 
 ---
 
@@ -216,6 +216,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|186 | 2024-08-17 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0383-ransom-note](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0383-ransom-note/); [0171-excel-sheet-column-number](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0171-excel-sheet-column-number/); [0118-pascals-triangle](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0118-pascals-triangle/) | DSA |
 |185 | 2024-08-16 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0929-unique-email-addresses](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0929-unique-email-addresses/); [0696-count-binary-substrings](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0696-count-binary-substrings/) | DSA |
 |184 | 2024-08-15 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0859-buddy-strings](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0859-buddy-strings/); [0844-backspace-string-compare](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0844-backspace-string-compare/); [1002-find-common-characters](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1002-find-common-characters/) | DSA |
 |183 | 2024-08-14 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0557-reverse-words-in-a-string-iii](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0557-reverse-words-in-a-string-iii/); [0409-longest-palindrome](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0409-longest-palindrome/) | DSA |
