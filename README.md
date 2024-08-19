@@ -35,11 +35,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 <!-- ### [Notebookify](https://github.com/Ramsi-K/notebookify) -->
 ### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
-**<p align="right">2024-08-18</p>**
+**<p align="right">2024-08-19</p>**
 
 - **Task Description**:  
 
-[0242-valid-anagram](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0242-valid-anagram/); [0224-basic-calculator](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0224-basic-calculator/) 
+[0389-find-the-difference](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0389-find-the-difference/); [0709-to-lower-case](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0709-to-lower-case/); [0168-excel-sheet-column-title](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0168-excel-sheet-column-title/)
 
 ---
 
@@ -216,6 +216,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|188 | 2024-08-19 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0389-find-the-difference](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0389-find-the-difference/); [0709-to-lower-case](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0709-to-lower-case/); [0168-excel-sheet-column-title](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0168-excel-sheet-column-title/) | DSA |
 |187 | 2024-08-18 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0242-valid-anagram](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0242-valid-anagram/); [0224-basic-calculator](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0224-basic-calculator/) | DSA |
 |186 | 2024-08-17 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0383-ransom-note](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0383-ransom-note/); [0171-excel-sheet-column-number](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0171-excel-sheet-column-number/); [0118-pascals-triangle](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0118-pascals-triangle/) | DSA |
 |185 | 2024-08-16 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0929-unique-email-addresses](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0929-unique-email-addresses/); [0696-count-binary-substrings](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0696-count-binary-substrings/) | DSA |
