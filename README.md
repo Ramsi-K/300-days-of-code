@@ -35,11 +35,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 <!-- ### [Notebookify](https://github.com/Ramsi-K/notebookify) -->
 ### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
-**<p align="right">2024-08-20</p>**
+**<p align="right">2024-08-21</p>**
 
 - **Task Description**:  
 
-[0500-keyboard-row](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0500-keyboard-row/); [0796-rotate-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0796-rotate-string/)
+[0551-student-attendance-record-i](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0551-student-attendance-record-i/); [0680-valid-palindrome-ii](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0680-valid-palindrome-ii/)
 
 ---
 
@@ -216,6 +216,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|190 | 2024-08-21 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0551-student-attendance-record-i](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0551-student-attendance-record-i/); [0680-valid-palindrome-ii](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0680-valid-palindrome-ii/) | DSA |
 |189 | 2024-08-20 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0500-keyboard-row](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0500-keyboard-row/); [0796-rotate-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0796-rotate-string/) | DSA |
 |188 | 2024-08-19 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0389-find-the-difference](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0389-find-the-difference/); [0709-to-lower-case](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0709-to-lower-case/); [0168-excel-sheet-column-title](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0168-excel-sheet-column-title/) | DSA |
 |187 | 2024-08-18 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0242-valid-anagram](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0242-valid-anagram/); [0224-basic-calculator](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0224-basic-calculator/) | DSA |
