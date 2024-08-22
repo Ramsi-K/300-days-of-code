@@ -35,11 +35,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 <!-- ### [Notebookify](https://github.com/Ramsi-K/notebookify) -->
 ### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
-**<p align="right">2024-08-21</p>**
+**<p align="right">2024-08-22</p>**
 
 - **Task Description**:  
 
-[0551-student-attendance-record-i](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0551-student-attendance-record-i/); [0680-valid-palindrome-ii](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0680-valid-palindrome-ii/)
+[0921-minimum-add-to-make-parentheses-valid](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0921-minimum-add-to-make-parentheses-valid/); [0345-reverse-vowels-of-a-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0345-reverse-vowels-of-a-string/); [0344-reverse-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0344-reverse-string/) 
 
 ---
 
@@ -216,6 +216,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|191 | 2024-08-22 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0921-minimum-add-to-make-parentheses-valid/); [0345-reverse-vowels-of-a-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0345-reverse-vowels-of-a-string/); [0344-reverse-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0344-reverse-string/) | DSA |
 |190 | 2024-08-21 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0551-student-attendance-record-i](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0551-student-attendance-record-i/); [0680-valid-palindrome-ii](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0680-valid-palindrome-ii/) | DSA |
 |189 | 2024-08-20 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0500-keyboard-row](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0500-keyboard-row/); [0796-rotate-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0796-rotate-string/) | DSA |
 |188 | 2024-08-19 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0389-find-the-difference](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0389-find-the-difference/); [0709-to-lower-case](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0709-to-lower-case/); [0168-excel-sheet-column-title](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0168-excel-sheet-column-title/) | DSA |
