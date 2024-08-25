@@ -35,11 +35,11 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 <!-- ### [Notebookify](https://github.com/Ramsi-K/notebookify) -->
 ### [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/)
 
-**<p align="right">2024-08-24</p>**
+**<p align="right">2024-08-25</p>**
 
 - **Task Description**:  
 
-[0412-fizz-buzz](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0412-fizz-buzz/); [0434-number-of-segments-in-a-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0434-number-of-segments-in-a-string/)
+[0592-fraction-addition-and-subtraction](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0592-fraction-addition-and-subtraction/); [0884-uncommon-words-from-two-sentences](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0884-uncommon-words-from-two-sentences/)
 
 ---
 
@@ -216,6 +216,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|194 | 2024-08-25 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0592-fraction-addition-and-subtraction](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0592-fraction-addition-and-subtraction/); [0884-uncommon-words-from-two-sentences](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0884-uncommon-words-from-two-sentences/) | DSA |
 |193 | 2024-08-24 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0412-fizz-buzz](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0412-fizz-buzz/); [0434-number-of-segments-in-a-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0434-number-of-segments-in-a-string/) | DSA |
 |192 | 2024-08-23 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [1071-greatest-common-divisor-of-strings](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/1071-greatest-common-divisor-of-strings/); [0925-long-pressed-name](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0925-long-pressed-name/) | DSA |
 |191 | 2024-08-22 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0921-minimum-add-to-make-parentheses-valid/); [0345-reverse-vowels-of-a-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0345-reverse-vowels-of-a-string/); [0344-reverse-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0344-reverse-string/) | DSA |
