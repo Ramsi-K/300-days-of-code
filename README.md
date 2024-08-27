@@ -33,13 +33,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 --------------------------------------------------------------------------------------------- -->
 
 <!-- ### [Notebookify](https://github.com/Ramsi-K/notebookify) -->
-### [Silly Name Generator](https://github.com/Ramsi-K/python-projects/tree/main/Silly-Name-Generator)
+### [Palindrome and Palingram Finder](https://github.com/Ramsi-K/python-projects/tree/main/Palindrome-Palingram)
 
-**<p align="right">2024-08-26</p>**
+**<p align="right">2024-08-27</p>**
 
 - **Task Description**:  
 
-Today, I completed the Silly Name Generator project. The code went through multiple iterations, starting with a basic implementation in pseudonyms.py and ending with a fully polished version in pseudonyms_main_fixed.py. I ensured compliance with PEP8, PEP257, and pylint, which improved code readability and quality. Additionally, I explored and implemented practice projects, including a Pig Latin translator and a bar chart generator. This exercise reinforced the importance of adhering to coding standards and iterative refactoring.
+I completed the Palindrome and Palingram Finder project. The project included scripts for finding simple palindromes (`palindromes.py`) and palingrams (`palingrams.py`). I optimized the palingram search using sets in `palingrams_optimized.py`, significantly improving performance compared to lists. Profiling was done using cProfile and timing functions (palingrams_timed.py), which provided insights into bottlenecks and optimization opportunities. This project highlighted the importance of analyzing code efficiency and leveraging data structures for better performance.
 
 ---
 
@@ -216,6 +216,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|196 | 2024-08-27 | Optimized [Palingram Finder](https://github.com/Ramsi-K/python-projects/tree/main/Palindrome-Palingram) and explored performance benefits of sets vs lists | Python |
 |195 | 2024-08-26 | Completed [Silly Name Generator](https://github.com/Ramsi-K/python-projects/tree/main/Silly-Name-Generator) with PEP8, PEP257, and pylint compliance | Python |
 |194 | 2024-08-25 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [Fraction-addition-and-subtraction](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0592-fraction-addition-and-subtraction/); [Uncommon-words-from-two-sentences](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0884-uncommon-words-from-two-sentences/) | DSA |
 |193 | 2024-08-24 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [Fizz-buzz](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0412-fizz-buzz/); [Number-of-segments-in-a-string](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0434-number-of-segments-in-a-string/) | DSA |
