@@ -33,13 +33,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 --------------------------------------------------------------------------------------------- -->
 
 <!-- ### [Notebookify](https://github.com/Ramsi-K/notebookify) -->
-### [Palindrome and Palingram Finder](https://github.com/Ramsi-K/python-projects/tree/main/Palindrome-Palingram)
+### [Anagram and Phrase Anagram](https://github.com/Ramsi-K/python-projects/tree/main/Phrase-Anagrams)
 
-**<p align="right">2024-08-27</p>**
+**<p align="right">2024-08-28</p>**
 
 - **Task Description**:  
 
-I completed the Palindrome and Palingram Finder project. The project included scripts for finding simple palindromes (`palindromes.py`) and palingrams (`palingrams.py`). I optimized the palingram search using sets in `palingrams_optimized.py`, significantly improving performance compared to lists. Profiling was done using cProfile and timing functions (palingrams_timed.py), which provided insights into bottlenecks and optimization opportunities. This project highlighted the importance of analyzing code efficiency and leveraging data structures for better performance.
+Today, I worked on solving anagrams and phrase anagrams. The process began with creating `anagrams.py`, a program to find single-word anagrams using a dictionary. I then extended this into `phrase_anagrams.py` to handle multi-word anagrams interactively, allowing users to form valid phrases by selecting partial anagrams. Finally, I tackled the Voldemort anagram challenge using `voldemort_british.py`, which brute-forces the solution through permutations, applying cryptanalytical techniques like CV mapping, filtering with digrams and trigrams, and allowing user selection of starting letters. This project taught me about optimizing brute-force techniques, leveraging Python's `itertools`, and working with the `collections` module for advanced text analysis.
 
 ---
 
@@ -216,6 +216,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|197 | 2024-08-28 | Completed [anagram and phrase anagram](https://github.com/Ramsi-K/python-projects/tree/main/Phrase-Anagrams) project with Voldemort brute-force solver | Python |
 |196 | 2024-08-27 | Optimized [Palingram Finder](https://github.com/Ramsi-K/python-projects/tree/main/Palindrome-Palingram) and explored performance benefits of sets vs lists | Python |
 |195 | 2024-08-26 | Completed [Silly Name Generator](https://github.com/Ramsi-K/python-projects/tree/main/Silly-Name-Generator) with PEP8, PEP257, and pylint compliance | Python |
 |194 | 2024-08-25 | [LeetCode](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/): [Fraction-addition-and-subtraction](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0592-fraction-addition-and-subtraction/); [Uncommon-words-from-two-sentences](https://github.com/Ramsi-K/python-projects/tree/main/LeetCode-solutions/0884-uncommon-words-from-two-sentences/) | DSA |
