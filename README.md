@@ -33,13 +33,13 @@ Welcome to my 300-day coding challenge focused on vision technologies! This repo
 --------------------------------------------------------------------------------------------- -->
 
 <!-- ### [Notebookify](https://github.com/Ramsi-K/notebookify) -->
-### [Anagram and Phrase Anagram](https://github.com/Ramsi-K/python-projects/tree/main/Phrase-Anagrams)
+### [American Civil War Ciphers](https://github.com/Ramsi-K/python-projects/tree/main/Route-and-Rail-Ciphers)
 
-**<p align="right">2024-08-28</p>**
+**<p align="right">2024-08-29</p>**
 
 - **Task Description**:  
 
-Today, I worked on solving anagrams and phrase anagrams. The process began with creating `anagrams.py`, a program to find single-word anagrams using a dictionary. I then extended this into `phrase_anagrams.py` to handle multi-word anagrams interactively, allowing users to form valid phrases by selecting partial anagrams. Finally, I tackled the Voldemort anagram challenge using `voldemort_british.py`, which brute-forces the solution through permutations, applying cryptanalytical techniques like CV mapping, filtering with digrams and trigrams, and allowing user selection of starting letters. This project taught me about optimizing brute-force techniques, leveraging Python's `itertools`, and working with the `collections` module for advanced text analysis.
+Today, I worked on decoding American Civil War ciphers. I started by implementing the Route Cipher, writing `route_cipher_decrypt_prototype.py` as an initial test and refining it into `route_cipher_decrypt.py`. Then, I created `route_cipher_hacker.py` to brute-force different possible cipher keys. Next, I implemented the Rail Fence Cipher, completing both `rail_fence_cipher_encrypt.py` and `rail_fence_cipher_decrypt.py` to encode and decode messages. I also explored cipher classification with `identify_cipher_type_practice.py` and experimented with permutations in `perms.py` and `permutations_practice.py`. Lastly, I worked on using dictionaries to store cipher keys efficiently in `key_dictionary_practice.py`. This chapter deepened my understanding of classical cryptographic techniques and the power of brute-force decryption.
 
 ---
 
@@ -216,6 +216,7 @@ Here's a log of the daily tasks completed during the coding challenge:
 
 | Day | Date       | Task Description                                       | Tags|
 |----|----------------|:--------------------------------------------------------:|-------|
+|198 | 2024-08-29 | Implemented [American Civil War route and rail type ciphers](https://github.com/Ramsi-K/python-projects/tree/main/Route-and-Rail-Ciphers) encryption, decryption, and brute-force attacks | Python |
 |197 | 2024-08-28 | Completed [anagram and phrase anagram](https://github.com/Ramsi-K/python-projects/tree/main/Phrase-Anagrams) project with Voldemort brute-force solver | Python |
 |196 | 2024-08-27 | Optimized [Palingram Finder](https://github.com/Ramsi-K/python-projects/tree/main/Palindrome-Palingram) and explored performance benefits of sets vs lists | Python |
 |195 | 2024-08-26 | Completed [Silly Name Generator](https://github.com/Ramsi-K/python-projects/tree/main/Silly-Name-Generator) with PEP8, PEP257, and pylint compliance | Python |
